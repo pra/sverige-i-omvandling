@@ -1,0 +1,9 @@
+# Källa: Kjellberg 2024, Tabell 11A (täckningsgrad 16-64 år, %) och Tabell 22 (småföretag med kollektiv- eller hängavtal, Sifo/Novus för Företagarna).
+serie,kategori,2010,2015,1995,2000,2005,2021
+tackning,privat sektor,84,85,90,81,84,82
+tackning,offentlig sektor,100,100,100,100,100,100
+tackning,alla,89,90,94,88,89,88
+smaforetag_med_avtal,1-4 anställda,33,32,,,,
+smaforetag_med_avtal,5-19 anställda,68,69,,,,
+smaforetag_med_avtal,20-49 anställda,87,83.5,,,,
+smaforetag_med_avtal,1-49 anställda,42,39,,,,

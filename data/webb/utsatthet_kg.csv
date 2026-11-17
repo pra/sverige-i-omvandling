@@ -1,0 +1,341 @@
+indikator,ar,kommungrupp,varde
+industri_andel_dag,1990,Storstäder,15.1
+industri_andel_dag,1990,Pendling nära storstad,16.1
+industri_andel_dag,1990,Större städer,19.7
+industri_andel_dag,1990,Pendling nära större stad,28.2
+industri_andel_dag,1990,Lågpendling nära större stad,29.5
+industri_andel_dag,1990,Mindre städer,24.5
+industri_andel_dag,1990,Pendling nära mindre tätort,33.4
+industri_andel_dag,1990,Landsbygd,26.8
+industri_andel_dag,1990,Landsbygd med besöksnäring,19.8
+industri_andel_dag,1990,Riket,21.8
+industri_andel_dag,2024,Storstäder,5.5
+industri_andel_dag,2024,Pendling nära storstad,7.1
+industri_andel_dag,2024,Större städer,9.8
+industri_andel_dag,2024,Pendling nära större stad,15.6
+industri_andel_dag,2024,Lågpendling nära större stad,19.7
+industri_andel_dag,2024,Mindre städer,15.2
+industri_andel_dag,2024,Pendling nära mindre tätort,22.6
+industri_andel_dag,2024,Landsbygd,19.1
+industri_andel_dag,2024,Landsbygd med besöksnäring,12.5
+industri_andel_dag,2024,Riket,11.2
+bygg_andel_man,1993,Storstäder,7.5
+bygg_andel_man,1993,Pendling nära storstad,11.5
+bygg_andel_man,1993,Större städer,10.7
+bygg_andel_man,1993,Pendling nära större stad,12.9
+bygg_andel_man,1993,Lågpendling nära större stad,10.9
+bygg_andel_man,1993,Mindre städer,11.6
+bygg_andel_man,1993,Pendling nära mindre tätort,10.7
+bygg_andel_man,1993,Landsbygd,11.6
+bygg_andel_man,1993,Landsbygd med besöksnäring,13.5
+bygg_andel_man,1993,Riket,10.8
+bygg_andel_man,2024,Storstäder,7.3
+bygg_andel_man,2024,Pendling nära storstad,13.6
+bygg_andel_man,2024,Större städer,10.8
+bygg_andel_man,2024,Pendling nära större stad,16.9
+bygg_andel_man,2024,Lågpendling nära större stad,14.2
+bygg_andel_man,2024,Mindre städer,13.9
+bygg_andel_man,2024,Pendling nära mindre tätort,14.1
+bygg_andel_man,2024,Landsbygd,15.2
+bygg_andel_man,2024,Landsbygd med besöksnäring,17.5
+bygg_andel_man,2024,Riket,12.3
+egenforetagare_andel,2024,Storstäder,9.6
+egenforetagare_andel,2024,Pendling nära storstad,10.6
+egenforetagare_andel,2024,Större städer,7.8
+egenforetagare_andel,2024,Pendling nära större stad,11.1
+egenforetagare_andel,2024,Lågpendling nära större stad,10.1
+egenforetagare_andel,2024,Mindre städer,10.0
+egenforetagare_andel,2024,Pendling nära mindre tätort,11.8
+egenforetagare_andel,2024,Landsbygd,12.2
+egenforetagare_andel,2024,Landsbygd med besöksnäring,16.0
+egenforetagare_andel,2024,Riket,9.9
+utrikes_andel_syss_dag,2024,Storstäder,28.4
+utrikes_andel_syss_dag,2024,Pendling nära storstad,28.2
+utrikes_andel_syss_dag,2024,Större städer,21.7
+utrikes_andel_syss_dag,2024,Pendling nära större stad,18.4
+utrikes_andel_syss_dag,2024,Lågpendling nära större stad,17.5
+utrikes_andel_syss_dag,2024,Mindre städer,15.5
+utrikes_andel_syss_dag,2024,Pendling nära mindre tätort,16.5
+utrikes_andel_syss_dag,2024,Landsbygd,14.9
+utrikes_andel_syss_dag,2024,Landsbygd med besöksnäring,14.7
+utrikes_andel_syss_dag,2024,Riket,22.3
+infokomm_andel_natt,2008,Storstäder,7.2
+infokomm_andel_natt,2008,Pendling nära storstad,5.7
+infokomm_andel_natt,2008,Större städer,3.5
+infokomm_andel_natt,2008,Pendling nära större stad,1.8
+infokomm_andel_natt,2008,Lågpendling nära större stad,1.4
+infokomm_andel_natt,2008,Mindre städer,2.1
+infokomm_andel_natt,2008,Pendling nära mindre tätort,1.3
+infokomm_andel_natt,2008,Landsbygd,1.2
+infokomm_andel_natt,2008,Landsbygd med besöksnäring,1.2
+infokomm_andel_natt,2008,Riket,3.8
+infokomm_andel_natt,2024,Storstäder,8.6
+infokomm_andel_natt,2024,Pendling nära storstad,6.7
+infokomm_andel_natt,2024,Större städer,3.9
+infokomm_andel_natt,2024,Pendling nära större stad,2.3
+infokomm_andel_natt,2024,Lågpendling nära större stad,1.6
+infokomm_andel_natt,2024,Mindre städer,2.4
+infokomm_andel_natt,2024,Pendling nära mindre tätort,1.6
+infokomm_andel_natt,2024,Landsbygd,1.2
+infokomm_andel_natt,2024,Landsbygd med besöksnäring,1.4
+infokomm_andel_natt,2024,Riket,4.6
+offentlig_andel_dag,1993,Storstäder,29.6
+offentlig_andel_dag,1993,Pendling nära storstad,36.4
+offentlig_andel_dag,1993,Större städer,39.8
+offentlig_andel_dag,1993,Pendling nära större stad,36.8
+offentlig_andel_dag,1993,Lågpendling nära större stad,38.1
+offentlig_andel_dag,1993,Mindre städer,40.2
+offentlig_andel_dag,1993,Pendling nära mindre tätort,35.1
+offentlig_andel_dag,1993,Landsbygd,39.7
+offentlig_andel_dag,1993,Landsbygd med besöksnäring,37.3
+offentlig_andel_dag,1993,Riket,36.9
+offentlig_andel_dag,2024,Storstäder,21.2
+offentlig_andel_dag,2024,Pendling nära storstad,26.2
+offentlig_andel_dag,2024,Större städer,34.4
+offentlig_andel_dag,2024,Pendling nära större stad,32.2
+offentlig_andel_dag,2024,Lågpendling nära större stad,33.0
+offentlig_andel_dag,2024,Mindre städer,34.1
+offentlig_andel_dag,2024,Pendling nära mindre tätort,32.0
+offentlig_andel_dag,2024,Landsbygd,33.1
+offentlig_andel_dag,2024,Landsbygd med besöksnäring,29.3
+offentlig_andel_dag,2024,Riket,29.8
+valfard_andel_kvinnor,1993,Storstäder,41.5
+valfard_andel_kvinnor,1993,Pendling nära storstad,43.7
+valfard_andel_kvinnor,1993,Större städer,51.1
+valfard_andel_kvinnor,1993,Pendling nära större stad,50.8
+valfard_andel_kvinnor,1993,Lågpendling nära större stad,53.3
+valfard_andel_kvinnor,1993,Mindre städer,52.8
+valfard_andel_kvinnor,1993,Pendling nära mindre tätort,50.6
+valfard_andel_kvinnor,1993,Landsbygd,54.7
+valfard_andel_kvinnor,1993,Landsbygd med besöksnäring,51.5
+valfard_andel_kvinnor,1993,Riket,48.9
+valfard_andel_kvinnor,2024,Storstäder,34.2
+valfard_andel_kvinnor,2024,Pendling nära storstad,37.1
+valfard_andel_kvinnor,2024,Större städer,45.3
+valfard_andel_kvinnor,2024,Pendling nära större stad,47.0
+valfard_andel_kvinnor,2024,Lågpendling nära större stad,49.2
+valfard_andel_kvinnor,2024,Mindre städer,47.6
+valfard_andel_kvinnor,2024,Pendling nära mindre tätort,49.0
+valfard_andel_kvinnor,2024,Landsbygd,49.3
+valfard_andel_kvinnor,2024,Landsbygd med besöksnäring,43.9
+valfard_andel_kvinnor,2024,Riket,42.6
+laginkomst_20_64,2011,Storstäder,15.3
+laginkomst_20_64,2011,Pendling nära storstad,8.7
+laginkomst_20_64,2011,Större städer,14.0
+laginkomst_20_64,2011,Pendling nära större stad,11.0
+laginkomst_20_64,2011,Lågpendling nära större stad,12.2
+laginkomst_20_64,2011,Mindre städer,10.6
+laginkomst_20_64,2011,Pendling nära mindre tätort,11.9
+laginkomst_20_64,2011,Landsbygd,12.8
+laginkomst_20_64,2011,Landsbygd med besöksnäring,13.1
+laginkomst_20_64,2011,Riket,12.3
+laginkomst_20_64,2024,Storstäder,13.7
+laginkomst_20_64,2024,Pendling nära storstad,8.6
+laginkomst_20_64,2024,Större städer,14.9
+laginkomst_20_64,2024,Pendling nära större stad,12.4
+laginkomst_20_64,2024,Lågpendling nära större stad,14.6
+laginkomst_20_64,2024,Mindre städer,11.7
+laginkomst_20_64,2024,Pendling nära mindre tätort,14.7
+laginkomst_20_64,2024,Landsbygd,14.9
+laginkomst_20_64,2024,Landsbygd med besöksnäring,11.1
+laginkomst_20_64,2024,Riket,12.8
+laginkomst_utrikes,2024,Storstäder,21.6
+laginkomst_utrikes,2024,Pendling nära storstad,15.5
+laginkomst_utrikes,2024,Större städer,27.2
+laginkomst_utrikes,2024,Pendling nära större stad,26.0
+laginkomst_utrikes,2024,Lågpendling nära större stad,31.0
+laginkomst_utrikes,2024,Mindre städer,25.1
+laginkomst_utrikes,2024,Pendling nära mindre tätort,31.0
+laginkomst_utrikes,2024,Landsbygd,34.1
+laginkomst_utrikes,2024,Landsbygd med besöksnäring,23.4
+laginkomst_utrikes,2024,Riket,24.2
+laginkomst_66p,2011,Storstäder,11.2
+laginkomst_66p,2011,Pendling nära storstad,8.7
+laginkomst_66p,2011,Större städer,12.4
+laginkomst_66p,2011,Pendling nära större stad,15.6
+laginkomst_66p,2011,Lågpendling nära större stad,16.8
+laginkomst_66p,2011,Mindre städer,15.3
+laginkomst_66p,2011,Pendling nära mindre tätort,18.3
+laginkomst_66p,2011,Landsbygd,20.1
+laginkomst_66p,2011,Landsbygd med besöksnäring,21.3
+laginkomst_66p,2011,Riket,13.3
+laginkomst_66p,2024,Storstäder,10.4
+laginkomst_66p,2024,Pendling nära storstad,7.3
+laginkomst_66p,2024,Större städer,9.6
+laginkomst_66p,2024,Pendling nära större stad,9.7
+laginkomst_66p,2024,Lågpendling nära större stad,11.0
+laginkomst_66p,2024,Mindre städer,9.3
+laginkomst_66p,2024,Pendling nära mindre tätort,11.3
+laginkomst_66p,2024,Landsbygd,12.0
+laginkomst_66p,2024,Landsbygd med besöksnäring,10.8
+laginkomst_66p,2024,Riket,9.6
+ekstd_median_20_64,2011,Storstäder,314.4
+ekstd_median_20_64,2011,Pendling nära storstad,339.0
+ekstd_median_20_64,2011,Större städer,297.8
+ekstd_median_20_64,2011,Pendling nära större stad,300.6
+ekstd_median_20_64,2011,Lågpendling nära större stad,295.8
+ekstd_median_20_64,2011,Mindre städer,302.8
+ekstd_median_20_64,2011,Pendling nära mindre tätort,296.0
+ekstd_median_20_64,2011,Landsbygd,285.7
+ekstd_median_20_64,2011,Landsbygd med besöksnäring,294.2
+ekstd_median_20_64,2011,Riket,308.1
+ekstd_median_20_64,2024,Storstäder,369.3
+ekstd_median_20_64,2024,Pendling nära storstad,396.3
+ekstd_median_20_64,2024,Större städer,332.9
+ekstd_median_20_64,2024,Pendling nära större stad,337.8
+ekstd_median_20_64,2024,Lågpendling nära större stad,327.5
+ekstd_median_20_64,2024,Mindre städer,343.3
+ekstd_median_20_64,2024,Pendling nära mindre tätort,327.7
+ekstd_median_20_64,2024,Landsbygd,321.7
+ekstd_median_20_64,2024,Landsbygd med besöksnäring,348.7
+ekstd_median_20_64,2024,Riket,352.7
+arbetsloshet,2024,Storstäder,6.5
+arbetsloshet,2024,Pendling nära storstad,4.5
+arbetsloshet,2024,Större städer,6.0
+arbetsloshet,2024,Pendling nära större stad,5.0
+arbetsloshet,2024,Lågpendling nära större stad,5.7
+arbetsloshet,2024,Mindre städer,4.2
+arbetsloshet,2024,Pendling nära mindre tätort,5.5
+arbetsloshet,2024,Landsbygd,4.9
+arbetsloshet,2024,Landsbygd med besöksnäring,2.9
+arbetsloshet,2024,Riket,5.4
+ek_bistand_andel,1990,Storstäder,8.4
+ek_bistand_andel,1990,Pendling nära storstad,5.2
+ek_bistand_andel,1990,Större städer,6.3
+ek_bistand_andel,1990,Pendling nära större stad,5.2
+ek_bistand_andel,1990,Lågpendling nära större stad,5.9
+ek_bistand_andel,1990,Mindre städer,5.1
+ek_bistand_andel,1990,Pendling nära mindre tätort,5.4
+ek_bistand_andel,1990,Landsbygd,5.5
+ek_bistand_andel,1990,Landsbygd med besöksnäring,4.8
+ek_bistand_andel,1990,Riket,6.0
+ek_bistand_andel,2000,Storstäder,9.9
+ek_bistand_andel,2000,Pendling nära storstad,4.5
+ek_bistand_andel,2000,Större städer,6.8
+ek_bistand_andel,2000,Pendling nära större stad,4.9
+ek_bistand_andel,2000,Lågpendling nära större stad,5.0
+ek_bistand_andel,2000,Mindre städer,4.8
+ek_bistand_andel,2000,Pendling nära mindre tätort,4.5
+ek_bistand_andel,2000,Landsbygd,5.2
+ek_bistand_andel,2000,Landsbygd med besöksnäring,4.6
+ek_bistand_andel,2000,Riket,6.1
+ek_bistand_andel,2024,Storstäder,2.7
+ek_bistand_andel,2024,Pendling nära storstad,1.4
+ek_bistand_andel,2024,Större städer,2.9
+ek_bistand_andel,2024,Pendling nära större stad,2.4
+ek_bistand_andel,2024,Lågpendling nära större stad,3.0
+ek_bistand_andel,2024,Mindre städer,2.3
+ek_bistand_andel,2024,Pendling nära mindre tätort,3.0
+ek_bistand_andel,2024,Landsbygd,3.1
+ek_bistand_andel,2024,Landsbygd med besöksnäring,1.8
+ek_bistand_andel,2024,Riket,2.4
+lgh_aganderatt_andel,1990,Storstäder,13.8
+lgh_aganderatt_andel,1990,Pendling nära storstad,46.8
+lgh_aganderatt_andel,1990,Större städer,35.0
+lgh_aganderatt_andel,1990,Pendling nära större stad,61.3
+lgh_aganderatt_andel,1990,Lågpendling nära större stad,54.3
+lgh_aganderatt_andel,1990,Mindre städer,51.0
+lgh_aganderatt_andel,1990,Pendling nära mindre tätort,62.0
+lgh_aganderatt_andel,1990,Landsbygd,60.6
+lgh_aganderatt_andel,1990,Landsbygd med besöksnäring,67.2
+lgh_aganderatt_andel,1990,Riket,43.7
+lgh_aganderatt_andel,2024,Storstäder,11.5
+lgh_aganderatt_andel,2024,Pendling nära storstad,41.1
+lgh_aganderatt_andel,2024,Större städer,30.0
+lgh_aganderatt_andel,2024,Pendling nära större stad,55.7
+lgh_aganderatt_andel,2024,Lågpendling nära större stad,50.7
+lgh_aganderatt_andel,2024,Mindre städer,46.3
+lgh_aganderatt_andel,2024,Pendling nära mindre tätort,58.4
+lgh_aganderatt_andel,2024,Landsbygd,56.3
+lgh_aganderatt_andel,2024,Landsbygd med besöksnäring,57.3
+lgh_aganderatt_andel,2024,Riket,37.1
+lgh_hyresratt_andel,1990,Storstäder,62.7
+lgh_hyresratt_andel,1990,Pendling nära storstad,33.9
+lgh_hyresratt_andel,1990,Större städer,44.1
+lgh_hyresratt_andel,1990,Pendling nära större stad,29.5
+lgh_hyresratt_andel,1990,Lågpendling nära större stad,34.4
+lgh_hyresratt_andel,1990,Mindre städer,33.1
+lgh_hyresratt_andel,1990,Pendling nära mindre tätort,29.0
+lgh_hyresratt_andel,1990,Landsbygd,32.4
+lgh_hyresratt_andel,1990,Landsbygd med besöksnäring,26.8
+lgh_hyresratt_andel,1990,Riket,39.7
+lgh_hyresratt_andel,2024,Storstäder,46.8
+lgh_hyresratt_andel,2024,Pendling nära storstad,28.7
+lgh_hyresratt_andel,2024,Större städer,45.9
+lgh_hyresratt_andel,2024,Pendling nära större stad,32.9
+lgh_hyresratt_andel,2024,Lågpendling nära större stad,37.1
+lgh_hyresratt_andel,2024,Mindre städer,36.5
+lgh_hyresratt_andel,2024,Pendling nära mindre tätort,32.4
+lgh_hyresratt_andel,2024,Landsbygd,35.5
+lgh_hyresratt_andel,2024,Landsbygd med besöksnäring,31.1
+lgh_hyresratt_andel,2024,Riket,38.6
+bilar_per_1000_privat,2002,Storstäder,250.7
+bilar_per_1000_privat,2002,Pendling nära storstad,357.3
+bilar_per_1000_privat,2002,Större städer,364.1
+bilar_per_1000_privat,2002,Pendling nära större stad,418.3
+bilar_per_1000_privat,2002,Lågpendling nära större stad,410.4
+bilar_per_1000_privat,2002,Mindre städer,407.6
+bilar_per_1000_privat,2002,Pendling nära mindre tätort,418.9
+bilar_per_1000_privat,2002,Landsbygd,414.1
+bilar_per_1000_privat,2002,Landsbygd med besöksnäring,426.8
+bilar_per_1000_privat,2002,Riket,365.0
+bilar_per_1000_privat,2024,Storstäder,224.8
+bilar_per_1000_privat,2024,Pendling nära storstad,349.0
+bilar_per_1000_privat,2024,Större städer,374.7
+bilar_per_1000_privat,2024,Pendling nära större stad,456.6
+bilar_per_1000_privat,2024,Lågpendling nära större stad,458.5
+bilar_per_1000_privat,2024,Mindre städer,450.6
+bilar_per_1000_privat,2024,Pendling nära mindre tätort,473.1
+bilar_per_1000_privat,2024,Landsbygd,457.0
+bilar_per_1000_privat,2024,Landsbygd med besöksnäring,466.7
+bilar_per_1000_privat,2024,Riket,372.6
+eftergymn_lang,1990,Storstäder,17.5
+eftergymn_lang,1990,Pendling nära storstad,14.3
+eftergymn_lang,1990,Större städer,13.1
+eftergymn_lang,1990,Pendling nära större stad,7.2
+eftergymn_lang,1990,Lågpendling nära större stad,7.2
+eftergymn_lang,1990,Mindre städer,8.6
+eftergymn_lang,1990,Pendling nära mindre tätort,6.4
+eftergymn_lang,1990,Landsbygd,6.1
+eftergymn_lang,1990,Landsbygd med besöksnäring,6.8
+eftergymn_lang,1990,Riket,11.4
+eftergymn_lang,2024,Storstäder,44.4
+eftergymn_lang,2024,Pendling nära storstad,35.9
+eftergymn_lang,2024,Större städer,34.2
+eftergymn_lang,2024,Pendling nära större stad,22.8
+eftergymn_lang,2024,Lågpendling nära större stad,20.4
+eftergymn_lang,2024,Mindre städer,25.1
+eftergymn_lang,2024,Pendling nära mindre tätort,19.2
+eftergymn_lang,2024,Landsbygd,17.7
+eftergymn_lang,2024,Landsbygd med besöksnäring,21.3
+eftergymn_lang,2024,Riket,31.9
+andel_65p,1970,Storstäder,14.4
+andel_65p,1970,Pendling nära storstad,8.2
+andel_65p,1970,Större städer,12.5
+andel_65p,1970,Pendling nära större stad,15.9
+andel_65p,1970,Lågpendling nära större stad,15.0
+andel_65p,1970,Mindre städer,14.3
+andel_65p,1970,Pendling nära mindre tätort,16.3
+andel_65p,1970,Landsbygd,16.7
+andel_65p,1970,Landsbygd med besöksnäring,17.7
+andel_65p,1970,Riket,13.8
+andel_65p,1990,Storstäder,20.5
+andel_65p,1990,Pendling nära storstad,11.9
+andel_65p,1990,Större städer,16.7
+andel_65p,1990,Pendling nära större stad,18.3
+andel_65p,1990,Lågpendling nära större stad,19.8
+andel_65p,1990,Mindre städer,18.6
+andel_65p,1990,Pendling nära mindre tätort,19.6
+andel_65p,1990,Landsbygd,21.7
+andel_65p,1990,Landsbygd med besöksnäring,21.7
+andel_65p,1990,Riket,17.8
+andel_65p,2024,Storstäder,16.0
+andel_65p,2024,Pendling nära storstad,17.8
+andel_65p,2024,Större städer,19.5
+andel_65p,2024,Pendling nära större stad,23.6
+andel_65p,2024,Lågpendling nära större stad,25.5
+andel_65p,2024,Mindre städer,25.1
+andel_65p,2024,Pendling nära mindre tätort,27.1
+andel_65p,2024,Landsbygd,28.7
+andel_65p,2024,Landsbygd med besöksnäring,29.8
+andel_65p,2024,Riket,20.8

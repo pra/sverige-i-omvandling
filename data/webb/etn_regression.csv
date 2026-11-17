@@ -1,0 +1,31 @@
+utfall,modell,faktor,koef,t,r2,signifikant
+SD 2026,bivariat,Andel utrikes födda 2024,-2.46,-3.75,0.17,ja
+SD 2026,bivariat,Ökning av andel utrikes födda 2010–2024,-0.02,-0.03,0.0,nej
+SD 2026,med kontroller,Andel utrikes födda 2024,1.67,3.25,0.83,ja
+SD 2026,med kontroller,Ökning av andel utrikes födda 2010–2024,-0.31,-1.02,0.83,nej
+SD 2026,med kontroller,Eftergymn. 3 år+,-2.45,-3.59,0.83,ja
+SD 2026,med kontroller,Bilar/1000,3.44,6.37,0.83,ja
+SD 2026,med kontroller,Medianink. (ek. std),0.26,0.99,0.83,nej
+SD 2026,med kontroller,65+,-0.08,-0.28,0.83,nej
+SD 2026,med kontroller,Män i industri,0.32,0.82,0.83,nej
+SD 2026,med kontroller,Män i bygg,0.96,2.29,0.83,ja
+ΔSD 2010–2026,bivariat,Andel utrikes födda 2024,-2.37,-4.54,0.27,ja
+ΔSD 2010–2026,bivariat,Ökning av andel utrikes födda 2010–2024,-0.23,-0.43,0.0,nej
+ΔSD 2010–2026,med kontroller,Andel utrikes födda 2024,0.23,0.69,0.89,nej
+ΔSD 2010–2026,med kontroller,Ökning av andel utrikes födda 2010–2024,0.3,1.36,0.89,nej
+ΔSD 2010–2026,med kontroller,Eftergymn. 3 år+,-1.98,-4.47,0.89,ja
+ΔSD 2010–2026,med kontroller,Bilar/1000,1.28,3.82,0.89,ja
+ΔSD 2010–2026,med kontroller,Medianink. (ek. std),0.69,4.27,0.89,ja
+ΔSD 2010–2026,med kontroller,65+,0.55,2.7,0.89,ja
+ΔSD 2010–2026,med kontroller,Män i industri,0.61,2.51,0.89,ja
+ΔSD 2010–2026,med kontroller,Män i bygg,1.06,4.55,0.89,ja
+ΔS+V+MP 2010–2026,bivariat,Andel utrikes födda 2024,4.98,5.9,0.36,ja
+ΔS+V+MP 2010–2026,bivariat,Ökning av andel utrikes födda 2010–2024,1.38,1.49,0.03,nej
+ΔS+V+MP 2010–2026,med kontroller,Andel utrikes födda 2024,1.42,1.45,0.82,nej
+ΔS+V+MP 2010–2026,med kontroller,Ökning av andel utrikes födda 2010–2024,0.22,0.44,0.82,nej
+ΔS+V+MP 2010–2026,med kontroller,Eftergymn. 3 år+,2.68,3.14,0.82,ja
+ΔS+V+MP 2010–2026,med kontroller,Bilar/1000,-1.25,-1.59,0.82,nej
+ΔS+V+MP 2010–2026,med kontroller,Medianink. (ek. std),0.41,1.14,0.82,nej
+ΔS+V+MP 2010–2026,med kontroller,65+,-0.83,-1.57,0.82,nej
+ΔS+V+MP 2010–2026,med kontroller,Män i industri,-2.11,-3.94,0.82,ja
+ΔS+V+MP 2010–2026,med kontroller,Män i bygg,-0.4,-0.73,0.82,nej

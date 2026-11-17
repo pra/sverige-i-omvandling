@@ -1,0 +1,291 @@
+Unnamed: 0,S+V+MP 2026,"Välfärdsprofessioner (lärare, vård, socialt arbete)","Privata kunskapsyrken (IT, ingenjörer, ekonomer, chefer)",Manuella arbetaryrken (6–9),namn,kommungrupp
+0114,44.9,13.7,12.6,25.4,Upplands Väsby,Pendlingskommun nära storstad
+0115,32.0,12.9,10.5,28.2,Vallentuna,Pendlingskommun nära storstad
+0117,31.6,14.6,11.1,24.1,Österåker,Pendlingskommun nära storstad
+0120,35.0,13.0,12.0,27.7,Värmdö,Pendlingskommun nära storstad
+0123,49.9,11.2,15.1,26.6,Järfälla,Pendlingskommun nära storstad
+0125,30.7,14.8,12.0,27.6,Ekerö,Pendlingskommun nära storstad
+0126,47.4,22.0,8.9,22.3,Huddinge,Pendlingskommun nära storstad
+0127,53.0,15.3,11.2,29.6,Botkyrka,Pendlingskommun nära storstad
+0128,36.8,21.5,8.5,19.9,Salem,Pendlingskommun nära storstad
+0136,44.0,12.4,8.7,29.5,Haninge,Pendlingskommun nära storstad
+0138,39.1,16.2,11.3,26.5,Tyresö,Pendlingskommun nära storstad
+0139,43.5,11.3,10.0,24.7,Upplands-Bro,Pendlingskommun nära storstad
+0140,27.7,12.4,9.9,31.9,Nykvarn,Pendlingskommun nära större stad
+0160,25.8,14.3,14.4,20.7,Täby,Pendlingskommun nära storstad
+0162,17.5,26.6,17.6,11.3,Danderyd,Pendlingskommun nära storstad
+0163,40.6,16.0,14.4,18.9,Sollentuna,Pendlingskommun nära storstad
+0180,50.5,13.1,32.8,12.0,Stockholm,Storstäder
+0181,42.0,11.0,25.9,29.1,Södertälje,Större stad
+0182,36.6,14.9,18.2,18.5,Nacka,Pendlingskommun nära storstad
+0183,50.8,9.9,37.1,13.0,Sundbyberg,Pendlingskommun nära storstad
+0184,45.8,12.7,37.4,8.8,Solna,Pendlingskommun nära storstad
+0186,24.2,17.4,15.7,14.7,Lidingö,Pendlingskommun nära storstad
+0187,27.7,15.5,15.5,22.0,Vaxholm,Pendlingskommun nära storstad
+0188,36.0,14.4,7.3,29.0,Norrtälje,Mindre stad/tätort
+0191,42.5,7.3,9.9,25.9,Sigtuna,Pendlingskommun nära storstad
+0192,39.2,14.6,10.0,27.1,Nynäshamn,Pendlingskommun nära storstad
+0305,30.4,13.9,8.3,28.4,Håbo,Pendlingskommun nära storstad
+0319,41.2,16.5,11.8,31.2,Älvkarleby,Pendlingskommun nära större stad
+0330,36.4,18.1,11.7,24.4,Knivsta,Pendlingskommun nära större stad
+0331,34.7,13.2,5.0,24.8,Heby,Pendlingskommun nära större stad
+0360,40.7,16.1,6.8,35.0,Tierp,Pendlingskommun nära större stad
+0380,50.8,20.5,18.4,17.4,Uppsala,Större stad
+0381,36.1,14.2,10.7,23.1,Enköping,Pendlingskommun nära större stad
+0382,35.9,10.8,14.1,35.9,Östhammar,Lågpendlingskommun nära större stad
+0428,39.0,13.8,6.5,29.7,Vingåker,Pendlingskommun nära mindre tätort
+0461,42.7,17.8,8.4,25.1,Gnesta,Pendlingskommun nära större stad
+0480,43.7,18.3,10.8,23.7,Nyköping,Mindre stad/tätort
+0481,47.7,8.6,9.8,46.7,Oxelösund,Pendlingskommun nära mindre tätort
+0482,44.0,13.4,8.0,33.3,Flen,Pendlingskommun nära mindre tätort
+0483,46.5,15.7,7.2,31.2,Katrineholm,Mindre stad/tätort
+0484,44.9,16.4,12.4,24.0,Eskilstuna,Större stad
+0486,34.9,14.2,9.8,26.7,Strängnäs,Pendlingskommun nära större stad
+0488,33.9,14.2,9.7,28.8,Trosa,Pendlingskommun nära större stad
+0509,32.0,12.7,6.4,41.7,Ödeshög,Pendlingskommun nära mindre tätort
+0512,30.6,13.5,7.5,35.1,Ydre,Pendlingskommun nära mindre tätort
+0513,35.8,12.3,6.6,37.6,Kinda,Pendlingskommun nära större stad
+0560,39.3,11.9,9.9,35.1,Boxholm,Pendlingskommun nära mindre tätort
+0561,38.2,14.4,8.5,32.0,Åtvidaberg,Pendlingskommun nära större stad
+0562,42.4,11.4,25.5,25.2,Finspång,Lågpendlingskommun nära större stad
+0563,34.0,13.1,5.2,33.8,Valdemarsvik,Pendlingskommun nära större stad
+0580,43.2,16.9,22.8,18.5,Linköping,Större stad
+0581,42.1,14.5,13.6,24.5,Norrköping,Större stad
+0582,31.0,17.0,7.4,29.1,Söderköping,Pendlingskommun nära större stad
+0583,40.6,17.0,7.3,28.9,Motala,Lågpendlingskommun nära större stad
+0584,39.1,13.2,8.2,28.0,Vadstena,Pendlingskommun nära mindre tätort
+0586,37.1,10.8,10.5,37.0,Mjölby,Pendlingskommun nära större stad
+0604,29.4,15.2,7.9,32.9,Aneby,Pendlingskommun nära större stad
+0617,29.8,7.9,12.6,41.6,Gnosjö,Pendlingskommun nära mindre tätort
+0642,32.4,14.6,8.4,33.2,Mullsjö,Pendlingskommun nära större stad
+0643,30.0,16.2,8.9,30.9,Habo,Pendlingskommun nära större stad
+0662,35.2,9.9,9.0,42.2,Gislaved,Landsbygdskommun
+0665,34.0,11.5,7.5,39.4,Vaggeryd,Pendlingskommun nära större stad
+0680,39.0,16.8,15.3,22.1,Jönköping,Större stad
+0682,37.1,14.3,7.7,30.7,Nässjö,Lågpendlingskommun nära större stad
+0683,35.7,14.9,9.3,33.0,Värnamo,Mindre stad/tätort
+0684,28.5,15.3,6.5,41.5,Sävsjö,Pendlingskommun nära mindre tätort
+0685,33.6,13.7,7.0,38.8,Vetlanda,Landsbygdskommun
+0686,35.5,23.7,5.7,24.0,Eksjö,Pendlingskommun nära mindre tätort
+0687,40.1,11.7,8.0,35.6,Tranås,Landsbygdskommun
+0760,34.0,8.9,6.4,53.4,Uppvidinge,Lågpendlingskommun nära större stad
+0761,46.6,16.5,5.5,32.7,Lessebo,Pendlingskommun nära större stad
+0763,32.8,12.0,6.6,35.2,Tingsryd,Lågpendlingskommun nära större stad
+0764,37.0,12.4,7.5,39.0,Alvesta,Pendlingskommun nära större stad
+0765,38.1,10.2,30.2,20.5,Älmhult,Pendlingskommun nära mindre tätort
+0767,31.1,8.3,11.0,43.3,Markaryd,Pendlingskommun nära mindre tätort
+0780,43.7,17.5,14.9,21.9,Växjö,Större stad
+0781,33.9,13.2,8.7,32.8,Ljungby,Mindre stad/tätort
+0821,35.6,17.3,9.2,27.0,Högsby,Pendlingskommun nära mindre tätort
+0834,32.2,18.2,7.7,33.8,Torsås,Pendlingskommun nära större stad
+0840,35.9,16.2,7.1,30.1,Mörbylånga,Pendlingskommun nära större stad
+0860,39.7,15.2,7.6,36.4,Hultsfred,Pendlingskommun nära mindre tätort
+0861,37.3,12.6,6.7,37.3,Mönsterås,Pendlingskommun nära mindre tätort
+0862,41.1,12.8,7.2,40.7,Emmaboda,Pendlingskommun nära mindre tätort
+0880,42.1,18.0,12.6,23.6,Kalmar,Större stad
+0881,39.4,13.9,5.9,37.0,Nybro,Lågpendlingskommun nära större stad
+0882,36.7,12.8,11.2,39.1,Oskarshamn,Mindre stad/tätort
+0883,41.7,17.8,6.1,26.9,Västervik,Mindre stad/tätort
+0884,37.3,12.5,6.9,39.3,Vimmerby,Landsbygdskommun
+0885,33.9,13.9,6.7,29.7,Borgholm,Landsbygdskommun med besöksnäring
+0980,45.7,16.4,11.5,24.6,Gotland,Mindre stad/tätort
+1060,38.6,10.3,8.2,52.0,Olofström,Pendlingskommun nära mindre tätort
+1080,39.7,17.1,16.8,19.8,Karlskrona,Mindre stad/tätort
+1081,38.3,16.3,8.3,30.3,Ronneby,Pendlingskommun nära mindre tätort
+1082,39.9,17.7,9.6,28.2,Karlshamn,Mindre stad/tätort
+1083,30.0,14.1,6.7,34.8,Sölvesborg,Pendlingskommun nära större stad
+1214,33.4,19.1,8.8,31.5,Svalöv,Pendlingskommun nära större stad
+1230,32.6,16.6,9.7,31.2,Staffanstorp,Pendlingskommun nära storstad
+1231,51.0,9.6,10.1,33.3,Burlöv,Pendlingskommun nära storstad
+1233,16.2,18.7,11.9,22.8,Vellinge,Pendlingskommun nära storstad
+1256,32.6,16.3,6.8,33.1,Östra Göinge,Pendlingskommun nära större stad
+1257,25.2,13.5,4.8,40.9,Örkelljunga,Pendlingskommun nära större stad
+1260,36.2,14.4,8.8,33.7,Bjuv,Pendlingskommun nära större stad
+1261,30.2,15.5,10.4,25.6,Kävlinge,Pendlingskommun nära storstad
+1262,26.9,24.7,16.6,15.4,Lomma,Pendlingskommun nära storstad
+1263,29.1,15.2,11.8,26.1,Svedala,Pendlingskommun nära storstad
+1264,29.3,17.6,7.0,30.4,Skurup,Pendlingskommun nära storstad
+1265,23.5,14.1,8.2,34.7,Sjöbo,Pendlingskommun nära större stad
+1266,27.6,14.6,9.2,31.1,Hörby,Pendlingskommun nära större stad
+1267,35.1,18.8,7.9,24.2,Höör,Pendlingskommun nära mindre tätort
+1270,31.3,14.3,6.7,36.6,Tomelilla,Pendlingskommun nära mindre tätort
+1272,32.2,12.3,8.8,37.7,Bromölla,Pendlingskommun nära större stad
+1273,32.7,16.0,8.5,29.8,Osby,Pendlingskommun nära mindre tätort
+1275,35.0,11.2,14.6,38.6,Perstorp,Pendlingskommun nära större stad
+1276,29.3,14.6,7.2,32.7,Klippan,Pendlingskommun nära större stad
+1277,36.8,10.7,9.9,34.3,Åstorp,Pendlingskommun nära större stad
+1278,26.2,12.8,12.4,30.4,Båstad,Landsbygdskommun med besöksnäring
+1280,55.4,15.0,22.6,16.9,Malmö,Storstäder
+1281,49.7,22.6,25.5,12.1,Lund,Större stad
+1282,42.6,14.2,12.3,27.6,Landskrona,Pendlingskommun nära större stad
+1283,40.5,14.6,13.9,22.8,Helsingborg,Större stad
+1284,30.6,13.7,13.0,29.0,Höganäs,Pendlingskommun nära större stad
+1285,39.1,15.8,8.0,32.4,Eslöv,Pendlingskommun nära större stad
+1286,33.4,18.6,6.7,25.6,Ystad,Mindre stad/tätort
+1287,33.0,18.5,8.6,27.9,Trelleborg,Pendlingskommun nära storstad
+1290,35.8,18.4,9.7,26.3,Kristianstad,Större stad
+1291,35.9,14.9,7.4,31.6,Simrishamn,Landsbygdskommun med besöksnäring
+1292,30.8,14.5,10.6,27.0,Ängelholm,Pendlingskommun nära större stad
+1293,32.7,15.9,10.0,27.2,Hässleholm,Lågpendlingskommun nära större stad
+1315,37.1,12.2,7.6,42.4,Hylte,Lågpendlingskommun nära större stad
+1380,40.9,15.7,12.5,24.7,Halmstad,Större stad
+1381,30.8,15.0,7.7,33.0,Laholm,Pendlingskommun nära större stad
+1382,38.5,12.2,7.7,31.5,Falkenberg,Mindre stad/tätort
+1383,38.0,15.5,12.5,28.4,Varberg,Mindre stad/tätort
+1384,25.9,17.1,11.8,22.8,Kungsbacka,Pendlingskommun nära storstad
+1401,35.4,13.1,14.3,25.5,Härryda,Pendlingskommun nära storstad
+1402,41.9,14.2,12.9,24.0,Partille,Pendlingskommun nära storstad
+1407,30.1,13.8,9.8,27.1,Öckerö,Pendlingskommun nära storstad
+1415,34.2,12.1,13.5,31.5,Stenungsund,Pendlingskommun nära storstad
+1419,30.6,14.1,8.5,31.1,Tjörn,Pendlingskommun nära mindre tätort
+1421,35.0,14.3,7.6,30.9,Orust,Pendlingskommun nära mindre tätort
+1427,31.6,10.9,8.3,38.7,Sotenäs,Landsbygdskommun med besöksnäring
+1430,33.2,16.4,5.2,34.9,Munkedal,Pendlingskommun nära mindre tätort
+1435,31.8,13.0,8.1,31.2,Tanum,Landsbygdskommun med besöksnäring
+1438,25.5,13.8,6.3,32.0,Dals-Ed,Pendlingskommun nära mindre tätort
+1439,27.7,18.1,5.3,33.2,Färgelanda,Pendlingskommun nära mindre tätort
+1440,41.0,16.8,11.4,27.6,Ale,Pendlingskommun nära storstad
+1441,37.1,19.9,11.7,20.9,Lerum,Pendlingskommun nära storstad
+1442,34.5,12.7,11.5,40.5,Vårgårda,Pendlingskommun nära mindre tätort
+1443,32.7,15.5,9.8,30.4,Bollebygd,Pendlingskommun nära storstad
+1444,29.0,12.9,8.7,28.4,Grästorp,Pendlingskommun nära större stad
+1445,30.8,13.2,5.7,36.4,Essunga,Pendlingskommun nära mindre tätort
+1446,32.3,11.5,9.7,25.3,Karlsborg,Pendlingskommun nära mindre tätort
+1447,39.0,14.6,6.5,42.8,Gullspång,Pendlingskommun nära mindre tätort
+1452,37.1,10.3,8.9,43.2,Tranemo,Lågpendlingskommun nära större stad
+1460,38.6,14.7,6.8,39.1,Bengtsfors,Landsbygdskommun
+1461,31.9,15.5,6.0,31.9,Mellerud,Pendlingskommun nära mindre tätort
+1462,36.2,13.6,5.9,34.4,Lilla Edet,Pendlingskommun nära storstad
+1463,37.4,15.8,7.8,29.6,Mark,Pendlingskommun nära större stad
+1465,29.7,15.0,9.5,28.7,Svenljunga,Pendlingskommun nära större stad
+1466,32.0,13.8,8.7,42.0,Herrljunga,Pendlingskommun nära större stad
+1470,28.6,10.6,8.3,42.1,Vara,Pendlingskommun nära mindre tätort
+1471,38.6,9.0,5.5,48.5,Götene,Pendlingskommun nära mindre tätort
+1472,37.1,16.0,9.5,28.2,Tibro,Pendlingskommun nära mindre tätort
+1473,35.9,15.1,8.0,33.2,Töreboda,Pendlingskommun nära mindre tätort
+1480,51.3,14.0,26.1,18.3,Göteborg,Storstäder
+1481,41.6,11.3,23.7,19.0,Mölndal,Pendlingskommun nära storstad
+1482,35.4,17.2,9.7,24.7,Kungälv,Pendlingskommun nära storstad
+1484,41.1,12.9,10.3,33.9,Lysekil,Landsbygdskommun
+1485,42.4,17.0,8.9,26.9,Uddevalla,Lågpendlingskommun nära större stad
+1486,37.4,12.0,6.5,22.9,Strömstad,Landsbygdskommun med besöksnäring
+1487,41.7,17.6,10.2,23.3,Vänersborg,Pendlingskommun nära större stad
+1488,47.2,18.5,14.1,22.3,Trollhättan,Större stad
+1489,41.1,18.0,9.6,22.3,Alingsås,Pendlingskommun nära storstad
+1490,42.7,16.1,13.1,21.2,Borås,Större stad
+1491,34.8,13.1,9.4,31.1,Ulricehamn,Lågpendlingskommun nära större stad
+1492,41.1,17.1,7.7,29.1,Åmål,Pendlingskommun nära mindre tätort
+1493,40.3,14.3,8.9,32.1,Mariestad,Mindre stad/tätort
+1494,40.6,14.6,9.1,27.7,Lidköping,Mindre stad/tätort
+1495,39.3,15.0,10.8,27.6,Skara,Pendlingskommun nära mindre tätort
+1496,38.7,16.8,12.1,27.3,Skövde,Mindre stad/tätort
+1497,36.2,18.0,6.6,34.7,Hjo,Pendlingskommun nära mindre tätort
+1498,40.7,14.8,5.3,33.5,Tidaholm,Pendlingskommun nära mindre tätort
+1499,39.1,15.4,6.5,33.8,Falköping,Mindre stad/tätort
+1715,36.9,16.9,5.6,35.9,Kil,Pendlingskommun nära större stad
+1730,34.9,11.4,3.9,30.6,Eda,Landsbygdskommun med besöksnäring
+1737,36.3,17.2,5.2,33.0,Torsby,Landsbygdskommun
+1760,39.1,21.1,6.9,33.7,Storfors,Pendlingskommun nära mindre tätort
+1761,39.9,21.9,12.1,25.6,Hammarö,Pendlingskommun nära större stad
+1762,48.2,11.0,6.4,43.3,Munkfors,Lågpendlingskommun nära större stad
+1763,41.3,22.8,5.2,23.4,Forshaga,Pendlingskommun nära större stad
+1764,40.3,12.2,7.6,43.4,Grums,Pendlingskommun nära större stad
+1765,26.4,11.2,5.3,34.4,Årjäng,Landsbygdskommun med besöksnäring
+1766,32.1,14.5,6.5,36.8,Sunne,Landsbygdskommun
+1780,45.0,17.8,17.9,22.1,Karlstad,Större stad
+1781,43.1,14.8,10.4,30.7,Kristinehamn,Lågpendlingskommun nära större stad
+1782,42.5,14.7,5.2,37.6,Filipstad,Landsbygdskommun
+1783,44.9,12.7,7.8,40.2,Hagfors,Landsbygdskommun
+1784,43.0,15.5,7.6,33.4,Arvika,Landsbygdskommun
+1785,33.5,14.2,7.2,35.5,Säffle,Landsbygdskommun
+1814,29.9,17.3,7.3,31.9,Lekeberg,Pendlingskommun nära större stad
+1860,37.4,11.6,7.0,41.6,Laxå,Lågpendlingskommun nära större stad
+1861,41.7,14.8,6.2,31.1,Hallsberg,Pendlingskommun nära större stad
+1862,44.5,17.7,6.5,38.5,Degerfors,Pendlingskommun nära mindre tätort
+1863,44.6,14.6,5.3,36.9,Hällefors,Landsbygdskommun
+1864,38.0,12.9,6.5,36.9,Ljusnarsberg,Pendlingskommun nära mindre tätort
+1880,46.2,16.4,15.3,20.4,Örebro,Större stad
+1881,38.8,14.5,8.2,25.8,Kumla,Pendlingskommun nära större stad
+1882,35.8,10.3,7.2,41.4,Askersund,Lågpendlingskommun nära större stad
+1883,42.2,12.6,13.0,31.5,Karlskoga,Mindre stad/tätort
+1884,41.1,17.5,6.8,26.4,Nora,Pendlingskommun nära större stad
+1885,37.7,15.4,6.1,34.3,Lindesberg,Lågpendlingskommun nära större stad
+1904,40.0,9.2,10.4,36.3,Skinnskatteberg,Pendlingskommun nära mindre tätort
+1907,38.4,12.8,7.2,38.9,Surahammar,Pendlingskommun nära större stad
+1960,38.4,13.0,6.3,39.1,Kungsör,Pendlingskommun nära mindre tätort
+1961,42.9,14.9,8.4,31.8,Hallstahammar,Pendlingskommun nära större stad
+1962,43.2,13.0,5.6,35.1,Norberg,Pendlingskommun nära mindre tätort
+1980,43.0,14.8,17.0,22.1,Västerås,Större stad
+1981,38.4,15.2,6.6,25.2,Sala,Pendlingskommun nära större stad
+1982,46.0,12.8,11.5,34.0,Fagersta,Pendlingskommun nära mindre tätort
+1983,41.8,14.3,7.4,32.7,Köping,Lågpendlingskommun nära större stad
+1984,41.3,13.3,15.7,26.3,Arboga,Pendlingskommun nära mindre tätort
+2021,33.6,10.8,6.3,34.9,Vansbro,Landsbygdskommun
+2023,31.0,11.5,6.8,34.7,Malung-Sälen,Landsbygdskommun med besöksnäring
+2026,34.4,18.1,7.6,28.1,Gagnef,Pendlingskommun nära större stad
+2029,36.9,13.6,9.8,26.6,Leksand,Landsbygdskommun med besöksnäring
+2031,34.4,14.8,6.9,31.9,Rättvik,Landsbygdskommun med besöksnäring
+2034,36.0,12.9,8.6,30.6,Orsa,Landsbygdskommun med besöksnäring
+2039,31.4,14.1,7.8,34.3,Älvdalen,Landsbygdskommun med besöksnäring
+2061,41.7,13.3,7.3,39.8,Smedjebacken,Pendlingskommun nära mindre tätort
+2062,35.9,17.9,8.1,28.8,Mora,Landsbygdskommun med besöksnäring
+2080,42.8,21.6,12.7,18.8,Falun,Mindre stad/tätort
+2081,45.2,11.4,16.7,27.2,Borlänge,Större stad
+2082,36.8,18.0,5.9,27.4,Säter,Pendlingskommun nära större stad
+2083,38.3,12.0,7.9,35.2,Hedemora,Pendlingskommun nära mindre tätort
+2084,41.0,13.3,8.2,36.6,Avesta,Mindre stad/tätort
+2085,43.1,11.1,17.9,30.3,Ludvika,Mindre stad/tätort
+2101,39.5,14.3,6.9,35.4,Ockelbo,Pendlingskommun nära större stad
+2104,42.1,14.0,7.6,40.2,Hofors,Pendlingskommun nära mindre tätort
+2121,35.9,14.4,6.7,44.7,Ovanåker,Landsbygdskommun
+2132,38.9,15.0,5.8,36.8,Nordanstig,Pendlingskommun nära mindre tätort
+2161,37.4,13.6,7.4,32.3,Ljusdal,Landsbygdskommun
+2180,44.1,16.4,14.3,23.5,Gävle,Större stad
+2181,43.5,13.7,15.9,33.2,Sandviken,Lågpendlingskommun nära större stad
+2182,44.2,12.7,8.7,32.9,Söderhamn,Landsbygdskommun
+2183,42.5,17.5,6.8,27.7,Bollnäs,Landsbygdskommun
+2184,44.1,18.1,9.4,28.9,Hudiksvall,Mindre stad/tätort
+2260,40.8,12.8,7.6,34.2,Ånge,Landsbygdskommun
+2262,43.7,15.0,8.4,35.2,Timrå,Pendlingskommun nära större stad
+2280,50.5,16.9,16.6,19.0,Härnösand,Mindre stad/tätort
+2281,45.3,14.6,16.9,20.9,Sundsvall,Större stad
+2282,46.3,13.4,7.7,31.4,Kramfors,Landsbygdskommun
+2283,41.8,17.3,8.2,27.9,Sollefteå,Landsbygdskommun
+2284,45.1,15.1,12.2,30.2,Örnsköldsvik,Mindre stad/tätort
+2303,42.2,13.9,7.4,38.5,Ragunda,Landsbygdskommun
+2305,42.2,17.1,8.5,36.5,Bräcke,Lågpendlingskommun nära större stad
+2309,39.9,20.1,8.0,33.0,Krokom,Pendlingskommun nära större stad
+2313,40.4,13.9,6.8,33.6,Strömsund,Landsbygdskommun
+2321,43.5,13.7,10.9,26.4,Åre,Landsbygdskommun med besöksnäring
+2326,36.9,15.4,6.4,32.8,Berg,Lågpendlingskommun nära större stad
+2361,37.9,14.4,7.5,30.2,Härjedalen,Landsbygdskommun med besöksnäring
+2380,47.9,17.8,15.1,20.4,Östersund,Större stad
+2401,42.7,14.8,5.8,36.1,Nordmaling,Pendlingskommun nära större stad
+2403,35.1,15.1,7.5,36.7,Bjurholm,Pendlingskommun nära större stad
+2404,40.9,11.6,8.4,35.5,Vindeln,Lågpendlingskommun nära större stad
+2409,48.2,15.1,7.4,33.5,Robertsfors,Pendlingskommun nära större stad
+2417,47.1,12.0,7.3,42.2,Norsjö,Landsbygdskommun
+2418,49.4,16.1,7.5,36.8,Malå,Landsbygdskommun
+2421,42.5,15.7,7.4,30.3,Storuman,Landsbygdskommun med besöksnäring
+2422,42.2,12.5,8.0,34.9,Sorsele,Landsbygdskommun med besöksnäring
+2425,45.6,12.3,5.5,38.4,Dorotea,Landsbygdskommun
+2460,46.8,22.2,8.4,27.3,Vännäs,Pendlingskommun nära större stad
+2462,44.1,15.6,5.5,30.1,Vilhelmina,Landsbygdskommun
+2463,40.3,12.8,6.6,33.9,Åsele,Landsbygdskommun
+2480,57.8,20.4,15.7,19.5,Umeå,Större stad
+2481,45.9,16.9,6.8,32.4,Lycksele,Landsbygdskommun
+2482,54.5,12.3,14.1,32.8,Skellefteå,Mindre stad/tätort
+2505,45.7,12.9,9.0,26.6,Arvidsjaur,Landsbygdskommun
+2506,44.9,10.1,10.9,32.4,Arjeplog,Landsbygdskommun med besöksnäring
+2510,55.4,17.5,12.0,30.2,Jokkmokk,Landsbygdskommun med besöksnäring
+2513,45.3,12.0,5.3,35.6,Överkalix,Landsbygdskommun
+2514,47.0,16.2,7.7,31.7,Kalix,Landsbygdskommun
+2518,43.5,17.9,6.3,31.3,Övertorneå,Landsbygdskommun
+2521,48.1,13.7,7.2,41.1,Pajala,Landsbygdskommun
+2523,46.9,10.9,8.7,41.9,Gällivare,Landsbygdskommun med besöksnäring
+2560,49.9,15.8,6.6,40.6,Älvsbyn,Lågpendlingskommun nära större stad
+2580,49.1,16.5,18.1,23.2,Luleå,Större stad
+2581,52.8,14.6,10.8,30.5,Piteå,Mindre stad/tätort
+2582,46.7,14.6,10.7,25.2,Boden,Lågpendlingskommun nära större stad
+2583,38.8,12.2,6.0,28.6,Haparanda,Landsbygdskommun
+2584,50.8,9.8,11.5,35.7,Kiruna,Mindre stad/tätort

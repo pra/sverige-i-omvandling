@@ -1,0 +1,1721 @@
+Yrke,Yrke_text,Fodelseland,Fodelseland_text,Kon,Kon_text,ContentsCode,ContentsCode_text,Tid,Tid_text,value
+0110,Officerare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,12
+0110,Officerare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+0110,Officerare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+0110,Officerare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+0210,Specialistofficerare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,18
+0210,Specialistofficerare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+0210,Specialistofficerare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+0210,Specialistofficerare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+0310,Soldater m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,22
+0310,Soldater m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+0310,Soldater m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+0310,Soldater m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+1111,Politiker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+1111,Politiker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+1111,Politiker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1111,Politiker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1112,"General-, landstings- och kommundirektörer m.fl.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+1112,"General-, landstings- och kommundirektörer m.fl.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+1112,"General-, landstings- och kommundirektörer m.fl.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1112,"General-, landstings- och kommundirektörer m.fl.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1113,Chefstjänstemän i intresseorganisationer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,13
+1113,Chefstjänstemän i intresseorganisationer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+1113,Chefstjänstemän i intresseorganisationer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+1113,Chefstjänstemän i intresseorganisationer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1120,Verkställande direktörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,269
+1120,Verkställande direktörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,65
+1120,Verkställande direktörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,81
+1120,Verkställande direktörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,37
+1211,"Ekonomi- och finanschefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,30
+1211,"Ekonomi- och finanschefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,21
+1211,"Ekonomi- och finanschefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+1211,"Ekonomi- och finanschefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,11
+1212,"Ekonomi- och finanschefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,95
+1212,"Ekonomi- och finanschefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,64
+1212,"Ekonomi- och finanschefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,38
+1212,"Ekonomi- och finanschefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,24
+1221,"Personal- och HR-chefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+1221,"Personal- och HR-chefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+1221,"Personal- och HR-chefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1221,"Personal- och HR-chefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+1222,"Personal- och HR-chefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,28
+1222,"Personal- och HR-chefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,36
+1222,"Personal- och HR-chefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+1222,"Personal- och HR-chefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,36
+1230,Förvaltnings- och planeringschefer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,50
+1230,Förvaltnings- och planeringschefer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,24
+1230,Förvaltnings- och planeringschefer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,20
+1230,Förvaltnings- och planeringschefer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,14
+1241,"Informations-, kommunikations- och PR-chefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+1241,"Informations-, kommunikations- och PR-chefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+1241,"Informations-, kommunikations- och PR-chefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1241,"Informations-, kommunikations- och PR-chefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+1242,"Informations-, kommunikations - och PR-chefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,29
+1242,"Informations-, kommunikations - och PR-chefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+1242,"Informations-, kommunikations - och PR-chefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,9
+1242,"Informations-, kommunikations - och PR-chefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+1251,"Försäljnings- och marknadschefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,66
+1251,"Försäljnings- och marknadschefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,26
+1251,"Försäljnings- och marknadschefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,10
+1251,"Försäljnings- och marknadschefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+1252,"Försäljnings- och marknadschefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,200
+1252,"Försäljnings- och marknadschefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,54
+1252,"Försäljnings- och marknadschefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,54
+1252,"Försäljnings- och marknadschefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,21
+1291,"Övriga administrations- och servicechefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,41
+1291,"Övriga administrations- och servicechefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,33
+1291,"Övriga administrations- och servicechefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,12
+1291,"Övriga administrations- och servicechefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+1292,"Övriga administrations- och servicechefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,147
+1292,"Övriga administrations- och servicechefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,137
+1292,"Övriga administrations- och servicechefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,79
+1292,"Övriga administrations- och servicechefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,92
+1311,"IT-chefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+1311,"IT-chefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+1311,"IT-chefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+1311,"IT-chefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1312,"IT-chefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,66
+1312,"IT-chefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+1312,"IT-chefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,17
+1312,"IT-chefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+1321,"Inköps-, logistik- och transportchefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,18
+1321,"Inköps-, logistik- och transportchefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+1321,"Inköps-, logistik- och transportchefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+1321,"Inköps-, logistik- och transportchefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+1322,"Inköps-, logistik- och transportchefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,87
+1322,"Inköps-, logistik- och transportchefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+1322,"Inköps-, logistik- och transportchefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,94
+1322,"Inköps-, logistik- och transportchefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,15
+1331,"Forsknings- och utvecklingschefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,18
+1331,"Forsknings- och utvecklingschefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+1331,"Forsknings- och utvecklingschefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1331,"Forsknings- och utvecklingschefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1332,"Forsknings- och utvecklingschefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+1332,"Forsknings- och utvecklingschefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+1332,"Forsknings- och utvecklingschefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+1332,"Forsknings- och utvecklingschefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1341,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,13
+1341,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+1341,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1341,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1342,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,33
+1342,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,15
+1342,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+1342,"Chefer inom arkitekt- och ingenjörsverksamhet, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+1351,"Fastighets- och förvaltningschefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+1351,"Fastighets- och förvaltningschefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+1351,"Fastighets- och förvaltningschefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1351,"Fastighets- och förvaltningschefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1352,"Fastighets- och förvaltningschefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,78
+1352,"Fastighets- och förvaltningschefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,15
+1352,"Fastighets- och förvaltningschefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,17
+1352,"Fastighets- och förvaltningschefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+1361,"Driftchefer inom bygg, anläggning och gruva, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,28
+1361,"Driftchefer inom bygg, anläggning och gruva, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+1361,"Driftchefer inom bygg, anläggning och gruva, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+1361,"Driftchefer inom bygg, anläggning och gruva, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+1362,"Driftchefer inom bygg, anläggning och gruva, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,248
+1362,"Driftchefer inom bygg, anläggning och gruva, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,25
+1362,"Driftchefer inom bygg, anläggning och gruva, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,101
+1362,"Driftchefer inom bygg, anläggning och gruva, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,30
+1371,"Produktionschefer inom tillverkning, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,31
+1371,"Produktionschefer inom tillverkning, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+1371,"Produktionschefer inom tillverkning, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1371,"Produktionschefer inom tillverkning, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1372,"Produktionschefer inom tillverkning, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,186
+1372,"Produktionschefer inom tillverkning, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,43
+1372,"Produktionschefer inom tillverkning, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,44
+1372,"Produktionschefer inom tillverkning, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,14
+1380,Förvaltare inom skogsbruk och lantbruk m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,34
+1380,Förvaltare inom skogsbruk och lantbruk m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+1380,Förvaltare inom skogsbruk och lantbruk m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+1380,Förvaltare inom skogsbruk och lantbruk m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+1411,"Avdelningschefer inom grund- och gymnasieskola samt vuxenutbildning, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+1411,"Avdelningschefer inom grund- och gymnasieskola samt vuxenutbildning, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+1411,"Avdelningschefer inom grund- och gymnasieskola samt vuxenutbildning, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1411,"Avdelningschefer inom grund- och gymnasieskola samt vuxenutbildning, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1412,"Rektorer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,26
+1412,"Rektorer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,30
+1412,"Rektorer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+1412,"Rektorer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+1421,"Avdelningschefer inom förskola, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+1421,"Avdelningschefer inom förskola, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+1421,"Avdelningschefer inom förskola, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1421,"Avdelningschefer inom förskola, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1422,"Förskolechefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+1422,"Förskolechefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,34
+1422,"Förskolechefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1422,"Förskolechefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+1491,"Övriga avdelningschefer inom utbildning, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+1491,"Övriga avdelningschefer inom utbildning, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+1491,"Övriga avdelningschefer inom utbildning, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1491,"Övriga avdelningschefer inom utbildning, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1492,"Övriga verksamhetschefer inom utbildning, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,13
+1492,"Övriga verksamhetschefer inom utbildning, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,21
+1492,"Övriga verksamhetschefer inom utbildning, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,9
+1492,"Övriga verksamhetschefer inom utbildning, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+1511,"Klinik- och verksamhetschefer inom hälsa och sjukvård, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+1511,"Klinik- och verksamhetschefer inom hälsa och sjukvård, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+1511,"Klinik- och verksamhetschefer inom hälsa och sjukvård, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1511,"Klinik- och verksamhetschefer inom hälsa och sjukvård, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1512,"Avdelnings- och enhetschefer inom hälsa och sjukvård, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,13
+1512,"Avdelnings- och enhetschefer inom hälsa och sjukvård, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,28
+1512,"Avdelnings- och enhetschefer inom hälsa och sjukvård, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+1512,"Avdelnings- och enhetschefer inom hälsa och sjukvård, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+1521,"Avdelningschefer inom socialt och kurativt arbete, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+1521,"Avdelningschefer inom socialt och kurativt arbete, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+1521,"Avdelningschefer inom socialt och kurativt arbete, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1521,"Avdelningschefer inom socialt och kurativt arbete, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1522,"Enhetschefer inom socialt och kurativt arbete, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,17
+1522,"Enhetschefer inom socialt och kurativt arbete, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,24
+1522,"Enhetschefer inom socialt och kurativt arbete, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+1522,"Enhetschefer inom socialt och kurativt arbete, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+1531,"Avdelningschefer inom äldreomsorg, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+1531,"Avdelningschefer inom äldreomsorg, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+1531,"Avdelningschefer inom äldreomsorg, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1531,"Avdelningschefer inom äldreomsorg, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1532,"Enhetschefer inom äldreomsorg, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+1532,"Enhetschefer inom äldreomsorg, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,24
+1532,"Enhetschefer inom äldreomsorg, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+1532,"Enhetschefer inom äldreomsorg, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+1540,Chefer och ledare inom trossamfund,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+1540,Chefer och ledare inom trossamfund,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+1540,Chefer och ledare inom trossamfund,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1540,Chefer och ledare inom trossamfund,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1591,"Övriga chefer inom samhällsservice, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,12
+1591,"Övriga chefer inom samhällsservice, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,15
+1591,"Övriga chefer inom samhällsservice, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1591,"Övriga chefer inom samhällsservice, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1592,"Övriga verksamhetschefer inom samhällsservice, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,48
+1592,"Övriga verksamhetschefer inom samhällsservice, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,37
+1592,"Övriga verksamhetschefer inom samhällsservice, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,23
+1592,"Övriga verksamhetschefer inom samhällsservice, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,15
+1611,"Chefer inom bank, finans och försäkring, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+1611,"Chefer inom bank, finans och försäkring, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+1611,"Chefer inom bank, finans och försäkring, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1611,"Chefer inom bank, finans och försäkring, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1612,"Chefer inom bank, finans och försäkring, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,12
+1612,"Chefer inom bank, finans och försäkring, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+1612,"Chefer inom bank, finans och försäkring, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1612,"Chefer inom bank, finans och försäkring, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+1711,"Hotell- och konferenschefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+1711,"Hotell- och konferenschefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+1711,"Hotell- och konferenschefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+1711,"Hotell- och konferenschefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1712,"Hotell- och konferenschefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+1712,"Hotell- och konferenschefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,18
+1712,"Hotell- och konferenschefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+1712,"Hotell- och konferenschefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+1721,"Restaurang- och kökschefer, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+1721,"Restaurang- och kökschefer, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+1721,"Restaurang- och kökschefer, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+1721,"Restaurang- och kökschefer, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+1722,"Restaurang- och kökschefer, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,132
+1722,"Restaurang- och kökschefer, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,113
+1722,"Restaurang- och kökschefer, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,524
+1722,"Restaurang- och kökschefer, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,149
+1731,"Chefer inom handel, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+1731,"Chefer inom handel, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+1731,"Chefer inom handel, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1731,"Chefer inom handel, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1732,"Chefer inom handel, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,156
+1732,"Chefer inom handel, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,91
+1732,"Chefer inom handel, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,126
+1732,"Chefer inom handel, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,44
+1741,"Chefer inom friskvård, sport och fritid, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+1741,"Chefer inom friskvård, sport och fritid, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+1741,"Chefer inom friskvård, sport och fritid, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1741,"Chefer inom friskvård, sport och fritid, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1742,"Chefer inom friskvård, sport och fritid, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,31
+1742,"Chefer inom friskvård, sport och fritid, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,34
+1742,"Chefer inom friskvård, sport och fritid, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+1742,"Chefer inom friskvård, sport och fritid, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+1791,"Chefer inom övrig servicenäring, nivå 1",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+1791,"Chefer inom övrig servicenäring, nivå 1",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+1791,"Chefer inom övrig servicenäring, nivå 1",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+1791,"Chefer inom övrig servicenäring, nivå 1",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+1792,"Chefer inom övrig servicenäring, nivå 2",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,87
+1792,"Chefer inom övrig servicenäring, nivå 2",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,36
+1792,"Chefer inom övrig servicenäring, nivå 2",FU,född utomlands,1,män,000006XU,Antal,2024,2024,78
+1792,"Chefer inom övrig servicenäring, nivå 2",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,24
+2111,Fysiker och astronomer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+2111,Fysiker och astronomer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+2111,Fysiker och astronomer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2111,Fysiker och astronomer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2112,Meteorologer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+2112,Meteorologer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+2112,Meteorologer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2112,Meteorologer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2113,Kemister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,12
+2113,Kemister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+2113,Kemister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2113,Kemister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2114,Geologer och geofysiker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+2114,Geologer och geofysiker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+2114,Geologer och geofysiker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+2114,Geologer och geofysiker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2121,Matematiker och aktuarier,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+2121,Matematiker och aktuarier,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+2121,Matematiker och aktuarier,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2121,Matematiker och aktuarier,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2122,Statistiker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+2122,Statistiker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+2122,Statistiker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2122,Statistiker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2131,Cell- och molekylärbiologer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+2131,Cell- och molekylärbiologer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+2131,Cell- och molekylärbiologer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+2131,Cell- och molekylärbiologer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2132,Växt- och djurbiologer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14
+2132,Växt- och djurbiologer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+2132,Växt- och djurbiologer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2132,Växt- och djurbiologer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2133,Farmakologer och biomedicinare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+2133,Farmakologer och biomedicinare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2133,Farmakologer och biomedicinare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2133,Farmakologer och biomedicinare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2134,Specialister och rådgivare inom lantbruk m.m.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,50
+2134,Specialister och rådgivare inom lantbruk m.m.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,38
+2134,Specialister och rådgivare inom lantbruk m.m.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2134,Specialister och rådgivare inom lantbruk m.m.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2135,Specialister och rådgivare inom skogsbruk,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,269
+2135,Specialister och rådgivare inom skogsbruk,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,16
+2135,Specialister och rådgivare inom skogsbruk,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2135,Specialister och rådgivare inom skogsbruk,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2141,Civilingenjörsyrken inom logistik och produktionsplanering,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,38
+2141,Civilingenjörsyrken inom logistik och produktionsplanering,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+2141,Civilingenjörsyrken inom logistik och produktionsplanering,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2141,Civilingenjörsyrken inom logistik och produktionsplanering,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2142,Civilingenjörsyrken inom bygg och anläggning,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,151
+2142,Civilingenjörsyrken inom bygg och anläggning,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,19
+2142,Civilingenjörsyrken inom bygg och anläggning,FU,född utomlands,1,män,000006XU,Antal,2024,2024,20
+2142,Civilingenjörsyrken inom bygg och anläggning,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2143,Civilingenjörsyrken inom elektroteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,258
+2143,Civilingenjörsyrken inom elektroteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+2143,Civilingenjörsyrken inom elektroteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,40
+2143,Civilingenjörsyrken inom elektroteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2144,Civilingenjörsyrken inom maskinteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,198
+2144,Civilingenjörsyrken inom maskinteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+2144,Civilingenjörsyrken inom maskinteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,32
+2144,Civilingenjörsyrken inom maskinteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2145,Civilingenjörsyrken inom kemi och kemiteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,26
+2145,Civilingenjörsyrken inom kemi och kemiteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+2145,Civilingenjörsyrken inom kemi och kemiteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2145,Civilingenjörsyrken inom kemi och kemiteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2146,Civilingenjörsyrken inom gruvteknik och metallurgi,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,9
+2146,Civilingenjörsyrken inom gruvteknik och metallurgi,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+2146,Civilingenjörsyrken inom gruvteknik och metallurgi,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2146,Civilingenjörsyrken inom gruvteknik och metallurgi,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2149,Övriga civilingenjörsyrken,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,170
+2149,Övriga civilingenjörsyrken,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,63
+2149,Övriga civilingenjörsyrken,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+2149,Övriga civilingenjörsyrken,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+2161,Arkitekter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,229
+2161,Arkitekter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,217
+2161,Arkitekter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,51
+2161,Arkitekter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,60
+2162,Landskapsarkitekter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,16
+2162,Landskapsarkitekter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,46
+2162,Landskapsarkitekter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2162,Landskapsarkitekter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2163,Planeringsarkitekter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14
+2163,Planeringsarkitekter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,17
+2163,Planeringsarkitekter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2163,Planeringsarkitekter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2164,Lantmätare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,15
+2164,Lantmätare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+2164,Lantmätare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2164,Lantmätare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2171,Industridesigner,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,115
+2171,Industridesigner,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,142
+2171,Industridesigner,FU,född utomlands,1,män,000006XU,Antal,2024,2024,22
+2171,Industridesigner,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,22
+2172,Grafisk formgivare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,571
+2172,Grafisk formgivare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,589
+2172,Grafisk formgivare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,120
+2172,Grafisk formgivare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,88
+2173,Designer inom spel och digitala medier,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,99
+2173,Designer inom spel och digitala medier,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,43
+2173,Designer inom spel och digitala medier,FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+2173,Designer inom spel och digitala medier,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+2179,Övriga designer och formgivare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,54
+2179,Övriga designer och formgivare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,165
+2179,Övriga designer och formgivare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+2179,Övriga designer och formgivare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,34
+2181,"Arbetsmiljöingenjörer, yrkes- och miljöhygieniker",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+2181,"Arbetsmiljöingenjörer, yrkes- och miljöhygieniker",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+2181,"Arbetsmiljöingenjörer, yrkes- och miljöhygieniker",FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+2181,"Arbetsmiljöingenjörer, yrkes- och miljöhygieniker",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2182,Miljö- och hälsoskyddsinspektörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+2182,Miljö- och hälsoskyddsinspektörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,15
+2182,Miljö- och hälsoskyddsinspektörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2182,Miljö- och hälsoskyddsinspektörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2183,Specialister inom miljöskydd och miljöteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,36
+2183,Specialister inom miljöskydd och miljöteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,25
+2183,Specialister inom miljöskydd och miljöteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+2183,Specialister inom miljöskydd och miljöteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+2211,Specialistläkare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,165
+2211,Specialistläkare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,124
+2211,Specialistläkare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,79
+2211,Specialistläkare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,68
+2212,ST-läkare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2212,ST-läkare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+2212,ST-läkare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+2212,ST-läkare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2213,AT-läkare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2213,AT-läkare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+2213,AT-läkare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2213,AT-läkare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2219,Övriga läkare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,19
+2219,Övriga läkare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+2219,Övriga läkare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2219,Övriga läkare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2221,Grundutbildade sjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+2221,Grundutbildade sjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,152
+2221,Grundutbildade sjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+2221,Grundutbildade sjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,38
+2222,Barnmorskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2222,Barnmorskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,32
+2222,Barnmorskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2222,Barnmorskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2223,Anestesisjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+2223,Anestesisjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+2223,Anestesisjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2223,Anestesisjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2224,Distriktssköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2224,Distriktssköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,24
+2224,Distriktssköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2224,Distriktssköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2225,Psykiatrisjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+2225,Psykiatrisjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+2225,Psykiatrisjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2225,Psykiatrisjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2226,Ambulanssjuksköterskor m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+2226,Ambulanssjuksköterskor m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+2226,Ambulanssjuksköterskor m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2226,Ambulanssjuksköterskor m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2227,Geriatriksjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+2227,Geriatriksjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,27
+2227,Geriatriksjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+2227,Geriatriksjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2228,Intensivvårdssjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+2228,Intensivvårdssjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2228,Intensivvårdssjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2228,Intensivvårdssjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2231,Operationssjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2231,Operationssjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+2231,Operationssjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2231,Operationssjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2232,Barnsjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2232,Barnsjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+2232,Barnsjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2232,Barnsjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+2233,Skolsköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2233,Skolsköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,27
+2233,Skolsköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2233,Skolsköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2234,Företagssköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+2234,Företagssköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+2234,Företagssköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2234,Företagssköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2235,Röntgensjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+2235,Röntgensjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2235,Röntgensjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2235,Röntgensjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2239,Övriga specialistsjuksköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+2239,Övriga specialistsjuksköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,30
+2239,Övriga specialistsjuksköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2239,Övriga specialistsjuksköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2241,Psykologer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,98
+2241,Psykologer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,262
+2241,Psykologer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,16
+2241,Psykologer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,66
+2242,Psykoterapeuter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,128
+2242,Psykoterapeuter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,402
+2242,Psykoterapeuter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+2242,Psykoterapeuter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,44
+2250,Veterinärer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,64
+2250,Veterinärer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,139
+2250,Veterinärer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,24
+2250,Veterinärer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,25
+2260,Tandläkare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,57
+2260,Tandläkare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,37
+2260,Tandläkare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,41
+2260,Tandläkare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,27
+2271,Kiropraktorer och naprapater m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,185
+2271,Kiropraktorer och naprapater m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,189
+2271,Kiropraktorer och naprapater m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+2271,Kiropraktorer och naprapater m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,25
+2272,Sjukgymnaster,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,111
+2272,Sjukgymnaster,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,391
+2272,Sjukgymnaster,FU,född utomlands,1,män,000006XU,Antal,2024,2024,38
+2272,Sjukgymnaster,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,65
+2273,Arbetsterapeuter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+2273,Arbetsterapeuter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,90
+2273,Arbetsterapeuter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2273,Arbetsterapeuter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2281,Apotekare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+2281,Apotekare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2281,Apotekare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+2281,Apotekare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+2282,Dietister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+2282,Dietister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,28
+2282,Dietister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2282,Dietister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2283,Audionomer och logopeder,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+2283,Audionomer och logopeder,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,25
+2283,Audionomer och logopeder,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2283,Audionomer och logopeder,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2284,Optiker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,16
+2284,Optiker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,18
+2284,Optiker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2284,Optiker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2289,Övriga specialister inom hälso- och sjukvård,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+2289,Övriga specialister inom hälso- och sjukvård,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+2289,Övriga specialister inom hälso- och sjukvård,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2289,Övriga specialister inom hälso- och sjukvård,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2311,Professorer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,85
+2311,Professorer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,16
+2311,Professorer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,11
+2311,Professorer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+2312,Universitets- och högskolelektorer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,75
+2312,Universitets- och högskolelektorer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,56
+2312,Universitets- och högskolelektorer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,18
+2312,Universitets- och högskolelektorer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2313,Forskarassistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,10
+2313,Forskarassistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+2313,Forskarassistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+2313,Forskarassistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2314,Doktorander,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,10
+2314,Doktorander,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+2314,Doktorander,FU,född utomlands,1,män,000006XU,Antal,2024,2024,12
+2314,Doktorander,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,13
+2319,Övriga universitets- och högskollärare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,110
+2319,Övriga universitets- och högskollärare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,96
+2319,Övriga universitets- och högskollärare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,19
+2319,Övriga universitets- och högskollärare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,19
+2320,Lärare i yrkesämnen,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,91
+2320,Lärare i yrkesämnen,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,73
+2320,Lärare i yrkesämnen,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+2320,Lärare i yrkesämnen,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+2330,Gymnasielärare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,199
+2330,Gymnasielärare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,188
+2330,Gymnasielärare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,27
+2330,Gymnasielärare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,23
+2341,Grundskollärare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,301
+2341,Grundskollärare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,430
+2341,Grundskollärare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,70
+2341,Grundskollärare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,104
+2342,Fritidspedagoger,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,22
+2342,Fritidspedagoger,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,62
+2342,Fritidspedagoger,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+2342,Fritidspedagoger,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2343,Förskollärare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,17
+2343,Förskollärare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,249
+2343,Förskollärare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2343,Förskollärare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,22
+2351,Speciallärare och specialpedagoger m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,21
+2351,Speciallärare och specialpedagoger m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,103
+2351,Speciallärare och specialpedagoger m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2351,Speciallärare och specialpedagoger m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2352,Studie- och yrkesvägledare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+2352,Studie- och yrkesvägledare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,19
+2352,Studie- och yrkesvägledare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+2352,Studie- och yrkesvägledare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2359,Övriga pedagoger med teoretisk specialistkompetens,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,286
+2359,Övriga pedagoger med teoretisk specialistkompetens,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,429
+2359,Övriga pedagoger med teoretisk specialistkompetens,FU,född utomlands,1,män,000006XU,Antal,2024,2024,83
+2359,Övriga pedagoger med teoretisk specialistkompetens,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,148
+2411,Revisorer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,134
+2411,Revisorer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,62
+2411,Revisorer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,12
+2411,Revisorer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,18
+2412,Controller,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,52
+2412,Controller,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,54
+2412,Controller,FU,född utomlands,1,män,000006XU,Antal,2024,2024,9
+2412,Controller,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+2413,Finansanalytiker och investeringsrådgivare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,104
+2413,Finansanalytiker och investeringsrådgivare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,40
+2413,Finansanalytiker och investeringsrådgivare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,20
+2413,Finansanalytiker och investeringsrådgivare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+2414,Traders och fondförvaltare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+2414,Traders och fondförvaltare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2414,Traders och fondförvaltare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2414,Traders och fondförvaltare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2415,Nationalekonomer och makroanalytiker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+2415,Nationalekonomer och makroanalytiker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+2415,Nationalekonomer och makroanalytiker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2415,Nationalekonomer och makroanalytiker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2419,Övriga ekonomer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,155
+2419,Övriga ekonomer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,102
+2419,Övriga ekonomer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,22
+2419,Övriga ekonomer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,16
+2421,Lednings- och organisationsutvecklare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,496
+2421,Lednings- och organisationsutvecklare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,297
+2421,Lednings- och organisationsutvecklare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,87
+2421,Lednings- och organisationsutvecklare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,70
+2422,Planerare och utredare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,242
+2422,Planerare och utredare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,292
+2422,Planerare och utredare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,30
+2422,Planerare och utredare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,39
+2423,Personal- och HR-specialister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,122
+2423,Personal- och HR-specialister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,246
+2423,Personal- och HR-specialister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,25
+2423,Personal- och HR-specialister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,41
+2431,Marknadsanalytiker och marknadsförare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,272
+2431,Marknadsanalytiker och marknadsförare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,250
+2431,Marknadsanalytiker och marknadsförare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,58
+2431,Marknadsanalytiker och marknadsförare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,69
+2432,"Informatörer, kommunikatörer och PR-specialister",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,280
+2432,"Informatörer, kommunikatörer och PR-specialister",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,339
+2432,"Informatörer, kommunikatörer och PR-specialister",FU,född utomlands,1,män,000006XU,Antal,2024,2024,54
+2432,"Informatörer, kommunikatörer och PR-specialister",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,58
+2511,Systemanalytiker och IT-arkitekter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,96
+2511,Systemanalytiker och IT-arkitekter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,23
+2511,Systemanalytiker och IT-arkitekter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,17
+2511,Systemanalytiker och IT-arkitekter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,10
+2512,Mjukvaru- och systemutvecklare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1406
+2512,Mjukvaru- och systemutvecklare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,228
+2512,Mjukvaru- och systemutvecklare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,391
+2512,Mjukvaru- och systemutvecklare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,119
+2513,Utvecklare inom spel och digitala media,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,114
+2513,Utvecklare inom spel och digitala media,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+2513,Utvecklare inom spel och digitala media,FU,född utomlands,1,män,000006XU,Antal,2024,2024,34
+2513,Utvecklare inom spel och digitala media,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,11
+2514,Systemtestare och testledare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,34
+2514,Systemtestare och testledare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+2514,Systemtestare och testledare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+2514,Systemtestare och testledare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+2515,Systemförvaltare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,39
+2515,Systemförvaltare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+2515,Systemförvaltare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+2515,Systemförvaltare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2516,IT-säkerhetsspecialister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,37
+2516,IT-säkerhetsspecialister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+2516,IT-säkerhetsspecialister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+2516,IT-säkerhetsspecialister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2519,Övriga IT-specialister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,97
+2519,Övriga IT-specialister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,24
+2519,Övriga IT-specialister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,27
+2519,Övriga IT-specialister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+2611,Advokater,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,94
+2611,Advokater,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,39
+2611,Advokater,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2611,Advokater,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2612,Domare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+2612,Domare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+2612,Domare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2612,Domare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2613,Åklagare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2613,Åklagare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+2613,Åklagare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2613,Åklagare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2614,Affärs- och företagsjurister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,161
+2614,Affärs- och företagsjurister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,113
+2614,Affärs- och företagsjurister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,41
+2614,Affärs- och företagsjurister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,30
+2615,Förvaltnings- och organisationsjurister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,10
+2615,Förvaltnings- och organisationsjurister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+2615,Förvaltnings- och organisationsjurister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2615,Förvaltnings- och organisationsjurister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+2619,Övriga jurister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+2619,Övriga jurister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,23
+2619,Övriga jurister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2619,Övriga jurister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2621,Museiintendenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,44
+2621,Museiintendenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,56
+2621,Museiintendenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+2621,Museiintendenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+2622,Bibliotekarier och arkivarier,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14
+2622,Bibliotekarier och arkivarier,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,35
+2622,Bibliotekarier och arkivarier,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2622,Bibliotekarier och arkivarier,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2623,Arkeologer och specialister inom humaniora m.m.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,12
+2623,Arkeologer och specialister inom humaniora m.m.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2623,Arkeologer och specialister inom humaniora m.m.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+2623,Arkeologer och specialister inom humaniora m.m.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+2641,Författare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,242
+2641,Författare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,254
+2641,Författare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,24
+2641,Författare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,39
+2642,Journalister m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,623
+2642,Journalister m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,670
+2642,Journalister m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,48
+2642,Journalister m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,46
+2643,"Översättare, tolkar och lingvister m.fl.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,315
+2643,"Översättare, tolkar och lingvister m.fl.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,674
+2643,"Översättare, tolkar och lingvister m.fl.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,182
+2643,"Översättare, tolkar och lingvister m.fl.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,357
+2651,Bildkonstnärer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,646
+2651,Bildkonstnärer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,999
+2651,Bildkonstnärer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,117
+2651,Bildkonstnärer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,168
+2652,"Musiker, sångare och kompositörer",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1881
+2652,"Musiker, sångare och kompositörer",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,669
+2652,"Musiker, sångare och kompositörer",FU,född utomlands,1,män,000006XU,Antal,2024,2024,168
+2652,"Musiker, sångare och kompositörer",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,108
+2653,Koreografer och dansare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,41
+2653,Koreografer och dansare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,45
+2653,Koreografer och dansare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,20
+2653,Koreografer och dansare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,18
+2654,"Regissörer och producenter av film, teater m.m.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,507
+2654,"Regissörer och producenter av film, teater m.m.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,196
+2654,"Regissörer och producenter av film, teater m.m.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,79
+2654,"Regissörer och producenter av film, teater m.m.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,36
+2655,Skådespelare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,110
+2655,Skådespelare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,95
+2655,Skådespelare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+2655,Skådespelare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,19
+2661,Socialsekreterare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,33
+2661,Socialsekreterare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,119
+2661,Socialsekreterare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+2661,Socialsekreterare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,13
+2662,Kuratorer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+2662,Kuratorer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,153
+2662,Kuratorer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+2662,Kuratorer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,20
+2663,Biståndsbedömare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+2663,Biståndsbedömare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+2663,Biståndsbedömare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+2663,Biståndsbedömare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+2669,Övriga yrken inom socialt arbete,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+2669,Övriga yrken inom socialt arbete,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,37
+2669,Övriga yrken inom socialt arbete,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+2669,Övriga yrken inom socialt arbete,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,10
+2671,Präster,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+2671,Präster,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+2671,Präster,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2671,Präster,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+2672,Diakoner,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+2672,Diakoner,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+2672,Diakoner,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+2672,Diakoner,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3111,"Ingenjörer och tekniker inom industri, logistik och produktionsplanering",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,59
+3111,"Ingenjörer och tekniker inom industri, logistik och produktionsplanering",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+3111,"Ingenjörer och tekniker inom industri, logistik och produktionsplanering",FU,född utomlands,1,män,000006XU,Antal,2024,2024,9
+3111,"Ingenjörer och tekniker inom industri, logistik och produktionsplanering",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+3112,Ingenjörer och tekniker inom bygg och anläggning,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,466
+3112,Ingenjörer och tekniker inom bygg och anläggning,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,59
+3112,Ingenjörer och tekniker inom bygg och anläggning,FU,född utomlands,1,män,000006XU,Antal,2024,2024,57
+3112,Ingenjörer och tekniker inom bygg och anläggning,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,11
+3113,Ingenjörer och tekniker inom elektroteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,382
+3113,Ingenjörer och tekniker inom elektroteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,19
+3113,Ingenjörer och tekniker inom elektroteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,20
+3113,Ingenjörer och tekniker inom elektroteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+3114,Ingenjörer och tekniker inom maskinteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,456
+3114,Ingenjörer och tekniker inom maskinteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,17
+3114,Ingenjörer och tekniker inom maskinteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,33
+3114,Ingenjörer och tekniker inom maskinteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+3115,Ingenjörer och tekniker inom kemi och kemiteknik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,37
+3115,Ingenjörer och tekniker inom kemi och kemiteknik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+3115,Ingenjörer och tekniker inom kemi och kemiteknik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3115,Ingenjörer och tekniker inom kemi och kemiteknik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+3116,Ingenjörer och tekniker inom gruvteknik och metallurgi,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+3116,Ingenjörer och tekniker inom gruvteknik och metallurgi,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+3116,Ingenjörer och tekniker inom gruvteknik och metallurgi,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+3116,Ingenjörer och tekniker inom gruvteknik och metallurgi,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3117,GIS- och kartingenjörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,12
+3117,GIS- och kartingenjörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+3117,GIS- och kartingenjörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3117,GIS- och kartingenjörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+3119,Övriga ingenjörer och tekniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,154
+3119,Övriga ingenjörer och tekniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,23
+3119,Övriga ingenjörer och tekniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+3119,Övriga ingenjörer och tekniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+3121,"Arbetsledare inom bygg, anläggning och gruva",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,146
+3121,"Arbetsledare inom bygg, anläggning och gruva",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+3121,"Arbetsledare inom bygg, anläggning och gruva",FU,född utomlands,1,män,000006XU,Antal,2024,2024,65
+3121,"Arbetsledare inom bygg, anläggning och gruva",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,10
+3122,Arbetsledare inom tillverkning,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,45
+3122,Arbetsledare inom tillverkning,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+3122,Arbetsledare inom tillverkning,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+3122,Arbetsledare inom tillverkning,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+3151,Maskinbefäl,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+3151,Maskinbefäl,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+3151,Maskinbefäl,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+3151,Maskinbefäl,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+3152,Fartygsbefäl m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,91
+3152,Fartygsbefäl m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+3152,Fartygsbefäl m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3152,Fartygsbefäl m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3153,Piloter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,42
+3153,Piloter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+3153,Piloter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+3153,Piloter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3154,Flygledare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+3154,Flygledare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+3154,Flygledare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3154,Flygledare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3155,Flygtekniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,29
+3155,Flygtekniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+3155,Flygtekniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+3155,Flygtekniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3211,"Tekniker, bilddiagnostik och medicinteknisk utrustning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+3211,"Tekniker, bilddiagnostik och medicinteknisk utrustning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+3211,"Tekniker, bilddiagnostik och medicinteknisk utrustning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3211,"Tekniker, bilddiagnostik och medicinteknisk utrustning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3212,Biomedicinska analytiker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+3212,Biomedicinska analytiker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,36
+3212,Biomedicinska analytiker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3212,Biomedicinska analytiker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,10
+3213,Receptarier,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+3213,Receptarier,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+3213,Receptarier,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3213,Receptarier,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+3214,Tandtekniker och ortopedingenjörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,39
+3214,Tandtekniker och ortopedingenjörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,24
+3214,Tandtekniker och ortopedingenjörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,12
+3214,Tandtekniker och ortopedingenjörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+3215,Laboratorieingenjörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,44
+3215,Laboratorieingenjörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,28
+3215,Laboratorieingenjörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+3215,Laboratorieingenjörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+3230,Terapeuter inom alternativmedicin,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,80
+3230,Terapeuter inom alternativmedicin,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,550
+3230,Terapeuter inom alternativmedicin,FU,född utomlands,1,män,000006XU,Antal,2024,2024,37
+3230,Terapeuter inom alternativmedicin,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,117
+3240,Djursjukskötare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+3240,Djursjukskötare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,32
+3240,Djursjukskötare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3240,Djursjukskötare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+3250,Tandhygienister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+3250,Tandhygienister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,43
+3250,Tandhygienister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3250,Tandhygienister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+3311,Mäklare inom finans,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14
+3311,Mäklare inom finans,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+3311,Mäklare inom finans,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3311,Mäklare inom finans,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3312,Banktjänstemän,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,43
+3312,Banktjänstemän,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,42
+3312,Banktjänstemän,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+3312,Banktjänstemän,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+3313,Redovisningsekonomer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,775
+3313,Redovisningsekonomer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1490
+3313,Redovisningsekonomer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,141
+3313,Redovisningsekonomer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,296
+3314,Skadereglerare och värderare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,36
+3314,Skadereglerare och värderare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,17
+3314,Skadereglerare och värderare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3314,Skadereglerare och värderare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+3321,Försäkringssäljare och försäkringsrådgivare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,70
+3321,Försäkringssäljare och försäkringsrådgivare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,63
+3321,Försäkringssäljare och försäkringsrådgivare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+3321,Försäkringssäljare och försäkringsrådgivare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+3322,Företagssäljare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1317
+3322,Företagssäljare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,402
+3322,Företagssäljare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,329
+3322,Företagssäljare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,126
+3323,Inköpare och upphandlare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,141
+3323,Inköpare och upphandlare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,61
+3323,Inköpare och upphandlare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,32
+3323,Inköpare och upphandlare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,14
+3324,Ordersamordnare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,55
+3324,Ordersamordnare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,37
+3324,Ordersamordnare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+3324,Ordersamordnare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+3331,Speditörer och transportmäklare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,58
+3331,Speditörer och transportmäklare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,35
+3331,Speditörer och transportmäklare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,13
+3331,Speditörer och transportmäklare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+3332,Evenemangs- och reseproducenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,92
+3332,Evenemangs- och reseproducenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,80
+3332,Evenemangs- och reseproducenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,26
+3332,Evenemangs- och reseproducenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,23
+3333,Arbetsförmedlare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,18
+3333,Arbetsförmedlare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,39
+3333,Arbetsförmedlare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+3333,Arbetsförmedlare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,13
+3334,Fastighetsmäklare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,124
+3334,Fastighetsmäklare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,52
+3334,Fastighetsmäklare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,10
+3334,Fastighetsmäklare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+3335,Fastighetsförvaltare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,497
+3335,Fastighetsförvaltare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,184
+3335,Fastighetsförvaltare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,67
+3335,Fastighetsförvaltare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,27
+3339,Övriga förmedlare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,94
+3339,Övriga förmedlare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,43
+3339,Övriga förmedlare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,25
+3339,Övriga förmedlare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,22
+3341,Gruppledare för kontorspersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,22
+3341,Gruppledare för kontorspersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,38
+3341,Gruppledare för kontorspersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+3341,Gruppledare för kontorspersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,20
+3342,Domstols- och juristsekreterare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+3342,Domstols- och juristsekreterare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,23
+3342,Domstols- och juristsekreterare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3342,Domstols- och juristsekreterare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+3343,Chefssekreterare och VD-assistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,10
+3343,Chefssekreterare och VD-assistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,47
+3343,Chefssekreterare och VD-assistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+3343,Chefssekreterare och VD-assistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+3351,Tull- och kustbevakningstjänstemän,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+3351,Tull- och kustbevakningstjänstemän,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+3351,Tull- och kustbevakningstjänstemän,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+3351,Tull- och kustbevakningstjänstemän,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3352,Skattehandläggare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+3352,Skattehandläggare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+3352,Skattehandläggare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+3352,Skattehandläggare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+3353,Socialförsäkringshandläggare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+3353,Socialförsäkringshandläggare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,19
+3353,Socialförsäkringshandläggare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+3353,Socialförsäkringshandläggare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+3354,Säkerhetsinspektörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,30
+3354,Säkerhetsinspektörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+3354,Säkerhetsinspektörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+3354,Säkerhetsinspektörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3355,Brandingenjörer och byggnadsinspektörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,31
+3355,Brandingenjörer och byggnadsinspektörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+3355,Brandingenjörer och byggnadsinspektörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+3355,Brandingenjörer och byggnadsinspektörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3359,Övriga handläggare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,65
+3359,Övriga handläggare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,104
+3359,Övriga handläggare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+3359,Övriga handläggare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,23
+3360,Poliser,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,35
+3360,Poliser,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+3360,Poliser,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+3360,Poliser,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3411,Behandlingsassistenter och socialpedagoger m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,54
+3411,Behandlingsassistenter och socialpedagoger m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,89
+3411,Behandlingsassistenter och socialpedagoger m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+3411,Behandlingsassistenter och socialpedagoger m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,15
+3412,Pastorer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+3412,Pastorer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+3412,Pastorer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+3412,Pastorer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+3421,Professionella idrottsutövare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,105
+3421,Professionella idrottsutövare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,52
+3421,Professionella idrottsutövare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+3421,Professionella idrottsutövare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,7
+3422,Idrottstränare och instruktörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,579
+3422,Idrottstränare och instruktörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,846
+3422,Idrottstränare och instruktörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,147
+3422,Idrottstränare och instruktörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,119
+3423,Fritidsledare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,72
+3423,Fritidsledare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,80
+3423,Fritidsledare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,16
+3423,Fritidsledare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,18
+3424,Friskvårdskonsulenter och hälsopedagoger m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,33
+3424,Friskvårdskonsulenter och hälsopedagoger m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,149
+3424,Friskvårdskonsulenter och hälsopedagoger m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+3424,Friskvårdskonsulenter och hälsopedagoger m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,23
+3431,Fotografer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1122
+3431,Fotografer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,705
+3431,Fotografer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,251
+3431,Fotografer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,141
+3432,"Inredare, dekoratörer och scenografer m.fl.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,48
+3432,"Inredare, dekoratörer och scenografer m.fl.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,190
+3432,"Inredare, dekoratörer och scenografer m.fl.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,16
+3432,"Inredare, dekoratörer och scenografer m.fl.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,28
+3433,Inspicienter och scriptor m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+3433,Inspicienter och scriptor m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,31
+3433,Inspicienter och scriptor m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+3433,Inspicienter och scriptor m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+3439,Övriga yrken inom kultur och underhållning,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,320
+3439,Övriga yrken inom kultur och underhållning,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,215
+3439,Övriga yrken inom kultur och underhållning,FU,född utomlands,1,män,000006XU,Antal,2024,2024,99
+3439,Övriga yrken inom kultur och underhållning,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,38
+3441,Trafiklärare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,185
+3441,Trafiklärare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,72
+3441,Trafiklärare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,92
+3441,Trafiklärare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,24
+3449,Övriga utbildare och instruktörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,467
+3449,Övriga utbildare och instruktörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,588
+3449,Övriga utbildare och instruktörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,99
+3449,Övriga utbildare och instruktörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,108
+3451,Köksmästare och souschefer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,74
+3451,Köksmästare och souschefer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,39
+3451,Köksmästare och souschefer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,96
+3451,Köksmästare och souschefer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,56
+3452,Storhushållsföreståndare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+3452,Storhushållsföreståndare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+3452,Storhushållsföreståndare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+3452,Storhushållsföreståndare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+3511,"Drifttekniker, IT",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,58
+3511,"Drifttekniker, IT",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+3511,"Drifttekniker, IT",FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+3511,"Drifttekniker, IT",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+3512,"Supporttekniker, IT",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,94
+3512,"Supporttekniker, IT",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,22
+3512,"Supporttekniker, IT",FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+3512,"Supporttekniker, IT",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+3513,Systemadministratörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+3513,Systemadministratörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+3513,Systemadministratörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+3513,Systemadministratörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+3514,Nätverks- och systemtekniker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,79
+3514,Nätverks- och systemtekniker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+3514,Nätverks- och systemtekniker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,18
+3514,Nätverks- och systemtekniker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+3515,Webbmaster och webbadministratörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14
+3515,Webbmaster och webbadministratörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,16
+3515,Webbmaster och webbadministratörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+3515,Webbmaster och webbadministratörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+3521,Bild- och sändningstekniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,58
+3521,Bild- och sändningstekniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,20
+3521,Bild- och sändningstekniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+3521,Bild- och sändningstekniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+3522,"Ljus-, ljud och scentekniker",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,204
+3522,"Ljus-, ljud och scentekniker",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,44
+3522,"Ljus-, ljud och scentekniker",FU,född utomlands,1,män,000006XU,Antal,2024,2024,40
+3522,"Ljus-, ljud och scentekniker",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,14
+4111,Ekonomiassistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,141
+4111,Ekonomiassistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,588
+4111,Ekonomiassistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,57
+4111,Ekonomiassistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,128
+4112,Löne- och personaladministratörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,16
+4112,Löne- och personaladministratörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,90
+4112,Löne- och personaladministratörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+4112,Löne- och personaladministratörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,18
+4113,Backofficepersonal m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+4113,Backofficepersonal m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+4113,Backofficepersonal m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+4113,Backofficepersonal m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+4114,Marknads- och försäljningsassistenter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,33
+4114,Marknads- och försäljningsassistenter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,89
+4114,Marknads- och försäljningsassistenter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+4114,Marknads- och försäljningsassistenter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,18
+4115,Inköps- och orderassistenter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,18
+4115,Inköps- och orderassistenter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,31
+4115,Inköps- och orderassistenter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,12
+4115,Inköps- och orderassistenter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+4116,Skolassistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+4116,Skolassistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,26
+4116,Skolassistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+4116,Skolassistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+4117,"Medicinska sekreterare, vårdadministratörer m.fl.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+4117,"Medicinska sekreterare, vårdadministratörer m.fl.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,81
+4117,"Medicinska sekreterare, vårdadministratörer m.fl.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+4117,"Medicinska sekreterare, vårdadministratörer m.fl.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+4119,Övriga kontorsassistenter och sekreterare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,199
+4119,Övriga kontorsassistenter och sekreterare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,578
+4119,Övriga kontorsassistenter och sekreterare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,73
+4119,Övriga kontorsassistenter och sekreterare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,178
+4211,Croupierer och oddssättare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5
+4211,Croupierer och oddssättare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+4211,Croupierer och oddssättare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+4211,Croupierer och oddssättare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+4212,Inkasserare och pantlånare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+4212,Inkasserare och pantlånare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+4212,Inkasserare och pantlånare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+4212,Inkasserare och pantlånare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+4221,Resesäljare och trafikassistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+4221,Resesäljare och trafikassistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,41
+4221,Resesäljare och trafikassistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,31
+4221,Resesäljare och trafikassistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,16
+4222,Kundtjänstpersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,103
+4222,Kundtjänstpersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,105
+4222,Kundtjänstpersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,26
+4222,Kundtjänstpersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,40
+4223,Telefonister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+4223,Telefonister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+4223,Telefonister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+4223,Telefonister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+4224,Hotellreceptionister m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,210
+4224,Hotellreceptionister m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,267
+4224,Hotellreceptionister m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,104
+4224,Hotellreceptionister m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,118
+4225,Kontorsreceptionister,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,41
+4225,Kontorsreceptionister,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,100
+4225,Kontorsreceptionister,FU,född utomlands,1,män,000006XU,Antal,2024,2024,12
+4225,Kontorsreceptionister,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,21
+4226,Marknadsundersökare och intervjuare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+4226,Marknadsundersökare och intervjuare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+4226,Marknadsundersökare och intervjuare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+4226,Marknadsundersökare och intervjuare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+4321,Arbetsledare inom lager och terminal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+4321,Arbetsledare inom lager och terminal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+4321,Arbetsledare inom lager och terminal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+4321,Arbetsledare inom lager och terminal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+4322,Lager- och terminalpersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,311
+4322,Lager- och terminalpersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,113
+4322,Lager- och terminalpersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,203
+4322,Lager- och terminalpersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,58
+4323,Transportledare och transportsamordnare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,32
+4323,Transportledare och transportsamordnare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+4323,Transportledare och transportsamordnare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+4323,Transportledare och transportsamordnare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+4410,Biblioteks- och arkivassistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+4410,Biblioteks- och arkivassistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,28
+4410,Biblioteks- och arkivassistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+4410,Biblioteks- och arkivassistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+4420,Brevbärare och postterminalarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,68
+4420,Brevbärare och postterminalarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,31
+4420,Brevbärare och postterminalarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+4420,Brevbärare och postterminalarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+4430,Förtroendevalda,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,200
+4430,Förtroendevalda,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,123
+4430,Förtroendevalda,FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+4430,Förtroendevalda,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,22
+5111,Kabinpersonal m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+5111,Kabinpersonal m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+5111,Kabinpersonal m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+5111,Kabinpersonal m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+5112,Tågvärdar och ombordansvariga m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,15
+5112,Tågvärdar och ombordansvariga m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+5112,Tågvärdar och ombordansvariga m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+5112,Tågvärdar och ombordansvariga m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+5113,Guider och reseledare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,109
+5113,Guider och reseledare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,86
+5113,Guider och reseledare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,44
+5113,Guider och reseledare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,31
+5120,Kockar och kallskänkor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,272
+5120,Kockar och kallskänkor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,329
+5120,Kockar och kallskänkor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,685
+5120,Kockar och kallskänkor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,456
+5131,Hovmästare och servitörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,114
+5131,Hovmästare och servitörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,172
+5131,Hovmästare och servitörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,106
+5131,Hovmästare och servitörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,98
+5132,Bartendrar,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,61
+5132,Bartendrar,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,32
+5132,Bartendrar,FU,född utomlands,1,män,000006XU,Antal,2024,2024,26
+5132,Bartendrar,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,15
+5141,Frisörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,373
+5141,Frisörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5504
+5141,Frisörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1726
+5141,Frisörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1697
+5142,Hudterapeuter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,21
+5142,Hudterapeuter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,437
+5142,Hudterapeuter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,13
+5142,Hudterapeuter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,173
+5143,Massörer och massageterapeuter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,270
+5143,Massörer och massageterapeuter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1344
+5143,Massörer och massageterapeuter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,68
+5143,Massörer och massageterapeuter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1092
+5144,Fotterapeuter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,9
+5144,Fotterapeuter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,979
+5144,Fotterapeuter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+5144,Fotterapeuter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,191
+5149,Övriga skönhets- och kroppsterapeuter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,80
+5149,Övriga skönhets- och kroppsterapeuter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1416
+5149,Övriga skönhets- och kroppsterapeuter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,131
+5149,Övriga skönhets- och kroppsterapeuter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1161
+5151,Städledare och husfruar,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,34
+5151,Städledare och husfruar,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,55
+5151,Städledare och husfruar,FU,född utomlands,1,män,000006XU,Antal,2024,2024,48
+5151,Städledare och husfruar,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,106
+5152,Fastighetsskötare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1085
+5152,Fastighetsskötare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,114
+5152,Fastighetsskötare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,200
+5152,Fastighetsskötare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,37
+5161,Begravnings- och krematoriepersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,38
+5161,Begravnings- och krematoriepersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,33
+5161,Begravnings- och krematoriepersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,9
+5161,Begravnings- och krematoriepersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+5169,Övrig servicepersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,38
+5169,Övrig servicepersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,21
+5169,Övrig servicepersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+5169,Övrig servicepersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+5221,Säljande butikschefer och avdelningschefer i butik,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1301
+5221,Säljande butikschefer och avdelningschefer i butik,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1574
+5221,Säljande butikschefer och avdelningschefer i butik,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1295
+5221,Säljande butikschefer och avdelningschefer i butik,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,738
+5222,"Butikssäljare, dagligvaror",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,220
+5222,"Butikssäljare, dagligvaror",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,361
+5222,"Butikssäljare, dagligvaror",FU,född utomlands,1,män,000006XU,Antal,2024,2024,173
+5222,"Butikssäljare, dagligvaror",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,75
+5223,"Butikssäljare, fackhandel",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,610
+5223,"Butikssäljare, fackhandel",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,837
+5223,"Butikssäljare, fackhandel",FU,född utomlands,1,män,000006XU,Antal,2024,2024,166
+5223,"Butikssäljare, fackhandel",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,118
+5224,Optikerassistenter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+5224,Optikerassistenter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+5224,Optikerassistenter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+5224,Optikerassistenter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+5225,Bensinstationspersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,19
+5225,Bensinstationspersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,22
+5225,Bensinstationspersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,11
+5225,Bensinstationspersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+5226,Uthyrare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,192
+5226,Uthyrare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,35
+5226,Uthyrare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,16
+5226,Uthyrare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+5227,Apotekstekniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+5227,Apotekstekniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+5227,Apotekstekniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+5227,Apotekstekniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+5230,Kassapersonal m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,86
+5230,Kassapersonal m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,96
+5230,Kassapersonal m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,175
+5230,Kassapersonal m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,106
+5241,Eventsäljare och butiksdemonstratörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,24
+5241,Eventsäljare och butiksdemonstratörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,45
+5241,Eventsäljare och butiksdemonstratörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+5241,Eventsäljare och butiksdemonstratörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+5242,Telefonförsäljare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1010
+5242,Telefonförsäljare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,673
+5242,Telefonförsäljare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,327
+5242,Telefonförsäljare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,358
+5311,Barnskötare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,69
+5311,Barnskötare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,564
+5311,Barnskötare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+5311,Barnskötare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,157
+5312,Elevassistenter m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,82
+5312,Elevassistenter m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,114
+5312,Elevassistenter m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,32
+5312,Elevassistenter m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,32
+5321,"Undersköterskor, hemtjänst, hemsjukvård och äldreboende",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,21
+5321,"Undersköterskor, hemtjänst, hemsjukvård och äldreboende",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,377
+5321,"Undersköterskor, hemtjänst, hemsjukvård och äldreboende",FU,född utomlands,1,män,000006XU,Antal,2024,2024,37
+5321,"Undersköterskor, hemtjänst, hemsjukvård och äldreboende",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,96
+5322,"Undersköterskor, habilitering",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+5322,"Undersköterskor, habilitering",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+5322,"Undersköterskor, habilitering",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+5322,"Undersköterskor, habilitering",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+5323,"Undersköterskor, vård- och specialavdelning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+5323,"Undersköterskor, vård- och specialavdelning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,72
+5323,"Undersköterskor, vård- och specialavdelning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+5323,"Undersköterskor, vård- och specialavdelning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,23
+5324,"Undersköterskor, mottagning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+5324,"Undersköterskor, mottagning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,26
+5324,"Undersköterskor, mottagning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+5324,"Undersköterskor, mottagning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+5325,Barnsköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+5325,Barnsköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+5325,Barnsköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+5325,Barnsköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+5326,Ambulanssjukvårdare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+5326,Ambulanssjukvårdare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+5326,Ambulanssjukvårdare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+5326,Ambulanssjukvårdare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+5330,Vårdbiträden,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,63
+5330,Vårdbiträden,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,264
+5330,Vårdbiträden,FU,född utomlands,1,män,000006XU,Antal,2024,2024,66
+5330,Vårdbiträden,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,105
+5341,Skötare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+5341,Skötare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,54
+5341,Skötare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+5341,Skötare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+5342,"Vårdare, boendestödjare",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,127
+5342,"Vårdare, boendestödjare",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,271
+5342,"Vårdare, boendestödjare",FU,född utomlands,1,män,000006XU,Antal,2024,2024,51
+5342,"Vårdare, boendestödjare",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,44
+5343,Personliga assistenter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,916
+5343,Personliga assistenter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1003
+5343,Personliga assistenter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,348
+5343,Personliga assistenter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,397
+5349,Övrig vård- och omsorgspersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,33
+5349,Övrig vård- och omsorgspersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,75
+5349,Övrig vård- och omsorgspersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,36
+5349,Övrig vård- och omsorgspersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,16
+5350,Tandsköterskor,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1
+5350,Tandsköterskor,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,35
+5350,Tandsköterskor,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+5350,Tandsköterskor,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+5411,Brandmän,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,53
+5411,Brandmän,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+5411,Brandmän,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+5411,Brandmän,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+5412,Kriminalvårdare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,29
+5412,Kriminalvårdare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,20
+5412,Kriminalvårdare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+5412,Kriminalvårdare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+5413,Väktare och ordningsvakter,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,62
+5413,Väktare och ordningsvakter,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,23
+5413,Väktare och ordningsvakter,FU,född utomlands,1,män,000006XU,Antal,2024,2024,30
+5413,Väktare och ordningsvakter,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+5414,SOS-operatörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+5414,SOS-operatörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+5414,SOS-operatörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+5414,SOS-operatörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+5419,Övrig bevaknings- och säkerhetspersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,19
+5419,Övrig bevaknings- och säkerhetspersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+5419,Övrig bevaknings- och säkerhetspersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+5419,Övrig bevaknings- och säkerhetspersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+6111,"Odlare av jordbruksväxter, frukt- och bär",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,10464
+6111,"Odlare av jordbruksväxter, frukt- och bär",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2109
+6111,"Odlare av jordbruksväxter, frukt- och bär",FU,född utomlands,1,män,000006XU,Antal,2024,2024,509
+6111,"Odlare av jordbruksväxter, frukt- och bär",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,321
+6112,Trädgårdsodlare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,485
+6112,Trädgårdsodlare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,202
+6112,Trädgårdsodlare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,78
+6112,Trädgårdsodlare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,61
+6113,Trädgårdsanläggare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,637
+6113,Trädgårdsanläggare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,407
+6113,Trädgårdsanläggare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,162
+6113,Trädgårdsanläggare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,48
+6121,Uppfödare och skötare av lantbrukets husdjur,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,10643
+6121,Uppfödare och skötare av lantbrukets husdjur,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3055
+6121,Uppfödare och skötare av lantbrukets husdjur,FU,född utomlands,1,män,000006XU,Antal,2024,2024,618
+6121,Uppfödare och skötare av lantbrukets husdjur,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,410
+6122,Uppfödare och skötare av sällskapsdjur,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,115
+6122,Uppfödare och skötare av sällskapsdjur,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,883
+6122,Uppfödare och skötare av sällskapsdjur,FU,född utomlands,1,män,000006XU,Antal,2024,2024,31
+6122,Uppfödare och skötare av sällskapsdjur,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,123
+6129,Övriga djuruppfödare och djurskötare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,500
+6129,Övriga djuruppfödare och djurskötare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,159
+6129,Övriga djuruppfödare och djurskötare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,39
+6129,Övriga djuruppfödare och djurskötare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,10
+6130,"Växtodlare och djuruppfödare, blandad drift",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14083
+6130,"Växtodlare och djuruppfödare, blandad drift",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5823
+6130,"Växtodlare och djuruppfödare, blandad drift",FU,född utomlands,1,män,000006XU,Antal,2024,2024,915
+6130,"Växtodlare och djuruppfödare, blandad drift",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,745
+6210,Skogsarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8044
+6210,Skogsarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4694
+6210,Skogsarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,172
+6210,Skogsarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,97
+6221,Fiskodlare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,42
+6221,Fiskodlare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,9
+6221,Fiskodlare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+6221,Fiskodlare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+6222,Fiskare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,494
+6222,Fiskare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,37
+6222,Fiskare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,13
+6222,Fiskare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+7111,"Träarbetare, snickare m.fl.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,5149
+7111,"Träarbetare, snickare m.fl.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,121
+7111,"Träarbetare, snickare m.fl.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1382
+7111,"Träarbetare, snickare m.fl.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,89
+7112,Murare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,529
+7112,Murare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+7112,Murare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,223
+7112,Murare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,16
+7113,Betongarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,189
+7113,Betongarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+7113,Betongarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,39
+7113,Betongarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7114,Anläggningsarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,400
+7114,Anläggningsarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+7114,Anläggningsarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,82
+7114,Anläggningsarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+7115,Anläggningsdykare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,27
+7115,Anläggningsdykare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+7115,Anläggningsdykare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+7115,Anläggningsdykare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7116,Ställningsbyggare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,42
+7116,Ställningsbyggare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+7116,Ställningsbyggare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,23
+7116,Ställningsbyggare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+7119,Övriga byggnads- och anläggningsarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2162
+7119,Övriga byggnads- och anläggningsarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,56
+7119,Övriga byggnads- och anläggningsarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1373
+7119,Övriga byggnads- och anläggningsarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,83
+7121,Takmontörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,98
+7121,Takmontörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+7121,Takmontörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,76
+7121,Takmontörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+7122,Golvläggare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,264
+7122,Golvläggare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+7122,Golvläggare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,124
+7122,Golvläggare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+7123,Isoleringsmontörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,52
+7123,Isoleringsmontörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+7123,Isoleringsmontörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+7123,Isoleringsmontörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+7124,Glastekniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,154
+7124,Glastekniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,25
+7124,Glastekniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,26
+7124,Glastekniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7125,VVS-montörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,935
+7125,VVS-montörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,18
+7125,VVS-montörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,153
+7125,VVS-montörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+7126,Kyl- och värmepumpstekniker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,116
+7126,Kyl- och värmepumpstekniker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+7126,Kyl- och värmepumpstekniker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,34
+7126,Kyl- och värmepumpstekniker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7131,Målare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1466
+7131,Målare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,120
+7131,Målare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,472
+7131,Målare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,73
+7132,Lackerare och industrimålare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,175
+7132,Lackerare och industrimålare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+7132,Lackerare och industrimålare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,56
+7132,Lackerare och industrimålare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+7133,Skorstensfejare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,17
+7133,Skorstensfejare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+7133,Skorstensfejare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+7133,Skorstensfejare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7134,Saneringsarbetare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,108
+7134,Saneringsarbetare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+7134,Saneringsarbetare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,25
+7134,Saneringsarbetare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+7211,Gjutare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+7211,Gjutare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+7211,Gjutare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+7211,Gjutare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7212,Svetsare och gasskärare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,473
+7212,Svetsare och gasskärare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+7212,Svetsare och gasskärare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,70
+7212,Svetsare och gasskärare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+7213,Byggnads- och ventilationsplåtslagare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,412
+7213,Byggnads- och ventilationsplåtslagare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+7213,Byggnads- och ventilationsplåtslagare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,81
+7213,Byggnads- och ventilationsplåtslagare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+7214,Tunnplåtslagare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,141
+7214,Tunnplåtslagare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+7214,Tunnplåtslagare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,31
+7214,Tunnplåtslagare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7215,Stålkonstruktionsmontörer och grovplåtsslagare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,38
+7215,Stålkonstruktionsmontörer och grovplåtsslagare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+7215,Stålkonstruktionsmontörer och grovplåtsslagare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+7215,Stålkonstruktionsmontörer och grovplåtsslagare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7221,Smeder,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,136
+7221,Smeder,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+7221,Smeder,FU,född utomlands,1,män,000006XU,Antal,2024,2024,19
+7221,Smeder,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7222,Verktygsmakare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,62
+7222,Verktygsmakare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+7222,Verktygsmakare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,5
+7222,Verktygsmakare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7223,"Maskinställare och maskinoperatörer, metallarbete",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,515
+7223,"Maskinställare och maskinoperatörer, metallarbete",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,34
+7223,"Maskinställare och maskinoperatörer, metallarbete",FU,född utomlands,1,män,000006XU,Antal,2024,2024,86
+7223,"Maskinställare och maskinoperatörer, metallarbete",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,9
+7224,Slipare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,24
+7224,Slipare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+7224,Slipare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+7224,Slipare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7231,Motorfordonsmekaniker och fordonsreparatörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2506
+7231,Motorfordonsmekaniker och fordonsreparatörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,38
+7231,Motorfordonsmekaniker och fordonsreparatörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,932
+7231,Motorfordonsmekaniker och fordonsreparatörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,27
+7232,Flygmekaniker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+7232,Flygmekaniker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+7232,Flygmekaniker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+7232,Flygmekaniker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7233,Underhållsmekaniker och maskinreparatörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,646
+7233,Underhållsmekaniker och maskinreparatörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+7233,Underhållsmekaniker och maskinreparatörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,58
+7233,Underhållsmekaniker och maskinreparatörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+7311,Finmekaniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,90
+7311,Finmekaniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+7311,Finmekaniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,27
+7311,Finmekaniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+7312,Guld- och silversmeder,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,86
+7312,Guld- och silversmeder,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,140
+7312,Guld- och silversmeder,FU,född utomlands,1,män,000006XU,Antal,2024,2024,51
+7312,Guld- och silversmeder,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,27
+7319,Musikinstrumentmakare och övriga konsthantverkare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,380
+7319,Musikinstrumentmakare och övriga konsthantverkare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,592
+7319,Musikinstrumentmakare och övriga konsthantverkare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,72
+7319,Musikinstrumentmakare och övriga konsthantverkare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,77
+7321,Prepresstekniker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,15
+7321,Prepresstekniker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+7321,Prepresstekniker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+7321,Prepresstekniker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+7322,Tryckare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,126
+7322,Tryckare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,26
+7322,Tryckare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,26
+7322,Tryckare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+7323,Bokbindare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+7323,Bokbindare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+7323,Bokbindare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+7323,Bokbindare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+7411,Installations- och serviceelektriker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1154
+7411,Installations- och serviceelektriker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,13
+7411,Installations- och serviceelektriker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,192
+7411,Installations- och serviceelektriker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+7412,Industrielektriker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,151
+7412,Industrielektriker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+7412,Industrielektriker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,22
+7412,Industrielektriker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7413,Distributionselektriker,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,51
+7413,Distributionselektriker,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+7413,Distributionselektriker,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+7413,Distributionselektriker,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+7420,Elektronikreparatörer och kommunikationselektriker m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,612
+7420,Elektronikreparatörer och kommunikationselektriker m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+7420,Elektronikreparatörer och kommunikationselektriker m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,177
+7420,Elektronikreparatörer och kommunikationselektriker m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,21
+7521,"Manuella ytbehandlare, trä",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+7521,"Manuella ytbehandlare, trä",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+7521,"Manuella ytbehandlare, trä",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+7521,"Manuella ytbehandlare, trä",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+7522,"Fin-, inrednings- och möbelsnickare",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,666
+7522,"Fin-, inrednings- och möbelsnickare",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,95
+7522,"Fin-, inrednings- och möbelsnickare",FU,född utomlands,1,män,000006XU,Antal,2024,2024,156
+7522,"Fin-, inrednings- och möbelsnickare",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,18
+7523,"Maskinsnickare och maskinoperatörer, träindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,131
+7523,"Maskinsnickare och maskinoperatörer, träindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+7523,"Maskinsnickare och maskinoperatörer, träindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,18
+7523,"Maskinsnickare och maskinoperatörer, träindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+7531,Skräddare och ateljésömmerskor m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,30
+7531,Skräddare och ateljésömmerskor m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,372
+7531,Skräddare och ateljésömmerskor m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,154
+7531,Skräddare och ateljésömmerskor m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,165
+7532,Sömmare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,27
+7532,Sömmare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,35
+7532,Sömmare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+7532,Sömmare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+7533,Tapetserare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,64
+7533,Tapetserare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,218
+7533,Tapetserare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,23
+7533,Tapetserare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,16
+7534,Läderhantverkare och skomakare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,80
+7534,Läderhantverkare och skomakare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,56
+7534,Läderhantverkare och skomakare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,159
+7534,Läderhantverkare och skomakare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,21
+7611,Slaktare och styckare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,46
+7611,Slaktare och styckare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+7611,Slaktare och styckare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,18
+7611,Slaktare och styckare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+7612,Bagare och konditorer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,76
+7612,Bagare och konditorer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,159
+7612,Bagare och konditorer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,101
+7612,Bagare och konditorer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,111
+7613,Provsmakare och kvalitetsbedömare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+7613,Provsmakare och kvalitetsbedömare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+7613,Provsmakare och kvalitetsbedömare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+7613,Provsmakare och kvalitetsbedömare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+7619,Övriga livsmedelsförädlare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,53
+7619,Övriga livsmedelsförädlare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,27
+7619,Övriga livsmedelsförädlare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+7619,Övriga livsmedelsförädlare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,13
+8111,Gruv- och stenbrottsarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,43
+8111,Gruv- och stenbrottsarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+8111,Gruv- och stenbrottsarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+8111,Gruv- och stenbrottsarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8112,"Processoperatörer, stenkross- och malmförädlingsanläggning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,38
+8112,"Processoperatörer, stenkross- och malmförädlingsanläggning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8112,"Processoperatörer, stenkross- och malmförädlingsanläggning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+8112,"Processoperatörer, stenkross- och malmförädlingsanläggning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+8113,Brunnsborrare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,24
+8113,Brunnsborrare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8113,Brunnsborrare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+8113,Brunnsborrare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+8114,"Maskinoperatörer, cement-, sten- och betongvaror",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,18
+8114,"Maskinoperatörer, cement-, sten- och betongvaror",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8114,"Maskinoperatörer, cement-, sten- och betongvaror",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+8114,"Maskinoperatörer, cement-, sten- och betongvaror",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8115,Bergssprängare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,33
+8115,Bergssprängare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8115,Bergssprängare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+8115,Bergssprängare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8116,Stenhuggare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,19
+8116,Stenhuggare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+8116,Stenhuggare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,13
+8116,Stenhuggare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,6
+8121,"Maskinoperatörer, ytbehandling",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,14
+8121,"Maskinoperatörer, ytbehandling",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+8121,"Maskinoperatörer, ytbehandling",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+8121,"Maskinoperatörer, ytbehandling",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8122,Valsverksoperatörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+8122,Valsverksoperatörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8122,Valsverksoperatörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+8122,Valsverksoperatörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8129,Övriga maskin- och processoperatörer vid stål- och metallverk,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+8129,Övriga maskin- och processoperatörer vid stål- och metallverk,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+8129,Övriga maskin- och processoperatörer vid stål- och metallverk,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+8129,Övriga maskin- och processoperatörer vid stål- och metallverk,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+8131,"Maskinoperatörer, farmaceutiska produkter",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+8131,"Maskinoperatörer, farmaceutiska produkter",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+8131,"Maskinoperatörer, farmaceutiska produkter",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+8131,"Maskinoperatörer, farmaceutiska produkter",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8132,"Maskinoperatörer, kemisktekniska och fotografiska produkter",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,4
+8132,"Maskinoperatörer, kemisktekniska och fotografiska produkter",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+8132,"Maskinoperatörer, kemisktekniska och fotografiska produkter",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+8132,"Maskinoperatörer, kemisktekniska och fotografiska produkter",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8141,"Maskinoperatörer, gummiindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+8141,"Maskinoperatörer, gummiindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+8141,"Maskinoperatörer, gummiindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+8141,"Maskinoperatörer, gummiindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8142,"Maskinoperatörer, plastindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,43
+8142,"Maskinoperatörer, plastindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+8142,"Maskinoperatörer, plastindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,14
+8142,"Maskinoperatörer, plastindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+8143,"Maskinoperatörer, pappersvaruindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+8143,"Maskinoperatörer, pappersvaruindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+8143,"Maskinoperatörer, pappersvaruindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+8143,"Maskinoperatörer, pappersvaruindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8151,"Maskinoperatörer, blekning, färgning och tvättning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,27
+8151,"Maskinoperatörer, blekning, färgning och tvättning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+8151,"Maskinoperatörer, blekning, färgning och tvättning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,76
+8151,"Maskinoperatörer, blekning, färgning och tvättning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,23
+8159,"Övriga maskinoperatörer, textil-, skinn- och läderindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3
+8159,"Övriga maskinoperatörer, textil-, skinn- och läderindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,12
+8159,"Övriga maskinoperatörer, textil-, skinn- och läderindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+8159,"Övriga maskinoperatörer, textil-, skinn- och läderindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+8161,"Maskinoperatörer, kött- och fiskberedningsindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+8161,"Maskinoperatörer, kött- och fiskberedningsindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+8161,"Maskinoperatörer, kött- och fiskberedningsindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+8161,"Maskinoperatörer, kött- och fiskberedningsindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+8162,"Maskinoperatörer, mejeri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,9
+8162,"Maskinoperatörer, mejeri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+8162,"Maskinoperatörer, mejeri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+8162,"Maskinoperatörer, mejeri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+8163,"Maskinoperatörer, kvarn-, bageri- och konfektyrindustri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,16
+8163,"Maskinoperatörer, kvarn-, bageri- och konfektyrindustri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+8163,"Maskinoperatörer, kvarn-, bageri- och konfektyrindustri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+8163,"Maskinoperatörer, kvarn-, bageri- och konfektyrindustri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+8169,Övriga maskinoperatörer inom livsmedelsindustri m.m.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+8169,Övriga maskinoperatörer inom livsmedelsindustri m.m.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,8
+8169,Övriga maskinoperatörer inom livsmedelsindustri m.m.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,10
+8169,Övriga maskinoperatörer inom livsmedelsindustri m.m.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+8171,"Processoperatörer, pappersmassa",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+8171,"Processoperatörer, pappersmassa",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+8171,"Processoperatörer, pappersmassa",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+8171,"Processoperatörer, pappersmassa",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8172,"Processoperatörer, papper",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,21
+8172,"Processoperatörer, papper",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+8172,"Processoperatörer, papper",FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+8172,"Processoperatörer, papper",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8173,"Operatörer inom sågverk, hyvleri och plywood m.m.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,209
+8173,"Operatörer inom sågverk, hyvleri och plywood m.m.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,5
+8173,"Operatörer inom sågverk, hyvleri och plywood m.m.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,11
+8173,"Operatörer inom sågverk, hyvleri och plywood m.m.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+8174,"Maskinoperatörer inom ytbehandling, trä",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,6
+8174,"Maskinoperatörer inom ytbehandling, trä",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+8174,"Maskinoperatörer inom ytbehandling, trä",FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+8174,"Maskinoperatörer inom ytbehandling, trä",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8181,"Maskinoperatörer, påfyllning, packning och märkning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,8
+8181,"Maskinoperatörer, påfyllning, packning och märkning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+8181,"Maskinoperatörer, påfyllning, packning och märkning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+8181,"Maskinoperatörer, påfyllning, packning och märkning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+8189,Andra process- och maskinoperatörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,13
+8189,Andra process- och maskinoperatörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,6
+8189,Andra process- och maskinoperatörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,3
+8189,Andra process- och maskinoperatörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8191,Drifttekniker vid värme- och vattenverk,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,50
+8191,Drifttekniker vid värme- och vattenverk,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+8191,Drifttekniker vid värme- och vattenverk,FU,född utomlands,1,män,000006XU,Antal,2024,2024,6
+8191,Drifttekniker vid värme- och vattenverk,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+8192,"Processövervakare, kemisk industri",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,25
+8192,"Processövervakare, kemisk industri",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+8192,"Processövervakare, kemisk industri",FU,född utomlands,1,män,000006XU,Antal,2024,2024,4
+8192,"Processövervakare, kemisk industri",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+8193,"Processövervakare, metallproduktion",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,7
+8193,"Processövervakare, metallproduktion",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+8193,"Processövervakare, metallproduktion",FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+8193,"Processövervakare, metallproduktion",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8199,Övriga drifttekniker och processövervakare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,11
+8199,Övriga drifttekniker och processövervakare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8199,Övriga drifttekniker och processövervakare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+8199,Övriga drifttekniker och processövervakare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+8211,Fordonsmontörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,25
+8211,Fordonsmontörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+8211,Fordonsmontörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,10
+8211,Fordonsmontörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2
+8212,"Montörer, elektrisk och elektronisk utrustning",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,23
+8212,"Montörer, elektrisk och elektronisk utrustning",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,14
+8212,"Montörer, elektrisk och elektronisk utrustning",FU,född utomlands,1,män,000006XU,Antal,2024,2024,10
+8212,"Montörer, elektrisk och elektronisk utrustning",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+8213,"Montörer, metall-, gummi- och plastprodukter",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,150
+8213,"Montörer, metall-, gummi- och plastprodukter",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,17
+8213,"Montörer, metall-, gummi- och plastprodukter",FU,född utomlands,1,män,000006XU,Antal,2024,2024,40
+8213,"Montörer, metall-, gummi- och plastprodukter",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,5
+8214,"Montörer, träprodukter",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,21
+8214,"Montörer, träprodukter",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,11
+8214,"Montörer, träprodukter",FU,född utomlands,1,män,000006XU,Antal,2024,2024,7
+8214,"Montörer, träprodukter",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,4
+8219,Övriga montörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,66
+8219,Övriga montörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,19
+8219,Övriga montörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,22
+8219,Övriga montörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+8311,Lokförare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,22
+8311,Lokförare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+8311,Lokförare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+8311,Lokförare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8312,Bangårdspersonal,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2
+8312,Bangårdspersonal,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+8312,Bangårdspersonal,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+8312,Bangårdspersonal,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8321,Taxiförare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,502
+8321,Taxiförare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,43
+8321,Taxiförare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,4394
+8321,Taxiförare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,120
+8329,"Övriga bil-, motorcykel- och cykelförare",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,161
+8329,"Övriga bil-, motorcykel- och cykelförare",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,26
+8329,"Övriga bil-, motorcykel- och cykelförare",FU,född utomlands,1,män,000006XU,Antal,2024,2024,435
+8329,"Övriga bil-, motorcykel- och cykelförare",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,46
+8331,Buss- och spårvagnsförare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,176
+8331,Buss- och spårvagnsförare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,18
+8331,Buss- och spårvagnsförare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,105
+8331,Buss- och spårvagnsförare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+8332,Lastbilsförare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,2099
+8332,Lastbilsförare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,102
+8332,Lastbilsförare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,491
+8332,Lastbilsförare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,32
+8341,Förare av jordbruks- och skogsmaskiner,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,1349
+8341,Förare av jordbruks- och skogsmaskiner,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,87
+8341,Förare av jordbruks- och skogsmaskiner,FU,född utomlands,1,män,000006XU,Antal,2024,2024,43
+8341,Förare av jordbruks- och skogsmaskiner,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+8342,Anläggningsmaskinförare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,3355
+8342,Anläggningsmaskinförare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,79
+8342,Anläggningsmaskinförare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,166
+8342,Anläggningsmaskinförare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,8
+8343,Kranförare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,48
+8343,Kranförare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,1
+8343,Kranförare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,8
+8343,Kranförare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+8344,Truckförare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,51
+8344,Truckförare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,7
+8344,Truckförare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+8344,Truckförare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+8350,Matroser och jungmän m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,17
+8350,Matroser och jungmän m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,4
+8350,Matroser och jungmän m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,2
+8350,Matroser och jungmän m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+9111,Städare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,340
+9111,Städare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,929
+9111,Städare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,692
+9111,Städare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,2030
+9119,Övrig hemservicepersonal m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,40
+9119,Övrig hemservicepersonal m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,68
+9119,Övrig hemservicepersonal m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,19
+9119,Övrig hemservicepersonal m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,76
+9120,"Bilrekonditionerare, fönsterputsare och övriga rengöringsarbetare",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,253
+9120,"Bilrekonditionerare, fönsterputsare och övriga rengöringsarbetare",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,21
+9120,"Bilrekonditionerare, fönsterputsare och övriga rengöringsarbetare",FU,född utomlands,1,män,000006XU,Antal,2024,2024,233
+9120,"Bilrekonditionerare, fönsterputsare och övriga rengöringsarbetare",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,22
+9210,Bärplockare och plantörer m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,88
+9210,Bärplockare och plantörer m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,50
+9210,Bärplockare och plantörer m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,15
+9210,Bärplockare och plantörer m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,22
+9310,Grovarbetare inom bygg och anläggning,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,73
+9310,Grovarbetare inom bygg och anläggning,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,3
+9310,Grovarbetare inom bygg och anläggning,FU,född utomlands,1,män,000006XU,Antal,2024,2024,30
+9310,Grovarbetare inom bygg och anläggning,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,1
+9320,Handpaketerare och andra fabriksarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,31
+9320,Handpaketerare och andra fabriksarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,23
+9320,Handpaketerare och andra fabriksarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,17
+9320,Handpaketerare och andra fabriksarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,16
+9331,Hamnarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,20
+9331,Hamnarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,2
+9331,Hamnarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,0
+9331,Hamnarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0
+9332,"Ramppersonal, flyttkarlar och varupåfyllare m.fl.",FS,född i Sverige,1,män,000006XU,Antal,2024,2024,92
+9332,"Ramppersonal, flyttkarlar och varupåfyllare m.fl.",FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+9332,"Ramppersonal, flyttkarlar och varupåfyllare m.fl.",FU,född utomlands,1,män,000006XU,Antal,2024,2024,50
+9332,"Ramppersonal, flyttkarlar och varupåfyllare m.fl.",FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,10
+9411,Pizzabagare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,74
+9411,Pizzabagare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,40
+9411,Pizzabagare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1142
+9411,Pizzabagare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,132
+9412,Restaurang- och köksbiträden m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,155
+9412,Restaurang- och köksbiträden m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,280
+9412,Restaurang- och köksbiträden m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,588
+9412,Restaurang- och köksbiträden m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,283
+9413,Kafé- och konditoribiträden,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,48
+9413,Kafé- och konditoribiträden,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,111
+9413,Kafé- och konditoribiträden,FU,född utomlands,1,män,000006XU,Antal,2024,2024,52
+9413,Kafé- och konditoribiträden,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,75
+9520,Torg- och marknadsförsäljare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,216
+9520,Torg- och marknadsförsäljare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,163
+9520,Torg- och marknadsförsäljare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,211
+9520,Torg- och marknadsförsäljare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,102
+9610,Renhållnings- och återvinningsarbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,122
+9610,Renhållnings- och återvinningsarbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,10
+9610,Renhållnings- och återvinningsarbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,33
+9610,Renhållnings- och återvinningsarbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+9621,Reklamutdelare och tidningsdistributörer,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,28
+9621,Reklamutdelare och tidningsdistributörer,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,21
+9621,Reklamutdelare och tidningsdistributörer,FU,född utomlands,1,män,000006XU,Antal,2024,2024,45
+9621,Reklamutdelare och tidningsdistributörer,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+9622,Vaktmästare m.fl.,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,68
+9622,Vaktmästare m.fl.,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,17
+9622,Vaktmästare m.fl.,FU,född utomlands,1,män,000006XU,Antal,2024,2024,17
+9622,Vaktmästare m.fl.,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,3
+9629,Övriga servicearbetare,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,121
+9629,Övriga servicearbetare,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,43
+9629,Övriga servicearbetare,FU,född utomlands,1,män,000006XU,Antal,2024,2024,21
+9629,Övriga servicearbetare,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,12
+0002,yrke okänt,FS,född i Sverige,1,män,000006XU,Antal,2024,2024,0
+0002,yrke okänt,FS,född i Sverige,2,kvinnor,000006XU,Antal,2024,2024,0
+0002,yrke okänt,FU,född utomlands,1,män,000006XU,Antal,2024,2024,1
+0002,yrke okänt,FU,född utomlands,2,kvinnor,000006XU,Antal,2024,2024,0

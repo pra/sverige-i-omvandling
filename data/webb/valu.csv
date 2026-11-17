@@ -1,0 +1,341 @@
+tabell,grupp,parti,andel
+partival,Förvärvsarbetande,V,8.0
+partival,Arbetslös,V,15.0
+partival,Sjuk/aktivitetsersättning,V,17.0
+partival,Studerande,V,16.0
+partival,Arbetare,V,10.0
+partival,Tjänsteman,V,7.0
+partival,Jordbrukare,V,8.0
+partival,Företagare,V,6.0
+partival,LO,V,9.0
+partival,TCO,V,9.0
+partival,SACO,V,10.0
+partival,Statlig,V,9.0
+partival,Kommunal,V,10.0
+partival,Privat,V,6.0
+basta_politik,Skatterna,V,9.0
+basta_politik,Din egen ekonomi,V,7.0
+basta_politik,Sysselsättningen,V,7.0
+basta_politik,Svenska ekonomin,V,5.0
+basta_politik,Lag och ordning,V,6.0
+basta_politik,Flyktingar/invandring,V,9.0
+basta_politik,Sjukvården,V,11.0
+basta_politik,Äldreomsorgen,V,11.0
+basta_politik,Företagens villkor,V,4.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,V,42.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,V,12.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,V,93.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,V,86.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,V,53.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,V,80.0
+egen_ekonomi_mycket_viktig,Partiets väljare,V,24.0
+partival,Förvärvsarbetande,S,25.0
+partival,Arbetslös,S,27.0
+partival,Sjuk/aktivitetsersättning,S,29.0
+partival,Studerande,S,24.0
+partival,Arbetare,S,31.0
+partival,Tjänsteman,S,28.0
+partival,Jordbrukare,S,17.0
+partival,Företagare,S,15.0
+partival,LO,S,38.0
+partival,TCO,S,34.0
+partival,SACO,S,30.0
+partival,Statlig,S,31.0
+partival,Kommunal,S,36.0
+partival,Privat,S,23.0
+basta_politik,Skatterna,S,25.0
+basta_politik,Din egen ekonomi,S,22.0
+basta_politik,Sysselsättningen,S,28.0
+basta_politik,Svenska ekonomin,S,28.0
+basta_politik,Lag och ordning,S,21.0
+basta_politik,Flyktingar/invandring,S,21.0
+basta_politik,Sjukvården,S,28.0
+basta_politik,Äldreomsorgen,S,27.0
+basta_politik,Företagens villkor,S,15.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,S,67.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,S,30.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,S,89.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,S,81.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,S,34.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,S,66.0
+egen_ekonomi_mycket_viktig,Partiets väljare,S,28.0
+partival,Förvärvsarbetande,MP,7.0
+partival,Arbetslös,MP,6.0
+partival,Sjuk/aktivitetsersättning,MP,3.0
+partival,Studerande,MP,11.0
+partival,Arbetare,MP,5.0
+partival,Tjänsteman,MP,7.0
+partival,Jordbrukare,MP,1.0
+partival,Företagare,MP,6.0
+partival,LO,MP,3.0
+partival,TCO,MP,7.0
+partival,SACO,MP,12.0
+partival,Statlig,MP,8.0
+partival,Kommunal,MP,7.0
+partival,Privat,MP,5.0
+basta_politik,Skatterna,MP,2.0
+basta_politik,Din egen ekonomi,MP,2.0
+basta_politik,Sysselsättningen,MP,2.0
+basta_politik,Svenska ekonomin,MP,2.0
+basta_politik,Lag och ordning,MP,3.0
+basta_politik,Flyktingar/invandring,MP,5.0
+basta_politik,Sjukvården,MP,2.0
+basta_politik,Äldreomsorgen,MP,3.0
+basta_politik,Företagens villkor,MP,2.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,MP,30.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,MP,7.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,MP,99.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,MP,88.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,MP,65.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,MP,66.0
+egen_ekonomi_mycket_viktig,Partiets väljare,MP,7.0
+partival,Förvärvsarbetande,C,8.0
+partival,Arbetslös,C,5.0
+partival,Sjuk/aktivitetsersättning,C,3.0
+partival,Studerande,C,7.0
+partival,Arbetare,C,4.0
+partival,Tjänsteman,C,9.0
+partival,Jordbrukare,C,28.0
+partival,Företagare,C,10.0
+partival,LO,C,3.0
+partival,TCO,C,8.0
+partival,SACO,C,11.0
+partival,Statlig,C,8.0
+partival,Kommunal,C,6.0
+partival,Privat,C,8.0
+basta_politik,Skatterna,C,5.0
+basta_politik,Din egen ekonomi,C,4.0
+basta_politik,Sysselsättningen,C,6.0
+basta_politik,Svenska ekonomin,C,5.0
+basta_politik,Lag och ordning,C,3.0
+basta_politik,Flyktingar/invandring,C,5.0
+basta_politik,Sjukvården,C,4.0
+basta_politik,Äldreomsorgen,C,3.0
+basta_politik,Företagens villkor,C,12.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,C,62.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,C,23.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,C,92.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,C,58.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,C,25.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,C,28.0
+egen_ekonomi_mycket_viktig,Partiets väljare,C,16.0
+partival,Förvärvsarbetande,L,6.0
+partival,Arbetslös,L,4.0
+partival,Sjuk/aktivitetsersättning,L,4.0
+partival,Studerande,L,3.0
+partival,Arbetare,L,3.0
+partival,Tjänsteman,L,7.0
+partival,Jordbrukare,L,4.0
+partival,Företagare,L,8.0
+partival,LO,L,2.0
+partival,TCO,L,6.0
+partival,SACO,L,7.0
+partival,Statlig,L,5.0
+partival,Kommunal,L,4.0
+partival,Privat,L,6.0
+basta_politik,Skatterna,L,2.0
+basta_politik,Din egen ekonomi,L,2.0
+basta_politik,Sysselsättningen,L,2.0
+basta_politik,Svenska ekonomin,L,2.0
+basta_politik,Lag och ordning,L,2.0
+basta_politik,Flyktingar/invandring,L,3.0
+basta_politik,Sjukvården,L,3.0
+basta_politik,Äldreomsorgen,L,3.0
+basta_politik,Företagens villkor,L,2.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,L,90.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,L,71.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,L,74.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,L,42.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,L,6.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,L,18.0
+egen_ekonomi_mycket_viktig,Partiets väljare,L,40.0
+partival,Förvärvsarbetande,KD,7.0
+partival,Arbetslös,KD,3.0
+partival,Sjuk/aktivitetsersättning,KD,4.0
+partival,Studerande,KD,5.0
+partival,Arbetare,KD,6.0
+partival,Tjänsteman,KD,7.0
+partival,Jordbrukare,KD,10.0
+partival,Företagare,KD,6.0
+partival,LO,KD,6.0
+partival,TCO,KD,7.0
+partival,SACO,KD,6.0
+partival,Statlig,KD,6.0
+partival,Kommunal,KD,6.0
+partival,Privat,KD,6.0
+basta_politik,Skatterna,KD,3.0
+basta_politik,Din egen ekonomi,KD,4.0
+basta_politik,Sysselsättningen,KD,3.0
+basta_politik,Svenska ekonomin,KD,3.0
+basta_politik,Lag och ordning,KD,3.0
+basta_politik,Flyktingar/invandring,KD,5.0
+basta_politik,Sjukvården,KD,19.0
+basta_politik,Äldreomsorgen,KD,15.0
+basta_politik,Företagens villkor,KD,3.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,KD,93.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,KD,75.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,KD,64.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,KD,45.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,KD,8.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,KD,29.0
+egen_ekonomi_mycket_viktig,Partiets väljare,KD,47.0
+partival,Förvärvsarbetande,M,21.0
+partival,Arbetslös,M,14.0
+partival,Sjuk/aktivitetsersättning,M,11.0
+partival,Studerande,M,20.0
+partival,Arbetare,M,15.0
+partival,Tjänsteman,M,22.0
+partival,Jordbrukare,M,11.0
+partival,Företagare,M,24.0
+partival,LO,M,14.0
+partival,TCO,M,18.0
+partival,SACO,M,15.0
+partival,Statlig,M,19.0
+partival,Kommunal,M,15.0
+partival,Privat,M,23.0
+basta_politik,Skatterna,M,34.0
+basta_politik,Din egen ekonomi,M,34.0
+basta_politik,Sysselsättningen,M,27.0
+basta_politik,Svenska ekonomin,M,33.0
+basta_politik,Lag och ordning,M,28.0
+basta_politik,Flyktingar/invandring,M,14.0
+basta_politik,Sjukvården,M,11.0
+basta_politik,Äldreomsorgen,M,11.0
+basta_politik,Företagens villkor,M,32.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,M,94.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,M,80.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,M,69.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,M,41.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,M,8.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,M,22.0
+egen_ekonomi_mycket_viktig,Partiets väljare,M,56.0
+partival,Förvärvsarbetande,SD,18.0
+partival,Arbetslös,SD,22.0
+partival,Sjuk/aktivitetsersättning,SD,26.0
+partival,Studerande,SD,11.0
+partival,Arbetare,SD,25.0
+partival,Tjänsteman,SD,12.0
+partival,Jordbrukare,SD,20.0
+partival,Företagare,SD,23.0
+partival,LO,SD,24.0
+partival,TCO,SD,10.0
+partival,SACO,SD,7.0
+partival,Statlig,SD,13.0
+partival,Kommunal,SD,15.0
+partival,Privat,SD,20.0
+basta_politik,Skatterna,SD,8.0
+basta_politik,Din egen ekonomi,SD,9.0
+basta_politik,Sysselsättningen,SD,9.0
+basta_politik,Svenska ekonomin,SD,9.0
+basta_politik,Lag och ordning,SD,21.0
+basta_politik,Flyktingar/invandring,SD,27.0
+basta_politik,Sjukvården,SD,7.0
+basta_politik,Äldreomsorgen,SD,9.0
+basta_politik,Företagens villkor,SD,6.0
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,SD,96.0
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,SD,93.0
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,SD,50.0
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,SD,50.0
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,SD,9.0
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,SD,33.0
+egen_ekonomi_mycket_viktig,Partiets väljare,SD,61.0
+partival,Förvärvsarbetande,Ovr,2.0
+partival,Arbetslös,Ovr,3.0
+partival,Sjuk/aktivitetsersättning,Ovr,2.0
+partival,Studerande,Ovr,2.0
+partival,Arbetare,Ovr,2.0
+partival,Tjänsteman,Ovr,1.0
+partival,Jordbrukare,Ovr,0.0
+partival,Företagare,Ovr,2.0
+partival,LO,Ovr,2.0
+partival,TCO,Ovr,1.0
+partival,SACO,Ovr,1.0
+partival,Statlig,Ovr,1.0
+partival,Kommunal,Ovr,1.0
+partival,Privat,Ovr,2.0
+lo_tidsserie,1991,V,7.0
+lo_tidsserie,1994,V,8.0
+lo_tidsserie,1998,V,17.0
+lo_tidsserie,2002,V,10.0
+lo_tidsserie,2006,V,8.0
+lo_tidsserie,2010,V,7.0
+lo_tidsserie,2014,V,7.0
+lo_tidsserie,2018,V,9.0
+lo_tidsserie,2022,V,8.0
+lo_tidsserie,2026,V,9.0
+lo_tidsserie,1991,S,60.0
+lo_tidsserie,1994,S,68.0
+lo_tidsserie,1998,S,58.0
+lo_tidsserie,2002,S,63.0
+lo_tidsserie,2006,S,59.0
+lo_tidsserie,2010,S,54.0
+lo_tidsserie,2014,S,53.0
+lo_tidsserie,2018,S,41.0
+lo_tidsserie,2022,S,42.0
+lo_tidsserie,2026,S,38.0
+lo_tidsserie,1991,MP,2.0
+lo_tidsserie,1994,MP,3.0
+lo_tidsserie,1998,MP,3.0
+lo_tidsserie,2002,MP,3.0
+lo_tidsserie,2006,MP,3.0
+lo_tidsserie,2010,MP,5.0
+lo_tidsserie,2014,MP,4.0
+lo_tidsserie,2018,MP,2.0
+lo_tidsserie,2022,MP,3.0
+lo_tidsserie,2026,MP,3.0
+lo_tidsserie,1991,C,8.0
+lo_tidsserie,1994,C,5.0
+lo_tidsserie,1998,C,4.0
+lo_tidsserie,2002,C,4.0
+lo_tidsserie,2006,C,5.0
+lo_tidsserie,2010,C,3.0
+lo_tidsserie,2014,C,3.0
+lo_tidsserie,2018,C,5.0
+lo_tidsserie,2022,C,3.0
+lo_tidsserie,2026,C,3.0
+lo_tidsserie,1991,L,4.0
+lo_tidsserie,1994,L,3.0
+lo_tidsserie,1998,L,1.0
+lo_tidsserie,2002,L,6.0
+lo_tidsserie,2006,L,3.0
+lo_tidsserie,2010,L,4.0
+lo_tidsserie,2014,L,2.0
+lo_tidsserie,2018,L,2.0
+lo_tidsserie,2022,L,1.0
+lo_tidsserie,2026,L,2.0
+lo_tidsserie,1991,KD,4.0
+lo_tidsserie,1994,KD,2.0
+lo_tidsserie,1998,KD,7.0
+lo_tidsserie,2002,KD,7.0
+lo_tidsserie,2006,KD,4.0
+lo_tidsserie,2010,KD,2.0
+lo_tidsserie,2014,KD,1.0
+lo_tidsserie,2018,KD,4.0
+lo_tidsserie,2022,KD,5.0
+lo_tidsserie,2026,KD,6.0
+lo_tidsserie,1991,M,8.0
+lo_tidsserie,1994,M,8.0
+lo_tidsserie,1998,M,7.0
+lo_tidsserie,2002,M,5.0
+lo_tidsserie,2006,M,10.0
+lo_tidsserie,2010,M,16.0
+lo_tidsserie,2014,M,10.0
+lo_tidsserie,2018,M,11.0
+lo_tidsserie,2022,M,10.0
+lo_tidsserie,2026,M,14.0
+lo_tidsserie,2006,SD,4.0
+lo_tidsserie,2010,SD,8.0
+lo_tidsserie,2014,SD,17.0
+lo_tidsserie,2018,SD,24.0
+lo_tidsserie,2022,SD,27.0
+lo_tidsserie,2026,SD,24.0
+lo_tidsserie,1991,Ovr,8.0
+lo_tidsserie,1994,Ovr,3.0
+lo_tidsserie,1998,Ovr,3.0
+lo_tidsserie,2002,Ovr,2.0
+lo_tidsserie,2006,Ovr,4.0
+lo_tidsserie,2010,Ovr,1.0
+lo_tidsserie,2014,Ovr,2.0
+lo_tidsserie,2018,Ovr,1.0
+lo_tidsserie,2022,Ovr,2.0
+lo_tidsserie,2026,Ovr,2.0

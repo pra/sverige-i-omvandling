@@ -1,0 +1,32 @@
+# Källa: SVT/Valu 2026, presskonferensunderlag 2026-10-21 (Göteborgs universitet), s. 14, 22, 24, 29, 31, 44, 45. Transkriberat 2026-11-15.
+tabell,grupp,V,S,MP,C,L,KD,M,SD,Ovr
+partival,Förvärvsarbetande,8,25,7,8,6,7,21,18,2
+partival,Arbetslös,15,27,6,5,4,3,14,22,3
+partival,Sjuk/aktivitetsersättning,17,29,3,3,4,4,11,26,2
+partival,Studerande,16,24,11,7,3,5,20,11,2
+partival,Arbetare,10,31,5,4,3,6,15,25,2
+partival,Tjänsteman,7,28,7,9,7,7,22,12,1
+partival,Jordbrukare,8,17,1,28,4,10,11,20,0
+partival,Företagare,6,15,6,10,8,6,24,23,2
+partival,LO,9,38,3,3,2,6,14,24,2
+partival,TCO,9,34,7,8,6,7,18,10,1
+partival,SACO,10,30,12,11,7,6,15,7,1
+partival,Statlig,9,31,8,8,5,6,19,13,1
+partival,Kommunal,10,36,7,6,4,6,15,15,1
+partival,Privat,6,23,5,8,6,6,23,20,2
+basta_politik,Skatterna,9,25,2,5,2,3,34,8,
+basta_politik,Din egen ekonomi,7,22,2,4,2,4,34,9,
+basta_politik,Sysselsättningen,7,28,2,6,2,3,27,9,
+basta_politik,Svenska ekonomin,5,28,2,5,2,3,33,9,
+basta_politik,Lag och ordning,6,21,3,3,2,3,28,21,
+basta_politik,Flyktingar/invandring,9,21,5,5,3,5,14,27,
+basta_politik,Sjukvården,11,28,2,4,3,19,11,7,
+basta_politik,Äldreomsorgen,11,27,3,3,3,15,11,9,
+basta_politik,Företagens villkor,4,15,2,12,2,3,32,6,
+asikt_bra_andel_av_partiets_valjare,Hårdare fängelsestraff,42,67,30,62,90,93,94,96,
+asikt_bra_andel_av_partiets_valjare,Ta emot färre flyktingar,12,30,7,23,71,75,80,93,
+asikt_bra_andel_av_partiets_valjare,Miljövänligt samhälle,93,89,99,92,74,64,69,50,
+asikt_bra_andel_av_partiets_valjare,Förbjud vinstutdelning i välfärden,86,81,88,58,42,45,41,50,
+asikt_bra_andel_av_partiets_valjare,Avveckla kärnkraften,53,34,65,25,6,8,8,9,
+asikt_bra_andel_av_partiets_valjare,Avskaffa karensdagen,80,66,66,28,18,29,22,33,
+egen_ekonomi_mycket_viktig,Partiets väljare,24,28,7,16,40,47,56,61,

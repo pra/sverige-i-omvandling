@@ -1,0 +1,4 @@
+faktor,koef,t,signifikant,r2,korrelation
+"Välfärdsprofessioner (lärare, vård, socialt arbete)",0.97,1.14,nej,0.35,0.0
+"Privata kunskapsyrken (IT, ingenjörer, ekonomer, chefer)",5.4,4.9,ja,0.35,0.27
+Manuella arbetaryrken (6–9),0.91,0.81,nej,0.35,-0.13

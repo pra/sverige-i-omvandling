@@ -1,0 +1,253 @@
+Region,Region_text,Kon,Kon_text,BakgrVar,BakgrVar_text,ContentsCode,ContentsCode_text,Tid,Tid_text,value
+00,Riket,1,män,18-29,18–29 år,000002U1,"Röstberättigade, antal",2018,2018,676284
+00,Riket,1,män,18-29,18–29 år,000002U1,"Röstberättigade, antal",2022,2022,653648
+00,Riket,1,män,18-29,18–29 år,000002TX,"Röstande, andel i procent",2018,2018,83
+00,Riket,1,män,18-29,18–29 år,000002TX,"Röstande, andel i procent",2022,2022,80
+00,Riket,1,män,30-49,30–49 år,000002U1,"Röstberättigade, antal",2018,2018,1137043
+00,Riket,1,män,30-49,30–49 år,000002U1,"Röstberättigade, antal",2022,2022,1213434
+00,Riket,1,män,30-49,30–49 år,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,30-49,30–49 år,000002TX,"Röstande, andel i procent",2022,2022,84
+00,Riket,1,män,50-64,50–64 år,000002U1,"Röstberättigade, antal",2018,2018,878425
+00,Riket,1,män,50-64,50–64 år,000002U1,"Röstberättigade, antal",2022,2022,909091
+00,Riket,1,män,50-64,50–64 år,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,1,män,50-64,50–64 år,000002TX,"Röstande, andel i procent",2022,2022,88
+00,Riket,1,män,65+,65+ år,000002U1,"Röstberättigade, antal",2018,2018,928662
+00,Riket,1,män,65+,65+ år,000002U1,"Röstberättigade, antal",2022,2022,989766
+00,Riket,1,män,65+,65+ år,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,65+,65+ år,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,1,män,samald,samtliga åldrar,000002U1,"Röstberättigade, antal",2018,2018,3620414
+00,Riket,1,män,samald,samtliga åldrar,000002U1,"Röstberättigade, antal",2022,2022,3765939
+00,Riket,1,män,samald,samtliga åldrar,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,samald,samtliga åldrar,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1,män,forgymn,förgymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,710167
+00,Riket,1,män,forgymn,förgymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,684823
+00,Riket,1,män,forgymn,förgymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,79
+00,Riket,1,män,forgymn,förgymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,75
+00,Riket,1,män,gymn,gymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,1728686
+00,Riket,1,män,gymn,gymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,1775190
+00,Riket,1,män,gymn,gymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,87
+00,Riket,1,män,gymn,gymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,84
+00,Riket,1,män,eftergymn,eftergymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,1150246
+00,Riket,1,män,eftergymn,eftergymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,1270524
+00,Riket,1,män,eftergymn,eftergymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,94
+00,Riket,1,män,eftergymn,eftergymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,92
+00,Riket,1,män,samutb,samtliga utbildningsnivåer,000002U1,"Röstberättigade, antal",2018,2018,3620414
+00,Riket,1,män,samutb,samtliga utbildningsnivåer,000002U1,"Röstberättigade, antal",2022,2022,3765939
+00,Riket,1,män,samutb,samtliga utbildningsnivåer,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,samutb,samtliga utbildningsnivåer,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1,män,inrfodd,inrikes födda,000002U1,"Röstberättigade, antal",2018,2018,3160722
+00,Riket,1,män,inrfodd,inrikes födda,000002U1,"Röstberättigade, antal",2022,2022,3193029
+00,Riket,1,män,inrfodd,inrikes födda,000002TX,"Röstande, andel i procent",2018,2018,90
+00,Riket,1,män,inrfodd,inrikes födda,000002TX,"Röstande, andel i procent",2022,2022,88
+00,Riket,1,män,utrfodd,utrikes födda,000002U1,"Röstberättigade, antal",2018,2018,459680
+00,Riket,1,män,utrfodd,utrikes födda,000002U1,"Röstberättigade, antal",2022,2022,572895
+00,Riket,1,män,utrfodd,utrikes födda,000002TX,"Röstande, andel i procent",2018,2018,72
+00,Riket,1,män,utrfodd,utrikes födda,000002TX,"Röstande, andel i procent",2022,2022,65
+00,Riket,1,män,samiu,samtliga inrikes och utrikes födda,000002U1,"Röstberättigade, antal",2018,2018,3620414
+00,Riket,1,män,samiu,samtliga inrikes och utrikes födda,000002U1,"Röstberättigade, antal",2022,2022,3765939
+00,Riket,1,män,samiu,samtliga inrikes och utrikes födda,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,samiu,samtliga inrikes och utrikes födda,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1,män,0-20,0–20,000002U1,"Röstberättigade, antal",2018,2018,531899
+00,Riket,1,män,0-20,0–20,000002U1,"Röstberättigade, antal",2022,2022,549392
+00,Riket,1,män,0-20,0–20,000002TX,"Röstande, andel i procent",2018,2018,78
+00,Riket,1,män,0-20,0–20,000002TX,"Röstande, andel i procent",2022,2022,74
+00,Riket,1,män,21-40,21–40,000002U1,"Röstberättigade, antal",2018,2018,545095
+00,Riket,1,män,21-40,21–40,000002U1,"Röstberättigade, antal",2022,2022,565223
+00,Riket,1,män,21-40,21–40,000002TX,"Röstande, andel i procent",2018,2018,83
+00,Riket,1,män,21-40,21–40,000002TX,"Röstande, andel i procent",2022,2022,80
+00,Riket,1,män,41-60,41–60,000002U1,"Röstberättigade, antal",2018,2018,624748
+00,Riket,1,män,41-60,41–60,000002U1,"Röstberättigade, antal",2022,2022,661953
+00,Riket,1,män,41-60,41–60,000002TX,"Röstande, andel i procent",2018,2018,87
+00,Riket,1,män,41-60,41–60,000002TX,"Röstande, andel i procent",2022,2022,84
+00,Riket,1,män,61-80,61–80,000002U1,"Röstberättigade, antal",2018,2018,780950
+00,Riket,1,män,61-80,61–80,000002U1,"Röstberättigade, antal",2022,2022,815437
+00,Riket,1,män,61-80,61–80,000002TX,"Röstande, andel i procent",2018,2018,91
+00,Riket,1,män,61-80,61–80,000002TX,"Röstande, andel i procent",2022,2022,89
+00,Riket,1,män,81-100,81–100,000002U1,"Röstberättigade, antal",2018,2018,966556
+00,Riket,1,män,81-100,81–100,000002U1,"Röstberättigade, antal",2022,2022,968521
+00,Riket,1,män,81-100,81–100,000002TX,"Röstande, andel i procent",2018,2018,96
+00,Riket,1,män,81-100,81–100,000002TX,"Röstande, andel i procent",2022,2022,95
+00,Riket,1,män,samink,samtliga inkomstkvintiler,000002U1,"Röstberättigade, antal",2018,2018,3620414
+00,Riket,1,män,samink,samtliga inkomstkvintiler,000002U1,"Röstberättigade, antal",2022,2022,3765939
+00,Riket,1,män,samink,samtliga inkomstkvintiler,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,samink,samtliga inkomstkvintiler,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1,män,förstagang,förstagångsväljare,000002U1,"Röstberättigade, antal",2018,2018,199456
+00,Riket,1,män,förstagang,förstagångsväljare,000002U1,"Röstberättigade, antal",2022,2022,223721
+00,Riket,1,män,förstagang,förstagångsväljare,000002TX,"Röstande, andel i procent",2018,2018,84
+00,Riket,1,män,förstagang,förstagångsväljare,000002TX,"Röstande, andel i procent",2022,2022,81
+00,Riket,1,män,ejförsta,ej förstagångsväljare,000002U1,"Röstberättigade, antal",2018,2018,3420958
+00,Riket,1,män,ejförsta,ej förstagångsväljare,000002U1,"Röstberättigade, antal",2022,2022,3542218
+00,Riket,1,män,ejförsta,ej förstagångsväljare,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,ejförsta,ej förstagångsväljare,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1,män,samväljare,samtliga väljare,000002U1,"Röstberättigade, antal",2018,2018,3620414
+00,Riket,1,män,samväljare,samtliga väljare,000002U1,"Röstberättigade, antal",2022,2022,3765939
+00,Riket,1,män,samväljare,samtliga väljare,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1,män,samväljare,samtliga väljare,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,2,kvinnor,18-29,18–29 år,000002U1,"Röstberättigade, antal",2018,2018,641461
+00,Riket,2,kvinnor,18-29,18–29 år,000002U1,"Röstberättigade, antal",2022,2022,613124
+00,Riket,2,kvinnor,18-29,18–29 år,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,18-29,18–29 år,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,2,kvinnor,30-49,30–49 år,000002U1,"Röstberättigade, antal",2018,2018,1119103
+00,Riket,2,kvinnor,30-49,30–49 år,000002U1,"Röstberättigade, antal",2022,2022,1184493
+00,Riket,2,kvinnor,30-49,30–49 år,000002TX,"Röstande, andel i procent",2018,2018,91
+00,Riket,2,kvinnor,30-49,30–49 år,000002TX,"Röstande, andel i procent",2022,2022,87
+00,Riket,2,kvinnor,50-64,50–64 år,000002U1,"Röstberättigade, antal",2018,2018,871482
+00,Riket,2,kvinnor,50-64,50–64 år,000002U1,"Röstberättigade, antal",2022,2022,902574
+00,Riket,2,kvinnor,50-64,50–64 år,000002TX,"Röstande, andel i procent",2018,2018,91
+00,Riket,2,kvinnor,50-64,50–64 år,000002TX,"Röstande, andel i procent",2022,2022,89
+00,Riket,2,kvinnor,65+,65+ år,000002U1,"Röstberättigade, antal",2018,2018,1073273
+00,Riket,2,kvinnor,65+,65+ år,000002U1,"Röstberättigade, antal",2022,2022,1127223
+00,Riket,2,kvinnor,65+,65+ år,000002TX,"Röstande, andel i procent",2018,2018,85
+00,Riket,2,kvinnor,65+,65+ år,000002TX,"Röstande, andel i procent",2022,2022,83
+00,Riket,2,kvinnor,samald,samtliga åldrar,000002U1,"Röstberättigade, antal",2018,2018,3705319
+00,Riket,2,kvinnor,samald,samtliga åldrar,000002U1,"Röstberättigade, antal",2022,2022,3827414
+00,Riket,2,kvinnor,samald,samtliga åldrar,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,samald,samtliga åldrar,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,2,kvinnor,forgymn,förgymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,640626
+00,Riket,2,kvinnor,forgymn,förgymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,593039
+00,Riket,2,kvinnor,forgymn,förgymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,77
+00,Riket,2,kvinnor,forgymn,förgymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,73
+00,Riket,2,kvinnor,gymn,gymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,1569258
+00,Riket,2,kvinnor,gymn,gymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,1562573
+00,Riket,2,kvinnor,gymn,gymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,2,kvinnor,gymn,gymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,2,kvinnor,eftergymn,eftergymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,1465204
+00,Riket,2,kvinnor,eftergymn,eftergymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,1639866
+00,Riket,2,kvinnor,eftergymn,eftergymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,95
+00,Riket,2,kvinnor,eftergymn,eftergymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,93
+00,Riket,2,kvinnor,samutb,samtliga utbildningsnivåer,000002U1,"Röstberättigade, antal",2018,2018,3705319
+00,Riket,2,kvinnor,samutb,samtliga utbildningsnivåer,000002U1,"Röstberättigade, antal",2022,2022,3827414
+00,Riket,2,kvinnor,samutb,samtliga utbildningsnivåer,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,samutb,samtliga utbildningsnivåer,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,2,kvinnor,inrfodd,inrikes födda,000002U1,"Röstberättigade, antal",2018,2018,3172273
+00,Riket,2,kvinnor,inrfodd,inrikes födda,000002U1,"Röstberättigade, antal",2022,2022,3193536
+00,Riket,2,kvinnor,inrfodd,inrikes födda,000002TX,"Röstande, andel i procent",2018,2018,91
+00,Riket,2,kvinnor,inrfodd,inrikes födda,000002TX,"Röstande, andel i procent",2022,2022,90
+00,Riket,2,kvinnor,utrfodd,utrikes födda,000002U1,"Röstberättigade, antal",2018,2018,533039
+00,Riket,2,kvinnor,utrfodd,utrikes födda,000002U1,"Röstberättigade, antal",2022,2022,633871
+00,Riket,2,kvinnor,utrfodd,utrikes födda,000002TX,"Röstande, andel i procent",2018,2018,75
+00,Riket,2,kvinnor,utrfodd,utrikes födda,000002TX,"Röstande, andel i procent",2022,2022,68
+00,Riket,2,kvinnor,samiu,samtliga inrikes och utrikes födda,000002U1,"Röstberättigade, antal",2018,2018,3705319
+00,Riket,2,kvinnor,samiu,samtliga inrikes och utrikes födda,000002U1,"Röstberättigade, antal",2022,2022,3827414
+00,Riket,2,kvinnor,samiu,samtliga inrikes och utrikes födda,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,samiu,samtliga inrikes och utrikes födda,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,2,kvinnor,0-20,0–20,000002U1,"Röstberättigade, antal",2018,2018,850246
+00,Riket,2,kvinnor,0-20,0–20,000002U1,"Röstberättigade, antal",2022,2022,884841
+00,Riket,2,kvinnor,0-20,0–20,000002TX,"Röstande, andel i procent",2018,2018,81
+00,Riket,2,kvinnor,0-20,0–20,000002TX,"Röstande, andel i procent",2022,2022,78
+00,Riket,2,kvinnor,21-40,21–40,000002U1,"Röstberättigade, antal",2018,2018,811940
+00,Riket,2,kvinnor,21-40,21–40,000002U1,"Röstberättigade, antal",2022,2022,825160
+00,Riket,2,kvinnor,21-40,21–40,000002TX,"Röstande, andel i procent",2018,2018,87
+00,Riket,2,kvinnor,21-40,21–40,000002TX,"Röstande, andel i procent",2022,2022,84
+00,Riket,2,kvinnor,41-60,41–60,000002U1,"Röstberättigade, antal",2018,2018,778417
+00,Riket,2,kvinnor,41-60,41–60,000002U1,"Röstberättigade, antal",2022,2022,775312
+00,Riket,2,kvinnor,41-60,41–60,000002TX,"Röstande, andel i procent",2018,2018,92
+00,Riket,2,kvinnor,41-60,41–60,000002TX,"Röstande, andel i procent",2022,2022,89
+00,Riket,2,kvinnor,61-80,61–80,000002U1,"Röstberättigade, antal",2018,2018,656121
+00,Riket,2,kvinnor,61-80,61–80,000002U1,"Röstberättigade, antal",2022,2022,660234
+00,Riket,2,kvinnor,61-80,61–80,000002TX,"Röstande, andel i procent",2018,2018,95
+00,Riket,2,kvinnor,61-80,61–80,000002TX,"Röstande, andel i procent",2022,2022,93
+00,Riket,2,kvinnor,81-100,81–100,000002U1,"Röstberättigade, antal",2018,2018,475615
+00,Riket,2,kvinnor,81-100,81–100,000002U1,"Röstberättigade, antal",2022,2022,515340
+00,Riket,2,kvinnor,81-100,81–100,000002TX,"Röstande, andel i procent",2018,2018,97
+00,Riket,2,kvinnor,81-100,81–100,000002TX,"Röstande, andel i procent",2022,2022,96
+00,Riket,2,kvinnor,samink,samtliga inkomstkvintiler,000002U1,"Röstberättigade, antal",2018,2018,3705319
+00,Riket,2,kvinnor,samink,samtliga inkomstkvintiler,000002U1,"Röstberättigade, antal",2022,2022,3827414
+00,Riket,2,kvinnor,samink,samtliga inkomstkvintiler,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,samink,samtliga inkomstkvintiler,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,2,kvinnor,förstagang,förstagångsväljare,000002U1,"Röstberättigade, antal",2018,2018,187534
+00,Riket,2,kvinnor,förstagang,förstagångsväljare,000002U1,"Röstberättigade, antal",2022,2022,209414
+00,Riket,2,kvinnor,förstagang,förstagångsväljare,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,förstagang,förstagångsväljare,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,2,kvinnor,ejförsta,ej förstagångsväljare,000002U1,"Röstberättigade, antal",2018,2018,3517785
+00,Riket,2,kvinnor,ejförsta,ej förstagångsväljare,000002U1,"Röstberättigade, antal",2022,2022,3618000
+00,Riket,2,kvinnor,ejförsta,ej förstagångsväljare,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,ejförsta,ej förstagångsväljare,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,2,kvinnor,samväljare,samtliga väljare,000002U1,"Röstberättigade, antal",2018,2018,3705319
+00,Riket,2,kvinnor,samväljare,samtliga väljare,000002U1,"Röstberättigade, antal",2022,2022,3827414
+00,Riket,2,kvinnor,samväljare,samtliga väljare,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,2,kvinnor,samväljare,samtliga väljare,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,1+2,totalt,18-29,18–29 år,000002U1,"Röstberättigade, antal",2018,2018,1317745
+00,Riket,1+2,totalt,18-29,18–29 år,000002U1,"Röstberättigade, antal",2022,2022,1266772
+00,Riket,1+2,totalt,18-29,18–29 år,000002TX,"Röstande, andel i procent",2018,2018,86
+00,Riket,1+2,totalt,18-29,18–29 år,000002TX,"Röstande, andel i procent",2022,2022,82
+00,Riket,1+2,totalt,30-49,30–49 år,000002U1,"Röstberättigade, antal",2018,2018,2256146
+00,Riket,1+2,totalt,30-49,30–49 år,000002U1,"Röstberättigade, antal",2022,2022,2397927
+00,Riket,1+2,totalt,30-49,30–49 år,000002TX,"Röstande, andel i procent",2018,2018,89
+00,Riket,1+2,totalt,30-49,30–49 år,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,50-64,50–64 år,000002U1,"Röstberättigade, antal",2018,2018,1749907
+00,Riket,1+2,totalt,50-64,50–64 år,000002U1,"Röstberättigade, antal",2022,2022,1811665
+00,Riket,1+2,totalt,50-64,50–64 år,000002TX,"Röstande, andel i procent",2018,2018,90
+00,Riket,1+2,totalt,50-64,50–64 år,000002TX,"Röstande, andel i procent",2022,2022,88
+00,Riket,1+2,totalt,65+,65+ år,000002U1,"Röstberättigade, antal",2018,2018,2001935
+00,Riket,1+2,totalt,65+,65+ år,000002U1,"Röstberättigade, antal",2022,2022,2116989
+00,Riket,1+2,totalt,65+,65+ år,000002TX,"Röstande, andel i procent",2018,2018,86
+00,Riket,1+2,totalt,65+,65+ år,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,samald,samtliga åldrar,000002U1,"Röstberättigade, antal",2018,2018,7325733
+00,Riket,1+2,totalt,samald,samtliga åldrar,000002U1,"Röstberättigade, antal",2022,2022,7593353
+00,Riket,1+2,totalt,samald,samtliga åldrar,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,samald,samtliga åldrar,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,forgymn,förgymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,1350793
+00,Riket,1+2,totalt,forgymn,förgymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,1277862
+00,Riket,1+2,totalt,forgymn,förgymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,79
+00,Riket,1+2,totalt,forgymn,förgymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,74
+00,Riket,1+2,totalt,gymn,gymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,3297944
+00,Riket,1+2,totalt,gymn,gymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,3337763
+00,Riket,1+2,totalt,gymn,gymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,gymn,gymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,eftergymn,eftergymnasial utbildning,000002U1,"Röstberättigade, antal",2018,2018,2615450
+00,Riket,1+2,totalt,eftergymn,eftergymnasial utbildning,000002U1,"Röstberättigade, antal",2022,2022,2910390
+00,Riket,1+2,totalt,eftergymn,eftergymnasial utbildning,000002TX,"Röstande, andel i procent",2018,2018,95
+00,Riket,1+2,totalt,eftergymn,eftergymnasial utbildning,000002TX,"Röstande, andel i procent",2022,2022,92
+00,Riket,1+2,totalt,samutb,samtliga utbildningsnivåer,000002U1,"Röstberättigade, antal",2018,2018,7325733
+00,Riket,1+2,totalt,samutb,samtliga utbildningsnivåer,000002U1,"Röstberättigade, antal",2022,2022,7593353
+00,Riket,1+2,totalt,samutb,samtliga utbildningsnivåer,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,samutb,samtliga utbildningsnivåer,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,inrfodd,inrikes födda,000002U1,"Röstberättigade, antal",2018,2018,6332995
+00,Riket,1+2,totalt,inrfodd,inrikes födda,000002U1,"Röstberättigade, antal",2022,2022,6386565
+00,Riket,1+2,totalt,inrfodd,inrikes födda,000002TX,"Röstande, andel i procent",2018,2018,90
+00,Riket,1+2,totalt,inrfodd,inrikes födda,000002TX,"Röstande, andel i procent",2022,2022,89
+00,Riket,1+2,totalt,utrfodd,utrikes födda,000002U1,"Röstberättigade, antal",2018,2018,992719
+00,Riket,1+2,totalt,utrfodd,utrikes födda,000002U1,"Röstberättigade, antal",2022,2022,1206766
+00,Riket,1+2,totalt,utrfodd,utrikes födda,000002TX,"Röstande, andel i procent",2018,2018,74
+00,Riket,1+2,totalt,utrfodd,utrikes födda,000002TX,"Röstande, andel i procent",2022,2022,67
+00,Riket,1+2,totalt,samiu,samtliga inrikes och utrikes födda,000002U1,"Röstberättigade, antal",2018,2018,7325733
+00,Riket,1+2,totalt,samiu,samtliga inrikes och utrikes födda,000002U1,"Röstberättigade, antal",2022,2022,7593353
+00,Riket,1+2,totalt,samiu,samtliga inrikes och utrikes födda,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,samiu,samtliga inrikes och utrikes födda,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,0-20,0–20,000002U1,"Röstberättigade, antal",2018,2018,1382145
+00,Riket,1+2,totalt,0-20,0–20,000002U1,"Röstberättigade, antal",2022,2022,1434233
+00,Riket,1+2,totalt,0-20,0–20,000002TX,"Röstande, andel i procent",2018,2018,80
+00,Riket,1+2,totalt,0-20,0–20,000002TX,"Röstande, andel i procent",2022,2022,76
+00,Riket,1+2,totalt,21-40,21–40,000002U1,"Röstberättigade, antal",2018,2018,1357035
+00,Riket,1+2,totalt,21-40,21–40,000002U1,"Röstberättigade, antal",2022,2022,1390383
+00,Riket,1+2,totalt,21-40,21–40,000002TX,"Röstande, andel i procent",2018,2018,85
+00,Riket,1+2,totalt,21-40,21–40,000002TX,"Röstande, andel i procent",2022,2022,82
+00,Riket,1+2,totalt,41-60,41–60,000002U1,"Röstberättigade, antal",2018,2018,1403165
+00,Riket,1+2,totalt,41-60,41–60,000002U1,"Röstberättigade, antal",2022,2022,1437265
+00,Riket,1+2,totalt,41-60,41–60,000002TX,"Röstande, andel i procent",2018,2018,90
+00,Riket,1+2,totalt,41-60,41–60,000002TX,"Röstande, andel i procent",2022,2022,87
+00,Riket,1+2,totalt,61-80,61–80,000002U1,"Röstberättigade, antal",2018,2018,1437071
+00,Riket,1+2,totalt,61-80,61–80,000002U1,"Röstberättigade, antal",2022,2022,1475671
+00,Riket,1+2,totalt,61-80,61–80,000002TX,"Röstande, andel i procent",2018,2018,93
+00,Riket,1+2,totalt,61-80,61–80,000002TX,"Röstande, andel i procent",2022,2022,91
+00,Riket,1+2,totalt,81-100,81–100,000002U1,"Röstberättigade, antal",2018,2018,1442171
+00,Riket,1+2,totalt,81-100,81–100,000002U1,"Röstberättigade, antal",2022,2022,1483861
+00,Riket,1+2,totalt,81-100,81–100,000002TX,"Röstande, andel i procent",2018,2018,96
+00,Riket,1+2,totalt,81-100,81–100,000002TX,"Röstande, andel i procent",2022,2022,95
+00,Riket,1+2,totalt,samink,samtliga inkomstkvintiler,000002U1,"Röstberättigade, antal",2018,2018,7325733
+00,Riket,1+2,totalt,samink,samtliga inkomstkvintiler,000002U1,"Röstberättigade, antal",2022,2022,7593353
+00,Riket,1+2,totalt,samink,samtliga inkomstkvintiler,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,samink,samtliga inkomstkvintiler,000002TX,"Röstande, andel i procent",2022,2022,85
+00,Riket,1+2,totalt,förstagang,förstagångsväljare,000002U1,"Röstberättigade, antal",2018,2018,386990
+00,Riket,1+2,totalt,förstagang,förstagångsväljare,000002U1,"Röstberättigade, antal",2022,2022,433135
+00,Riket,1+2,totalt,förstagang,förstagångsväljare,000002TX,"Röstande, andel i procent",2018,2018,86
+00,Riket,1+2,totalt,förstagang,förstagångsväljare,000002TX,"Röstande, andel i procent",2022,2022,84
+00,Riket,1+2,totalt,ejförsta,ej förstagångsväljare,000002U1,"Röstberättigade, antal",2018,2018,6938743
+00,Riket,1+2,totalt,ejförsta,ej förstagångsväljare,000002U1,"Röstberättigade, antal",2022,2022,7160218
+00,Riket,1+2,totalt,ejförsta,ej förstagångsväljare,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,ejförsta,ej förstagångsväljare,000002TX,"Röstande, andel i procent",2022,2022,86
+00,Riket,1+2,totalt,samväljare,samtliga väljare,000002U1,"Röstberättigade, antal",2018,2018,7325733
+00,Riket,1+2,totalt,samväljare,samtliga väljare,000002U1,"Röstberättigade, antal",2022,2022,7593353
+00,Riket,1+2,totalt,samväljare,samtliga väljare,000002TX,"Röstande, andel i procent",2018,2018,88
+00,Riket,1+2,totalt,samväljare,samtliga väljare,000002TX,"Röstande, andel i procent",2022,2022,85

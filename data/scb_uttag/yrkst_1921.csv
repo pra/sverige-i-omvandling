@@ -1,0 +1,937 @@
+SNI2007,SNI2007_text,Yrkesstallning,Yrkesstallning_text,Kon,Kon_text,ContentsCode,ContentsCode_text,Tid,Tid_text,value
+01-03,"jordbruk, skogsbruk och fiske",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,48310
+01-03,"jordbruk, skogsbruk och fiske",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,47543
+01-03,"jordbruk, skogsbruk och fiske",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,45822
+01-03,"jordbruk, skogsbruk och fiske",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,14593
+01-03,"jordbruk, skogsbruk och fiske",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,15029
+01-03,"jordbruk, skogsbruk och fiske",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,14482
+01-03,"jordbruk, skogsbruk och fiske",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,4034
+01-03,"jordbruk, skogsbruk och fiske",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,4107
+01-03,"jordbruk, skogsbruk och fiske",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,4252
+01-03,"jordbruk, skogsbruk och fiske",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,673
+01-03,"jordbruk, skogsbruk och fiske",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,712
+01-03,"jordbruk, skogsbruk och fiske",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,774
+01-03,"jordbruk, skogsbruk och fiske",ANST,anställda,1,män,000003AS,Antal,2019,2019,21177
+01-03,"jordbruk, skogsbruk och fiske",ANST,anställda,1,män,000003AS,Antal,2020,2020,21575
+01-03,"jordbruk, skogsbruk och fiske",ANST,anställda,1,män,000003AS,Antal,2021,2021,21483
+01-03,"jordbruk, skogsbruk och fiske",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,8899
+01-03,"jordbruk, skogsbruk och fiske",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,9492
+01-03,"jordbruk, skogsbruk och fiske",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,9809
+05-09,utvinning av mineral,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,66
+05-09,utvinning av mineral,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,59
+05-09,utvinning av mineral,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,59
+05-09,utvinning av mineral,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,15
+05-09,utvinning av mineral,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,14
+05-09,utvinning av mineral,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,13
+05-09,utvinning av mineral,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,118
+05-09,utvinning av mineral,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,121
+05-09,utvinning av mineral,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,122
+05-09,utvinning av mineral,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,13
+05-09,utvinning av mineral,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,10
+05-09,utvinning av mineral,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,10
+05-09,utvinning av mineral,ANST,anställda,1,män,000003AS,Antal,2019,2019,6717
+05-09,utvinning av mineral,ANST,anställda,1,män,000003AS,Antal,2020,2020,6908
+05-09,utvinning av mineral,ANST,anställda,1,män,000003AS,Antal,2021,2021,7235
+05-09,utvinning av mineral,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,1926
+05-09,utvinning av mineral,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,2077
+05-09,utvinning av mineral,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,2300
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,414
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,409
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,375
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,425
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,402
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,438
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,721
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,739
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,779
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,385
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,378
+10-12,"framställning av livsmedel, drycker och tobak",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,404
+10-12,"framställning av livsmedel, drycker och tobak",ANST,anställda,1,män,000003AS,Antal,2019,2019,32356
+10-12,"framställning av livsmedel, drycker och tobak",ANST,anställda,1,män,000003AS,Antal,2020,2020,32400
+10-12,"framställning av livsmedel, drycker och tobak",ANST,anställda,1,män,000003AS,Antal,2021,2021,32449
+10-12,"framställning av livsmedel, drycker och tobak",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,19947
+10-12,"framställning av livsmedel, drycker och tobak",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,19428
+10-12,"framställning av livsmedel, drycker och tobak",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,19869
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,370
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,340
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,333
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,1111
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1090
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,1042
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,259
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,261
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,254
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,158
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,158
+13-15,"textil-, beklädnads- och lädervarutillverkning",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,163
+13-15,"textil-, beklädnads- och lädervarutillverkning",ANST,anställda,1,män,000003AS,Antal,2019,2019,3049
+13-15,"textil-, beklädnads- och lädervarutillverkning",ANST,anställda,1,män,000003AS,Antal,2020,2020,2928
+13-15,"textil-, beklädnads- och lädervarutillverkning",ANST,anställda,1,män,000003AS,Antal,2021,2021,2944
+13-15,"textil-, beklädnads- och lädervarutillverkning",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,2428
+13-15,"textil-, beklädnads- och lädervarutillverkning",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,2321
+13-15,"textil-, beklädnads- och lädervarutillverkning",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,2327
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1321
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1251
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1188
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,123
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,121
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,106
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,946
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,937
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,929
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,112
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,113
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,117
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",ANST,anställda,1,män,000003AS,Antal,2019,2019,24346
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",ANST,anställda,1,män,000003AS,Antal,2020,2020,24324
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",ANST,anställda,1,män,000003AS,Antal,2021,2021,25365
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,4860
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,5052
+16,"tillverkning av trä och varor av trä, rotting o.d. utom möbler",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,5467
+17,pappers- och pappersvarutillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,12
+17,pappers- och pappersvarutillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,13
+17,pappers- och pappersvarutillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,12
+17,pappers- och pappersvarutillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,10
+17,pappers- och pappersvarutillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,10
+17,pappers- och pappersvarutillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,10
+17,pappers- och pappersvarutillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,58
+17,pappers- och pappersvarutillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,54
+17,pappers- och pappersvarutillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,48
+17,pappers- och pappersvarutillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,13
+17,pappers- och pappersvarutillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,7
+17,pappers- och pappersvarutillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,9
+17,pappers- och pappersvarutillverkning,ANST,anställda,1,män,000003AS,Antal,2019,2019,20753
+17,pappers- och pappersvarutillverkning,ANST,anställda,1,män,000003AS,Antal,2020,2020,20673
+17,pappers- och pappersvarutillverkning,ANST,anställda,1,män,000003AS,Antal,2021,2021,20072
+17,pappers- och pappersvarutillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,6503
+17,pappers- och pappersvarutillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,6597
+17,pappers- och pappersvarutillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,6535
+18,grafisk produktion och reproduktion av inspelningar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,381
+18,grafisk produktion och reproduktion av inspelningar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,385
+18,grafisk produktion och reproduktion av inspelningar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,331
+18,grafisk produktion och reproduktion av inspelningar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,164
+18,grafisk produktion och reproduktion av inspelningar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,143
+18,grafisk produktion och reproduktion av inspelningar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,138
+18,grafisk produktion och reproduktion av inspelningar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,579
+18,grafisk produktion och reproduktion av inspelningar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,579
+18,grafisk produktion och reproduktion av inspelningar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,548
+18,grafisk produktion och reproduktion av inspelningar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,123
+18,grafisk produktion och reproduktion av inspelningar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,118
+18,grafisk produktion och reproduktion av inspelningar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,126
+18,grafisk produktion och reproduktion av inspelningar,ANST,anställda,1,män,000003AS,Antal,2019,2019,5988
+18,grafisk produktion och reproduktion av inspelningar,ANST,anställda,1,män,000003AS,Antal,2020,2020,5190
+18,grafisk produktion och reproduktion av inspelningar,ANST,anställda,1,män,000003AS,Antal,2021,2021,4951
+18,grafisk produktion och reproduktion av inspelningar,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,2604
+18,grafisk produktion och reproduktion av inspelningar,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,2237
+18,grafisk produktion och reproduktion av inspelningar,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,2153
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,1
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,1
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,0
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,0
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,0
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,0
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,0
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,0
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,ANST,anställda,1,män,000003AS,Antal,2019,2019,2031
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,ANST,anställda,1,män,000003AS,Antal,2020,2020,1979
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,ANST,anställda,1,män,000003AS,Antal,2021,2021,1931
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,710
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,716
+19,tillverkning av stenkolsprodukter och raffinerade petroleumprodukter,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,690
+20,tillverkning av kemikalier och kemiska produkter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,33
+20,tillverkning av kemikalier och kemiska produkter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,26
+20,tillverkning av kemikalier och kemiska produkter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,26
+20,tillverkning av kemikalier och kemiska produkter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,51
+20,tillverkning av kemikalier och kemiska produkter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,40
+20,tillverkning av kemikalier och kemiska produkter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,43
+20,tillverkning av kemikalier och kemiska produkter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,124
+20,tillverkning av kemikalier och kemiska produkter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,117
+20,tillverkning av kemikalier och kemiska produkter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,112
+20,tillverkning av kemikalier och kemiska produkter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,50
+20,tillverkning av kemikalier och kemiska produkter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,46
+20,tillverkning av kemikalier och kemiska produkter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,59
+20,tillverkning av kemikalier och kemiska produkter,ANST,anställda,1,män,000003AS,Antal,2019,2019,11852
+20,tillverkning av kemikalier och kemiska produkter,ANST,anställda,1,män,000003AS,Antal,2020,2020,11950
+20,tillverkning av kemikalier och kemiska produkter,ANST,anställda,1,män,000003AS,Antal,2021,2021,11546
+20,tillverkning av kemikalier och kemiska produkter,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,6022
+20,tillverkning av kemikalier och kemiska produkter,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,5953
+20,tillverkning av kemikalier och kemiska produkter,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,5788
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,4
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,2
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,2
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,4
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,4
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,3
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,6
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,2
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,3
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,6
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,6
+21,tillverkning av farmaceutiska basprodukter och läkemedel,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,6
+21,tillverkning av farmaceutiska basprodukter och läkemedel,ANST,anställda,1,män,000003AS,Antal,2019,2019,5143
+21,tillverkning av farmaceutiska basprodukter och läkemedel,ANST,anställda,1,män,000003AS,Antal,2020,2020,5428
+21,tillverkning av farmaceutiska basprodukter och läkemedel,ANST,anställda,1,män,000003AS,Antal,2021,2021,6306
+21,tillverkning av farmaceutiska basprodukter och läkemedel,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,5316
+21,tillverkning av farmaceutiska basprodukter och läkemedel,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,5576
+21,tillverkning av farmaceutiska basprodukter och läkemedel,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,6161
+22,tillverkning av gummi- och plastvaror,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,99
+22,tillverkning av gummi- och plastvaror,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,93
+22,tillverkning av gummi- och plastvaror,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,91
+22,tillverkning av gummi- och plastvaror,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,31
+22,tillverkning av gummi- och plastvaror,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,27
+22,tillverkning av gummi- och plastvaror,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,23
+22,tillverkning av gummi- och plastvaror,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,338
+22,tillverkning av gummi- och plastvaror,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,306
+22,tillverkning av gummi- och plastvaror,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,307
+22,tillverkning av gummi- och plastvaror,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,57
+22,tillverkning av gummi- och plastvaror,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,57
+22,tillverkning av gummi- och plastvaror,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,60
+22,tillverkning av gummi- och plastvaror,ANST,anställda,1,män,000003AS,Antal,2019,2019,13570
+22,tillverkning av gummi- och plastvaror,ANST,anställda,1,män,000003AS,Antal,2020,2020,13234
+22,tillverkning av gummi- och plastvaror,ANST,anställda,1,män,000003AS,Antal,2021,2021,13332
+22,tillverkning av gummi- och plastvaror,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,5319
+22,tillverkning av gummi- och plastvaror,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,5140
+22,tillverkning av gummi- och plastvaror,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,5235
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,202
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,184
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,188
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,362
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,373
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,403
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,279
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,275
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,267
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,56
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,52
+23,tillverkning av andra icke-metalliska mineraliska produkter,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,52
+23,tillverkning av andra icke-metalliska mineraliska produkter,ANST,anställda,1,män,000003AS,Antal,2019,2019,14287
+23,tillverkning av andra icke-metalliska mineraliska produkter,ANST,anställda,1,män,000003AS,Antal,2020,2020,13991
+23,tillverkning av andra icke-metalliska mineraliska produkter,ANST,anställda,1,män,000003AS,Antal,2021,2021,14106
+23,tillverkning av andra icke-metalliska mineraliska produkter,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,2655
+23,tillverkning av andra icke-metalliska mineraliska produkter,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,2623
+23,tillverkning av andra icke-metalliska mineraliska produkter,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,2763
+24,stål- och metallframställning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,18
+24,stål- och metallframställning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,18
+24,stål- och metallframställning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,20
+24,stål- och metallframställning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,0
+24,stål- och metallframställning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1
+24,stål- och metallframställning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,0
+24,stål- och metallframställning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,101
+24,stål- och metallframställning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,97
+24,stål- och metallframställning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,82
+24,stål- och metallframställning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,15
+24,stål- och metallframställning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,15
+24,stål- och metallframställning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,14
+24,stål- och metallframställning,ANST,anställda,1,män,000003AS,Antal,2019,2019,22160
+24,stål- och metallframställning,ANST,anställda,1,män,000003AS,Antal,2020,2020,21092
+24,stål- och metallframställning,ANST,anställda,1,män,000003AS,Antal,2021,2021,20939
+24,stål- och metallframställning,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,5202
+24,stål- och metallframställning,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,4956
+24,stål- och metallframställning,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,4930
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1863
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1781
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1748
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,132
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,128
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,110
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,2879
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,2857
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,2764
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,239
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,238
+25,tillverkning av metallvaror utom maskiner och apparater,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,237
+25,tillverkning av metallvaror utom maskiner och apparater,ANST,anställda,1,män,000003AS,Antal,2019,2019,53408
+25,tillverkning av metallvaror utom maskiner och apparater,ANST,anställda,1,män,000003AS,Antal,2020,2020,51123
+25,tillverkning av metallvaror utom maskiner och apparater,ANST,anställda,1,män,000003AS,Antal,2021,2021,51720
+25,tillverkning av metallvaror utom maskiner och apparater,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,11488
+25,tillverkning av metallvaror utom maskiner och apparater,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,10959
+25,tillverkning av metallvaror utom maskiner och apparater,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,11364
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,406
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,372
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,354
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,46
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,38
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,31
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,1218
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,1175
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,1157
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,149
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,139
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,130
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",ANST,anställda,1,män,000003AS,Antal,2019,2019,82591
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",ANST,anställda,1,män,000003AS,Antal,2020,2020,81140
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",ANST,anställda,1,män,000003AS,Antal,2021,2021,85050
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,23458
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,23386
+26-28,"tillverkning av datorer, elektronikvaror, optik, elappparatur och andra maskiner och apparater ",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,25577
+29-30,transportmedelstillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,283
+29-30,transportmedelstillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,270
+29-30,transportmedelstillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,261
+29-30,transportmedelstillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,21
+29-30,transportmedelstillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,20
+29-30,transportmedelstillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,20
+29-30,transportmedelstillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,381
+29-30,transportmedelstillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,385
+29-30,transportmedelstillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,373
+29-30,transportmedelstillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,37
+29-30,transportmedelstillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,28
+29-30,transportmedelstillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,32
+29-30,transportmedelstillverkning,ANST,anställda,1,män,000003AS,Antal,2019,2019,67618
+29-30,transportmedelstillverkning,ANST,anställda,1,män,000003AS,Antal,2020,2020,65727
+29-30,transportmedelstillverkning,ANST,anställda,1,män,000003AS,Antal,2021,2021,66367
+29-30,transportmedelstillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,20995
+29-30,transportmedelstillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,20502
+29-30,transportmedelstillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,21329
+31-32,övrig tillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1110
+31-32,övrig tillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1080
+31-32,övrig tillverkning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1028
+31-32,övrig tillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,661
+31-32,övrig tillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,672
+31-32,övrig tillverkning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,648
+31-32,övrig tillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,908
+31-32,övrig tillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,929
+31-32,övrig tillverkning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,937
+31-32,övrig tillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,274
+31-32,övrig tillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,266
+31-32,övrig tillverkning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,279
+31-32,övrig tillverkning,ANST,anställda,1,män,000003AS,Antal,2019,2019,14391
+31-32,övrig tillverkning,ANST,anställda,1,män,000003AS,Antal,2020,2020,13911
+31-32,övrig tillverkning,ANST,anställda,1,män,000003AS,Antal,2021,2021,14194
+31-32,övrig tillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,7259
+31-32,övrig tillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,7273
+31-32,övrig tillverkning,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,7422
+33,reparationer och installationer av maskiner och apparater,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1665
+33,reparationer och installationer av maskiner och apparater,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1644
+33,reparationer och installationer av maskiner och apparater,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1594
+33,reparationer och installationer av maskiner och apparater,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,66
+33,reparationer och installationer av maskiner och apparater,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,63
+33,reparationer och installationer av maskiner och apparater,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,55
+33,reparationer och installationer av maskiner och apparater,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,1622
+33,reparationer och installationer av maskiner och apparater,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,1677
+33,reparationer och installationer av maskiner och apparater,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,1732
+33,reparationer och installationer av maskiner och apparater,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,101
+33,reparationer och installationer av maskiner och apparater,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,104
+33,reparationer och installationer av maskiner och apparater,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,105
+33,reparationer och installationer av maskiner och apparater,ANST,anställda,1,män,000003AS,Antal,2019,2019,15170
+33,reparationer och installationer av maskiner och apparater,ANST,anställda,1,män,000003AS,Antal,2020,2020,15050
+33,reparationer och installationer av maskiner och apparater,ANST,anställda,1,män,000003AS,Antal,2021,2021,15036
+33,reparationer och installationer av maskiner och apparater,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,1925
+33,reparationer och installationer av maskiner och apparater,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,1908
+33,reparationer och installationer av maskiner och apparater,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,1958
+35,"försörjning av el,gas, värme och kyla",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,150
+35,"försörjning av el,gas, värme och kyla",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,98
+35,"försörjning av el,gas, värme och kyla",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,93
+35,"försörjning av el,gas, värme och kyla",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,44
+35,"försörjning av el,gas, värme och kyla",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,40
+35,"försörjning av el,gas, värme och kyla",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,43
+35,"försörjning av el,gas, värme och kyla",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,53
+35,"försörjning av el,gas, värme och kyla",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,51
+35,"försörjning av el,gas, värme och kyla",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,67
+35,"försörjning av el,gas, värme och kyla",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,9
+35,"försörjning av el,gas, värme och kyla",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,7
+35,"försörjning av el,gas, värme och kyla",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,8
+35,"försörjning av el,gas, värme och kyla",ANST,anställda,1,män,000003AS,Antal,2019,2019,20005
+35,"försörjning av el,gas, värme och kyla",ANST,anställda,1,män,000003AS,Antal,2020,2020,21062
+35,"försörjning av el,gas, värme och kyla",ANST,anställda,1,män,000003AS,Antal,2021,2021,21220
+35,"försörjning av el,gas, värme och kyla",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,8159
+35,"försörjning av el,gas, värme och kyla",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,8354
+35,"försörjning av el,gas, värme och kyla",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,8562
+36-37,vattenförsörjning och avloppsrening,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,42
+36-37,vattenförsörjning och avloppsrening,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,41
+36-37,vattenförsörjning och avloppsrening,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,39
+36-37,vattenförsörjning och avloppsrening,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,10
+36-37,vattenförsörjning och avloppsrening,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,8
+36-37,vattenförsörjning och avloppsrening,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,9
+36-37,vattenförsörjning och avloppsrening,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,80
+36-37,vattenförsörjning och avloppsrening,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,84
+36-37,vattenförsörjning och avloppsrening,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,81
+36-37,vattenförsörjning och avloppsrening,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,5
+36-37,vattenförsörjning och avloppsrening,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,7
+36-37,vattenförsörjning och avloppsrening,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,7
+36-37,vattenförsörjning och avloppsrening,ANST,anställda,1,män,000003AS,Antal,2019,2019,5151
+36-37,vattenförsörjning och avloppsrening,ANST,anställda,1,män,000003AS,Antal,2020,2020,5411
+36-37,vattenförsörjning och avloppsrening,ANST,anställda,1,män,000003AS,Antal,2021,2021,5686
+36-37,vattenförsörjning och avloppsrening,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,1758
+36-37,vattenförsörjning och avloppsrening,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,1874
+36-37,vattenförsörjning och avloppsrening,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,1977
+38-39,"avfallshantering, återvinning och sanering",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,111
+38-39,"avfallshantering, återvinning och sanering",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,108
+38-39,"avfallshantering, återvinning och sanering",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,105
+38-39,"avfallshantering, återvinning och sanering",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,14
+38-39,"avfallshantering, återvinning och sanering",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,12
+38-39,"avfallshantering, återvinning och sanering",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,8
+38-39,"avfallshantering, återvinning och sanering",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,214
+38-39,"avfallshantering, återvinning och sanering",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,203
+38-39,"avfallshantering, återvinning och sanering",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,207
+38-39,"avfallshantering, återvinning och sanering",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,19
+38-39,"avfallshantering, återvinning och sanering",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,24
+38-39,"avfallshantering, återvinning och sanering",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,21
+38-39,"avfallshantering, återvinning och sanering",ANST,anställda,1,män,000003AS,Antal,2019,2019,12735
+38-39,"avfallshantering, återvinning och sanering",ANST,anställda,1,män,000003AS,Antal,2020,2020,12958
+38-39,"avfallshantering, återvinning och sanering",ANST,anställda,1,män,000003AS,Antal,2021,2021,13359
+38-39,"avfallshantering, återvinning och sanering",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,3195
+38-39,"avfallshantering, återvinning och sanering",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,3366
+38-39,"avfallshantering, återvinning och sanering",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,3703
+41-43,byggverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,27968
+41-43,byggverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,27085
+41-43,byggverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,26118
+41-43,byggverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,1271
+41-43,byggverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1332
+41-43,byggverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,1310
+41-43,byggverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,31018
+41-43,byggverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,32481
+41-43,byggverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,34078
+41-43,byggverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1655
+41-43,byggverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1748
+41-43,byggverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1889
+41-43,byggverksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,267982
+41-43,byggverksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,267409
+41-43,byggverksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,274301
+41-43,byggverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,33009
+41-43,byggverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,33688
+41-43,byggverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,35428
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,5532
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,5423
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,5200
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,276
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,289
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,284
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,4853
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,5100
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,5229
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,355
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,389
+45,handel samt reparation av motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,398
+45,handel samt reparation av motorfordon och motorcyklar,ANST,anställda,1,män,000003AS,Antal,2019,2019,60519
+45,handel samt reparation av motorfordon och motorcyklar,ANST,anställda,1,män,000003AS,Antal,2020,2020,59600
+45,handel samt reparation av motorfordon och motorcyklar,ANST,anställda,1,män,000003AS,Antal,2021,2021,61010
+45,handel samt reparation av motorfordon och motorcyklar,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,11091
+45,handel samt reparation av motorfordon och motorcyklar,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,11403
+45,handel samt reparation av motorfordon och motorcyklar,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,12010
+46,parti-och provisionshandel utom med motorfordon,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,3648
+46,parti-och provisionshandel utom med motorfordon,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,3350
+46,parti-och provisionshandel utom med motorfordon,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,3112
+46,parti-och provisionshandel utom med motorfordon,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,1410
+46,parti-och provisionshandel utom med motorfordon,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1350
+46,parti-och provisionshandel utom med motorfordon,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,1302
+46,parti-och provisionshandel utom med motorfordon,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,7104
+46,parti-och provisionshandel utom med motorfordon,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,7079
+46,parti-och provisionshandel utom med motorfordon,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,6985
+46,parti-och provisionshandel utom med motorfordon,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1647
+46,parti-och provisionshandel utom med motorfordon,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1638
+46,parti-och provisionshandel utom med motorfordon,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1644
+46,parti-och provisionshandel utom med motorfordon,ANST,anställda,1,män,000003AS,Antal,2019,2019,131947
+46,parti-och provisionshandel utom med motorfordon,ANST,anställda,1,män,000003AS,Antal,2020,2020,129859
+46,parti-och provisionshandel utom med motorfordon,ANST,anställda,1,män,000003AS,Antal,2021,2021,130985
+46,parti-och provisionshandel utom med motorfordon,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,67855
+46,parti-och provisionshandel utom med motorfordon,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,66477
+46,parti-och provisionshandel utom med motorfordon,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,68182
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,6924
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,6852
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,6535
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,5999
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,5864
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,5748
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,7103
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,7258
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,7292
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,4450
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,4643
+47,detaljhandel utom med motorfordon och motorcyklar,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,4770
+47,detaljhandel utom med motorfordon och motorcyklar,ANST,anställda,1,män,000003AS,Antal,2019,2019,98539
+47,detaljhandel utom med motorfordon och motorcyklar,ANST,anställda,1,män,000003AS,Antal,2020,2020,98535
+47,detaljhandel utom med motorfordon och motorcyklar,ANST,anställda,1,män,000003AS,Antal,2021,2021,101639
+47,detaljhandel utom med motorfordon och motorcyklar,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,175106
+47,detaljhandel utom med motorfordon och motorcyklar,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,170047
+47,detaljhandel utom med motorfordon och motorcyklar,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,172868
+49-52,transport och magasinering,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,8191
+49-52,transport och magasinering,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,8022
+49-52,transport och magasinering,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,7901
+49-52,transport och magasinering,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,430
+49-52,transport och magasinering,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,433
+49-52,transport och magasinering,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,426
+49-52,transport och magasinering,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,7659
+49-52,transport och magasinering,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,7687
+49-52,transport och magasinering,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,7770
+49-52,transport och magasinering,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,695
+49-52,transport och magasinering,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,660
+49-52,transport och magasinering,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,654
+49-52,transport och magasinering,ANST,anställda,1,män,000003AS,Antal,2019,2019,150638
+49-52,transport och magasinering,ANST,anställda,1,män,000003AS,Antal,2020,2020,142209
+49-52,transport och magasinering,ANST,anställda,1,män,000003AS,Antal,2021,2021,145474
+49-52,transport och magasinering,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,42025
+49-52,transport och magasinering,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,39046
+49-52,transport och magasinering,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,40229
+53,post- och kurirverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,154
+53,post- och kurirverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,247
+53,post- och kurirverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,436
+53,post- och kurirverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,17
+53,post- och kurirverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,23
+53,post- och kurirverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,69
+53,post- och kurirverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,48
+53,post- och kurirverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,62
+53,post- och kurirverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,72
+53,post- och kurirverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,10
+53,post- och kurirverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,12
+53,post- och kurirverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,15
+53,post- och kurirverksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,21977
+53,post- och kurirverksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,20981
+53,post- och kurirverksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,21991
+53,post- och kurirverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,9268
+53,post- och kurirverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,8544
+53,post- och kurirverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,8681
+55-56,hotell- och restaurangverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,6889
+55-56,hotell- och restaurangverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,6487
+55-56,hotell- och restaurangverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,6066
+55-56,hotell- och restaurangverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,3385
+55-56,hotell- och restaurangverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,3268
+55-56,hotell- och restaurangverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,3161
+55-56,hotell- och restaurangverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,4994
+55-56,hotell- och restaurangverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,5372
+55-56,hotell- och restaurangverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,5667
+55-56,hotell- och restaurangverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,2305
+55-56,hotell- och restaurangverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,2481
+55-56,hotell- och restaurangverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,2671
+55-56,hotell- och restaurangverksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,78124
+55-56,hotell- och restaurangverksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,68645
+55-56,hotell- och restaurangverksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,75625
+55-56,hotell- och restaurangverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,86878
+55-56,hotell- och restaurangverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,73079
+55-56,hotell- och restaurangverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,83175
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,3463
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,3512
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,3500
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,1168
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1168
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,1260
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,2816
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,3043
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,3266
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,621
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,705
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,792
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",ANST,anställda,1,män,000003AS,Antal,2019,2019,25297
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",ANST,anställda,1,män,000003AS,Antal,2020,2020,25633
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",ANST,anställda,1,män,000003AS,Antal,2021,2021,27364
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,19272
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,19114
+58-60,"förlagsverksamhet, film-, video- och tv-programproduktion, sändning av program",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,20510
+61,telekommunikation,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,47
+61,telekommunikation,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,36
+61,telekommunikation,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,29
+61,telekommunikation,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,4
+61,telekommunikation,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,7
+61,telekommunikation,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,6
+61,telekommunikation,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,152
+61,telekommunikation,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,150
+61,telekommunikation,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,158
+61,telekommunikation,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,9
+61,telekommunikation,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,9
+61,telekommunikation,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,9
+61,telekommunikation,ANST,anställda,1,män,000003AS,Antal,2019,2019,14467
+61,telekommunikation,ANST,anställda,1,män,000003AS,Antal,2020,2020,13811
+61,telekommunikation,ANST,anställda,1,män,000003AS,Antal,2021,2021,13561
+61,telekommunikation,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,6137
+61,telekommunikation,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,5995
+61,telekommunikation,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,5850
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,4261
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,4080
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,3755
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,891
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,868
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,857
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,11635
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,12336
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,12885
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1512
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1549
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1618
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",ANST,anställda,1,män,000003AS,Antal,2019,2019,92300
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",ANST,anställda,1,män,000003AS,Antal,2020,2020,92446
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",ANST,anställda,1,män,000003AS,Antal,2021,2021,97692
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,33637
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,34102
+62-63,"dataprogrammering, datakonsultverksamhet och informationstjänster",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,37456
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,33
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,29
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,23
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,8
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,7
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,7
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,570
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,614
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,613
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,145
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,141
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,140
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,26756
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,27637
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,28882
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,29463
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,30019
+64,finansiella tjänster utom försäkring och pensionsfondsverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,30903
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,5
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,3
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,3
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,7
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,5
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,5
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,6
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,6
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,5
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,2
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,2
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,2
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",ANST,anställda,1,män,000003AS,Antal,2019,2019,10167
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",ANST,anställda,1,män,000003AS,Antal,2020,2020,10396
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",ANST,anställda,1,män,000003AS,Antal,2021,2021,10321
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,11859
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,12214
+65,"försäkring, återförsäkring och pensionsfondsverksamhet utom obligatorisk socialförsäkring ",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,12221
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,267
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,244
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,211
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,109
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,98
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,103
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,919
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,892
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,840
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,153
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,153
+66,stödtjänster till finansiella tjänster och försäkring,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,138
+66,stödtjänster till finansiella tjänster och försäkring,ANST,anställda,1,män,000003AS,Antal,2019,2019,9018
+66,stödtjänster till finansiella tjänster och försäkring,ANST,anställda,1,män,000003AS,Antal,2020,2020,9215
+66,stödtjänster till finansiella tjänster och försäkring,ANST,anställda,1,män,000003AS,Antal,2021,2021,9674
+66,stödtjänster till finansiella tjänster och försäkring,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,6587
+66,stödtjänster till finansiella tjänster och försäkring,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,6552
+66,stödtjänster till finansiella tjänster och försäkring,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,6706
+68,fastighetsverksamhet ,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,3832
+68,fastighetsverksamhet ,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,3633
+68,fastighetsverksamhet ,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,3554
+68,fastighetsverksamhet ,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,1431
+68,fastighetsverksamhet ,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,1411
+68,fastighetsverksamhet ,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,1367
+68,fastighetsverksamhet ,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,2611
+68,fastighetsverksamhet ,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,2796
+68,fastighetsverksamhet ,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,2800
+68,fastighetsverksamhet ,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1160
+68,fastighetsverksamhet ,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1231
+68,fastighetsverksamhet ,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1301
+68,fastighetsverksamhet ,ANST,anställda,1,män,000003AS,Antal,2019,2019,44920
+68,fastighetsverksamhet ,ANST,anställda,1,män,000003AS,Antal,2020,2020,45220
+68,fastighetsverksamhet ,ANST,anställda,1,män,000003AS,Antal,2021,2021,45364
+68,fastighetsverksamhet ,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,32352
+68,fastighetsverksamhet ,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,32398
+68,fastighetsverksamhet ,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,33456
+69,juridisk och ekonomisk konsultverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,2354
+69,juridisk och ekonomisk konsultverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,2232
+69,juridisk och ekonomisk konsultverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,2032
+69,juridisk och ekonomisk konsultverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,3116
+69,juridisk och ekonomisk konsultverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,3016
+69,juridisk och ekonomisk konsultverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,2838
+69,juridisk och ekonomisk konsultverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,3871
+69,juridisk och ekonomisk konsultverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,4012
+69,juridisk och ekonomisk konsultverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,4030
+69,juridisk och ekonomisk konsultverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,4023
+69,juridisk och ekonomisk konsultverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,4331
+69,juridisk och ekonomisk konsultverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,4608
+69,juridisk och ekonomisk konsultverksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,16181
+69,juridisk och ekonomisk konsultverksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,13975
+69,juridisk och ekonomisk konsultverksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,14620
+69,juridisk och ekonomisk konsultverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,26961
+69,juridisk och ekonomisk konsultverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,25435
+69,juridisk och ekonomisk konsultverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,26020
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,4854
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,4561
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,4200
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,3683
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,3509
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,3247
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,9023
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,9615
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,10034
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,4576
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,4889
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,5323
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,ANST,anställda,1,män,000003AS,Antal,2019,2019,23651
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,ANST,anställda,1,män,000003AS,Antal,2020,2020,23002
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,ANST,anställda,1,män,000003AS,Antal,2021,2021,24483
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,21557
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,20594
+70,verksamheter som utövas av huvudkontor; konsulttjänstrer till företag,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,22543
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,5067
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,4727
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,4342
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,877
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,848
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,780
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,10062
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,10514
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,10955
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1773
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1897
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1954
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,ANST,anställda,1,män,000003AS,Antal,2019,2019,66598
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,ANST,anställda,1,män,000003AS,Antal,2020,2020,64559
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,ANST,anställda,1,män,000003AS,Antal,2021,2021,67042
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,28107
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,27423
+71,arkitekt- och teknisk konsultverksamhet; teknisk provning och analys,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,29297
+72,vetenskaplig forskning och utveckling,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,262
+72,vetenskaplig forskning och utveckling,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,243
+72,vetenskaplig forskning och utveckling,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,219
+72,vetenskaplig forskning och utveckling,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,140
+72,vetenskaplig forskning och utveckling,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,142
+72,vetenskaplig forskning och utveckling,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,129
+72,vetenskaplig forskning och utveckling,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,327
+72,vetenskaplig forskning och utveckling,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,333
+72,vetenskaplig forskning och utveckling,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,340
+72,vetenskaplig forskning och utveckling,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,164
+72,vetenskaplig forskning och utveckling,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,172
+72,vetenskaplig forskning och utveckling,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,187
+72,vetenskaplig forskning och utveckling,ANST,anställda,1,män,000003AS,Antal,2019,2019,14727
+72,vetenskaplig forskning och utveckling,ANST,anställda,1,män,000003AS,Antal,2020,2020,15545
+72,vetenskaplig forskning och utveckling,ANST,anställda,1,män,000003AS,Antal,2021,2021,17615
+72,vetenskaplig forskning och utveckling,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,10993
+72,vetenskaplig forskning och utveckling,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,11779
+72,vetenskaplig forskning och utveckling,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,13789
+73,reklam och marknadsundersökning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1517
+73,reklam och marknadsundersökning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1473
+73,reklam och marknadsundersökning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1348
+73,reklam och marknadsundersökning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,982
+73,reklam och marknadsundersökning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,939
+73,reklam och marknadsundersökning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,928
+73,reklam och marknadsundersökning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,2051
+73,reklam och marknadsundersökning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,2066
+73,reklam och marknadsundersökning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,2078
+73,reklam och marknadsundersökning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,889
+73,reklam och marknadsundersökning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,959
+73,reklam och marknadsundersökning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,971
+73,reklam och marknadsundersökning,ANST,anställda,1,män,000003AS,Antal,2019,2019,10837
+73,reklam och marknadsundersökning,ANST,anställda,1,män,000003AS,Antal,2020,2020,9959
+73,reklam och marknadsundersökning,ANST,anställda,1,män,000003AS,Antal,2021,2021,10012
+73,reklam och marknadsundersökning,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,10386
+73,reklam och marknadsundersökning,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,9095
+73,reklam och marknadsundersökning,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,9344
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,4927
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,4693
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,4477
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,5144
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,5194
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,5008
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,2567
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,2720
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,2797
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1859
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,2022
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,2199
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,10040
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,9623
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,9889
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,15043
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,15019
+74-75,andra specialiserade företagstjänster inkl. veterinärverksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,15591
+77,uthyrning och leasing,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,492
+77,uthyrning och leasing,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,464
+77,uthyrning och leasing,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,439
+77,uthyrning och leasing,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,108
+77,uthyrning och leasing,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,106
+77,uthyrning och leasing,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,104
+77,uthyrning och leasing,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,684
+77,uthyrning och leasing,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,670
+77,uthyrning och leasing,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,683
+77,uthyrning och leasing,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,115
+77,uthyrning och leasing,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,121
+77,uthyrning och leasing,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,96
+77,uthyrning och leasing,ANST,anställda,1,män,000003AS,Antal,2019,2019,10915
+77,uthyrning och leasing,ANST,anställda,1,män,000003AS,Antal,2020,2020,10573
+77,uthyrning och leasing,ANST,anställda,1,män,000003AS,Antal,2021,2021,10876
+77,uthyrning och leasing,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,3155
+77,uthyrning och leasing,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,2988
+77,uthyrning och leasing,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,3105
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,306
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,307
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,283
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,137
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,127
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,127
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,1242
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,1309
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,1473
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,564
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,588
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,691
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",ANST,anställda,1,män,000003AS,Antal,2019,2019,56864
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",ANST,anställda,1,män,000003AS,Antal,2020,2020,52396
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",ANST,anställda,1,män,000003AS,Antal,2021,2021,64969
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,42465
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,39271
+78,"arbetsförmedling, bemanning och andra personalrelaterade tjänster",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,45885
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,4558
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,4562
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,4450
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,4666
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,4721
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,4605
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,3175
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,3291
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,3419
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1512
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1593
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1748
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",ANST,anställda,1,män,000003AS,Antal,2019,2019,78836
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",ANST,anställda,1,män,000003AS,Antal,2020,2020,79004
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",ANST,anställda,1,män,000003AS,Antal,2021,2021,79298
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,76796
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,75276
+79-82,"rese-, bevaknings-, fastighetsservice- och kontorstjänster m.m.",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,75605
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,19
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,18
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,14
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,11
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,12
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,10
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,9
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,12
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,9
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,8
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,8
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,10
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,ANST,anställda,1,män,000003AS,Antal,2019,2019,125835
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,ANST,anställda,1,män,000003AS,Antal,2020,2020,129907
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,ANST,anställda,1,män,000003AS,Antal,2021,2021,132089
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,179602
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,185707
+84,offentlig förvaltning och försvar; obligatorisk socialförsäkring,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,190662
+85,utbildning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,2745
+85,utbildning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,2695
+85,utbildning,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,2611
+85,utbildning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,3488
+85,utbildning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,3603
+85,utbildning,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,3529
+85,utbildning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,1578
+85,utbildning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,1660
+85,utbildning,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,1759
+85,utbildning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1587
+85,utbildning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1621
+85,utbildning,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1670
+85,utbildning,ANST,anställda,1,män,000003AS,Antal,2019,2019,138975
+85,utbildning,ANST,anställda,1,män,000003AS,Antal,2020,2020,137533
+85,utbildning,ANST,anställda,1,män,000003AS,Antal,2021,2021,137225
+85,utbildning,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,404445
+85,utbildning,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,397822
+85,utbildning,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,400345
+86,hälso- och sjukvård,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,1798
+86,hälso- och sjukvård,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,1659
+86,hälso- och sjukvård,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,1483
+86,hälso- och sjukvård,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,5114
+86,hälso- och sjukvård,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,4865
+86,hälso- och sjukvård,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,4633
+86,hälso- och sjukvård,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,3579
+86,hälso- och sjukvård,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,3512
+86,hälso- och sjukvård,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,3711
+86,hälso- och sjukvård,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,3731
+86,hälso- och sjukvård,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,3784
+86,hälso- och sjukvård,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,4063
+86,hälso- och sjukvård,ANST,anställda,1,män,000003AS,Antal,2019,2019,64789
+86,hälso- och sjukvård,ANST,anställda,1,män,000003AS,Antal,2020,2020,65739
+86,hälso- och sjukvård,ANST,anställda,1,män,000003AS,Antal,2021,2021,68121
+86,hälso- och sjukvård,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,257721
+86,hälso- och sjukvård,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,257816
+86,hälso- och sjukvård,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,265363
+87,vård och omsorg med boende,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,45
+87,vård och omsorg med boende,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,49
+87,vård och omsorg med boende,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,44
+87,vård och omsorg med boende,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,75
+87,vård och omsorg med boende,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,57
+87,vård och omsorg med boende,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,52
+87,vård och omsorg med boende,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,210
+87,vård och omsorg med boende,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,199
+87,vård och omsorg med boende,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,196
+87,vård och omsorg med boende,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,228
+87,vård och omsorg med boende,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,213
+87,vård och omsorg med boende,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,234
+87,vård och omsorg med boende,ANST,anställda,1,män,000003AS,Antal,2019,2019,42473
+87,vård och omsorg med boende,ANST,anställda,1,män,000003AS,Antal,2020,2020,43646
+87,vård och omsorg med boende,ANST,anställda,1,män,000003AS,Antal,2021,2021,45345
+87,vård och omsorg med boende,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,184822
+87,vård och omsorg med boende,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,181554
+87,vård och omsorg med boende,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,179933
+88,öppna sociala insatser,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,189
+88,öppna sociala insatser,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,157
+88,öppna sociala insatser,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,135
+88,öppna sociala insatser,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,870
+88,öppna sociala insatser,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,803
+88,öppna sociala insatser,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,710
+88,öppna sociala insatser,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,375
+88,öppna sociala insatser,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,353
+88,öppna sociala insatser,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,328
+88,öppna sociala insatser,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,577
+88,öppna sociala insatser,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,562
+88,öppna sociala insatser,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,578
+88,öppna sociala insatser,ANST,anställda,1,män,000003AS,Antal,2019,2019,56141
+88,öppna sociala insatser,ANST,anställda,1,män,000003AS,Antal,2020,2020,57147
+88,öppna sociala insatser,ANST,anställda,1,män,000003AS,Antal,2021,2021,57082
+88,öppna sociala insatser,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,191972
+88,öppna sociala insatser,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,187130
+88,öppna sociala insatser,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,185338
+90-93,"kultur, nöje och fritid",EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,9935
+90-93,"kultur, nöje och fritid",EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,9555
+90-93,"kultur, nöje och fritid",EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,9039
+90-93,"kultur, nöje och fritid",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,7833
+90-93,"kultur, nöje och fritid",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,7969
+90-93,"kultur, nöje och fritid",EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,7897
+90-93,"kultur, nöje och fritid",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,2350
+90-93,"kultur, nöje och fritid",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,2494
+90-93,"kultur, nöje och fritid",EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,2647
+90-93,"kultur, nöje och fritid",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,1165
+90-93,"kultur, nöje och fritid",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,1317
+90-93,"kultur, nöje och fritid",EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,1442
+90-93,"kultur, nöje och fritid",ANST,anställda,1,män,000003AS,Antal,2019,2019,40050
+90-93,"kultur, nöje och fritid",ANST,anställda,1,män,000003AS,Antal,2020,2020,37195
+90-93,"kultur, nöje och fritid",ANST,anställda,1,män,000003AS,Antal,2021,2021,40307
+90-93,"kultur, nöje och fritid",ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,44452
+90-93,"kultur, nöje och fritid",ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,40207
+90-93,"kultur, nöje och fritid",ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,44290
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,5773
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,5818
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,5670
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,20522
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,20201
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,19476
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,1587
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,1701
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,1849
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,3428
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,3762
+94-99,annan serviceverksamhet och personliga tjänster,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,4215
+94-99,annan serviceverksamhet och personliga tjänster,ANST,anställda,1,män,000003AS,Antal,2019,2019,36158
+94-99,annan serviceverksamhet och personliga tjänster,ANST,anställda,1,män,000003AS,Antal,2020,2020,34812
+94-99,annan serviceverksamhet och personliga tjänster,ANST,anställda,1,män,000003AS,Antal,2021,2021,35329
+94-99,annan serviceverksamhet och personliga tjänster,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,57874
+94-99,annan serviceverksamhet och personliga tjänster,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,55783
+94-99,annan serviceverksamhet och personliga tjänster,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,56765
+00,okänd verksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2019,2019,9090
+00,okänd verksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2020,2020,10458
+00,okänd verksamhet,EGFÖR,egenföretagare,1,män,000003AS,Antal,2021,2021,9390
+00,okänd verksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2019,2019,15176
+00,okänd verksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2020,2020,16270
+00,okänd verksamhet,EGFÖR,egenföretagare,2,kvinnor,000003AS,Antal,2021,2021,15093
+00,okänd verksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2019,2019,8
+00,okänd verksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2020,2020,14
+00,okänd verksamhet,EGFÖRAB,företagare i eget AB,1,män,000003AS,Antal,2021,2021,33
+00,okänd verksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2019,2019,6
+00,okänd verksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2020,2020,10
+00,okänd verksamhet,EGFÖRAB,företagare i eget AB,2,kvinnor,000003AS,Antal,2021,2021,17
+00,okänd verksamhet,ANST,anställda,1,män,000003AS,Antal,2019,2019,16647
+00,okänd verksamhet,ANST,anställda,1,män,000003AS,Antal,2020,2020,15688
+00,okänd verksamhet,ANST,anställda,1,män,000003AS,Antal,2021,2021,15976
+00,okänd verksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2019,2019,22410
+00,okänd verksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2020,2020,21286
+00,okänd verksamhet,ANST,anställda,2,kvinnor,000003AS,Antal,2021,2021,21795

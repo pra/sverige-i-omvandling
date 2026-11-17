@@ -1,0 +1,484 @@
+kategori,indikator,ar,varde,kalla,not
+JORD,andel_sysselsatta,1970,7.89,FoB 1980 del 2:1,
+IND,andel_sysselsatta,1970,29.57,FoB 1980 del 2:1,
+BYGG,andel_sysselsatta,1970,9.37,FoB 1980 del 2:1,
+SERV,andel_sysselsatta,1970,21.65,FoB 1980 del 2:1,"inkl. hotell/restaurang, transport, post, tele"
+KUNS,andel_sysselsatta,1970,5.11,FoB 1980 del 2:1,"bank, försäkring, uppdragsverksamhet"
+VALF_OFF,andel_sysselsatta,1970,26.42,FoB 1980 del 2:1,offentlig förvaltning + utbildning + vård + övriga tjänster
+JORD,andel_sysselsatta,1975,6.31,FoB 1980 del 2:1,
+IND,andel_sysselsatta,1975,28.52,FoB 1980 del 2:1,
+BYGG,andel_sysselsatta,1975,7.55,FoB 1980 del 2:1,
+SERV,andel_sysselsatta,1975,21.58,FoB 1980 del 2:1,"inkl. hotell/restaurang, transport, post, tele"
+KUNS,andel_sysselsatta,1975,5.82,FoB 1980 del 2:1,"bank, försäkring, uppdragsverksamhet"
+VALF_OFF,andel_sysselsatta,1975,30.23,FoB 1980 del 2:1,offentlig förvaltning + utbildning + vård + övriga tjänster
+JORD,andel_sysselsatta,1980,5.62,FoB 1980 del 2:1,
+IND,andel_sysselsatta,1980,25.24,FoB 1980 del 2:1,
+BYGG,andel_sysselsatta,1980,6.93,FoB 1980 del 2:1,
+SERV,andel_sysselsatta,1980,20.89,FoB 1980 del 2:1,"inkl. hotell/restaurang, transport, post, tele"
+KUNS,andel_sysselsatta,1980,7.0,FoB 1980 del 2:1,"bank, försäkring, uppdragsverksamhet"
+VALF_OFF,andel_sysselsatta,1980,34.31,FoB 1980 del 2:1,offentlig förvaltning + utbildning + vård + övriga tjänster
+IND,andel_sysselsatta,1990,22.33,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,1990,27.56,RAMS/BAS,
+BYGG,andel_sysselsatta,1990,6.8,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,1990,8.86,RAMS/BAS,
+VALF,andel_sysselsatta,1990,27.27,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,1990,80.75,RAMS/BAS,
+SERV,andel_sysselsatta,1990,25.28,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,1990,45.5,RAMS/BAS,
+KUNS,andel_sysselsatta,1990,9.92,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,1990,47.3,RAMS/BAS,
+OFF,andel_sysselsatta,1990,5.14,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,1990,48.9,RAMS/BAS,
+JORD,andel_sysselsatta,1990,3.25,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,1990,26.5,RAMS/BAS,
+ALLA,andel_sysselsatta,1990,100.0,RAMS/BAS,
+ALLA,kvinnoandel,1990,48.12,RAMS/BAS,
+IND,andel_sysselsatta,1993,20.05,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,1993,26.87,RAMS/BAS,
+BYGG,andel_sysselsatta,1993,6.05,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,1993,8.88,RAMS/BAS,
+VALF,andel_sysselsatta,1993,29.9,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,1993,80.65,RAMS/BAS,
+SERV,andel_sysselsatta,1993,25.07,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,1993,45.01,RAMS/BAS,
+KUNS,andel_sysselsatta,1993,10.8,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,1993,43.96,RAMS/BAS,
+OFF,andel_sysselsatta,1993,5.66,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,1993,48.7,RAMS/BAS,
+JORD,andel_sysselsatta,1993,2.47,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,1993,24.39,RAMS/BAS,
+ALLA,andel_sysselsatta,1993,100.0,RAMS/BAS,
+ALLA,kvinnoandel,1993,49.14,RAMS/BAS,
+IND,andel_sysselsatta,2000,20.43,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,2000,26.02,RAMS/BAS,
+BYGG,andel_sysselsatta,2000,5.75,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,2000,7.71,RAMS/BAS,
+VALF,andel_sysselsatta,2000,26.82,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,2000,80.04,RAMS/BAS,
+SERV,andel_sysselsatta,2000,25.85,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,2000,43.31,RAMS/BAS,
+KUNS,andel_sysselsatta,2000,13.74,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,2000,42.6,RAMS/BAS,
+OFF,andel_sysselsatta,2000,5.46,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,2000,52.37,RAMS/BAS,
+JORD,andel_sysselsatta,2000,1.95,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,2000,22.12,RAMS/BAS,
+ALLA,andel_sysselsatta,2000,100.0,RAMS/BAS,
+ALLA,kvinnoandel,2000,47.6,RAMS/BAS,
+IND,andel_sysselsatta,2005,18.36,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,2005,25.25,RAMS/BAS,
+BYGG,andel_sysselsatta,2005,6.07,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,2005,7.51,RAMS/BAS,
+VALF,andel_sysselsatta,2005,27.9,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,2005,79.56,RAMS/BAS,
+SERV,andel_sysselsatta,2005,26.16,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,2005,43.16,RAMS/BAS,
+KUNS,andel_sysselsatta,2005,13.82,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,2005,41.59,RAMS/BAS,
+OFF,andel_sysselsatta,2005,5.78,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,2005,54.12,RAMS/BAS,
+JORD,andel_sysselsatta,2005,1.92,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,2005,19.18,RAMS/BAS,
+ALLA,andel_sysselsatta,2005,100.0,RAMS/BAS,
+ALLA,kvinnoandel,2005,47.94,RAMS/BAS,
+IND,andel_sysselsatta,2010,14.73,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,2010,23.81,RAMS/BAS,
+BYGG,andel_sysselsatta,2010,6.92,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,2010,8.06,RAMS/BAS,
+VALF,andel_sysselsatta,2010,27.07,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,2010,79.52,RAMS/BAS,
+SERV,andel_sysselsatta,2010,25.29,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,2010,43.99,RAMS/BAS,
+KUNS,andel_sysselsatta,2010,18.48,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,2010,41.83,RAMS/BAS,
+OFF,andel_sysselsatta,2010,5.66,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,2010,56.29,RAMS/BAS,
+JORD,andel_sysselsatta,2010,1.84,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,2010,20.79,RAMS/BAS,
+ALLA,andel_sysselsatta,2010,100.0,RAMS/BAS,
+ALLA,kvinnoandel,2010,48.12,RAMS/BAS,
+IND,andel_sysselsatta,2015,13.05,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,2015,23.74,RAMS/BAS,
+BYGG,andel_sysselsatta,2015,7.13,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,2015,8.75,RAMS/BAS,
+VALF,andel_sysselsatta,2015,27.51,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,2015,78.08,RAMS/BAS,
+SERV,andel_sysselsatta,2015,25.07,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,2015,43.81,RAMS/BAS,
+KUNS,andel_sysselsatta,2015,19.3,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,2015,40.94,RAMS/BAS,
+OFF,andel_sysselsatta,2015,5.82,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,2015,57.1,RAMS/BAS,
+JORD,andel_sysselsatta,2015,2.13,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,2015,24.36,RAMS/BAS,
+ALLA,andel_sysselsatta,2015,100.0,RAMS/BAS,
+ALLA,kvinnoandel,2015,48.05,RAMS/BAS,
+IND,andel_sysselsatta,2020,12.02,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,2020,24.59,RAMS/BAS,
+BYGG,andel_sysselsatta,2020,7.4,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,2020,10.11,RAMS/BAS,
+VALF,andel_sysselsatta,2020,27.56,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,2020,76.79,RAMS/BAS,
+SERV,andel_sysselsatta,2020,24.21,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,2020,43.54,RAMS/BAS,
+KUNS,andel_sysselsatta,2020,20.39,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,2020,40.91,RAMS/BAS,
+OFF,andel_sysselsatta,2020,6.41,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,2020,58.84,RAMS/BAS,
+JORD,andel_sysselsatta,2020,2.0,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,2020,25.63,RAMS/BAS,
+ALLA,andel_sysselsatta,2020,100.0,RAMS/BAS,
+ALLA,kvinnoandel,2020,48.18,RAMS/BAS,
+IND,andel_sysselsatta,2024,11.87,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+IND,kvinnoandel,2024,26.19,RAMS/BAS,
+IND,utrikes_fodda_andel,2024,19.63,BAS,
+BYGG,andel_sysselsatta,2024,7.09,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+BYGG,kvinnoandel,2024,10.73,RAMS/BAS,
+BYGG,utrikes_fodda_andel,2024,18.0,BAS,
+VALF,andel_sysselsatta,2024,26.91,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+VALF,kvinnoandel,2024,76.17,RAMS/BAS,
+VALF,utrikes_fodda_andel,2024,26.56,BAS,
+SERV,andel_sysselsatta,2024,24.29,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+SERV,kvinnoandel,2024,44.45,RAMS/BAS,
+SERV,utrikes_fodda_andel,2024,24.95,BAS,
+KUNS,andel_sysselsatta,2024,21.4,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+KUNS,kvinnoandel,2024,41.48,RAMS/BAS,
+KUNS,utrikes_fodda_andel,2024,23.23,BAS,
+OFF,andel_sysselsatta,2024,6.68,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+OFF,kvinnoandel,2024,59.53,RAMS/BAS,
+OFF,utrikes_fodda_andel,2024,11.76,BAS,
+JORD,andel_sysselsatta,2024,1.76,RAMS/BAS,SNI-byte 1993/2008; hotell i SERV
+JORD,kvinnoandel,2024,26.93,RAMS/BAS,
+JORD,utrikes_fodda_andel,2024,8.1,BAS,
+ALLA,andel_sysselsatta,2024,100.0,RAMS/BAS,
+ALLA,kvinnoandel,2024,48.51,RAMS/BAS,
+ALLA,utrikes_fodda_andel,2024,22.72,BAS,
+ALLA,kvinnoandel,1970,38.06,FoB 1980 del 2:1,
+ALLA,kvinnoandel,1975,42.05,FoB 1980 del 2:1,
+ALLA,kvinnoandel,1980,44.96,FoB 1980 del 2:1,
+IND,arbstalle_1_9_andel,1993,10.12,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+IND,arbstalle_200p_andel,1993,45.23,RAMS,andel på arbetsställen med 200+
+IND,eftergymn_3ar_andel,1993,6.15,RAMS,eftergymnasial 3 år+
+IND,forgymn_andel,1993,34.72,RAMS,
+BYGG,arbstalle_1_9_andel,1993,38.26,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+BYGG,arbstalle_200p_andel,1993,5.58,RAMS,andel på arbetsställen med 200+
+BYGG,eftergymn_3ar_andel,1993,2.18,RAMS,eftergymnasial 3 år+
+BYGG,forgymn_andel,1993,32.94,RAMS,
+VALF,arbstalle_1_9_andel,1993,8.75,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+VALF,arbstalle_200p_andel,1993,29.37,RAMS,andel på arbetsställen med 200+
+VALF,eftergymn_3ar_andel,1993,23.16,RAMS,eftergymnasial 3 år+
+VALF,forgymn_andel,1993,10.72,RAMS,
+SERV,arbstalle_1_9_andel,1993,36.39,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+SERV,arbstalle_200p_andel,1993,11.0,RAMS,andel på arbetsställen med 200+
+SERV,eftergymn_3ar_andel,1993,5.78,RAMS,eftergymnasial 3 år+
+SERV,forgymn_andel,1993,29.98,RAMS,
+KUNS,arbstalle_1_9_andel,1993,31.9,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+KUNS,arbstalle_200p_andel,1993,16.86,RAMS,andel på arbetsställen med 200+
+KUNS,eftergymn_3ar_andel,1993,19.7,RAMS,eftergymnasial 3 år+
+KUNS,forgymn_andel,1993,18.3,RAMS,
+OFF,arbstalle_1_9_andel,1993,2.81,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+OFF,arbstalle_200p_andel,1993,39.94,RAMS,andel på arbetsställen med 200+
+OFF,eftergymn_3ar_andel,1993,24.46,RAMS,eftergymnasial 3 år+
+OFF,forgymn_andel,1993,12.82,RAMS,
+JORD,arbstalle_1_9_andel,1993,78.7,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+JORD,arbstalle_200p_andel,1993,0.54,RAMS,andel på arbetsställen med 200+
+JORD,eftergymn_3ar_andel,1993,2.73,RAMS,eftergymnasial 3 år+
+JORD,forgymn_andel,1993,43.15,RAMS,
+ALLA,arbstalle_1_9_andel,1993,21.91,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+ALLA,arbstalle_200p_andel,1993,25.13,RAMS,andel på arbetsställen med 200+
+ALLA,eftergymn_3ar_andel,1993,13.01,RAMS,eftergymnasial 3 år+
+ALLA,forgymn_andel,1993,23.88,RAMS,
+IND,arbstalle_1_9_andel,2003,10.17,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+IND,arbstalle_200p_andel,2003,43.41,RAMS,andel på arbetsställen med 200+
+IND,eftergymn_3ar_andel,2003,10.86,RAMS,eftergymnasial 3 år+
+IND,forgymn_andel,2003,22.62,RAMS,
+BYGG,arbstalle_1_9_andel,2003,38.94,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+BYGG,arbstalle_200p_andel,2003,3.82,RAMS,andel på arbetsställen med 200+
+BYGG,eftergymn_3ar_andel,2003,3.22,RAMS,eftergymnasial 3 år+
+BYGG,forgymn_andel,2003,23.16,RAMS,
+VALF,arbstalle_1_9_andel,2003,8.2,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+VALF,arbstalle_200p_andel,2003,24.74,RAMS,andel på arbetsställen med 200+
+VALF,eftergymn_3ar_andel,2003,31.97,RAMS,eftergymnasial 3 år+
+VALF,forgymn_andel,2003,7.11,RAMS,
+SERV,arbstalle_1_9_andel,2003,35.0,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+SERV,arbstalle_200p_andel,2003,10.46,RAMS,andel på arbetsställen med 200+
+SERV,eftergymn_3ar_andel,2003,8.98,RAMS,eftergymnasial 3 år+
+SERV,forgymn_andel,2003,20.93,RAMS,
+KUNS,arbstalle_1_9_andel,2003,29.95,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+KUNS,arbstalle_200p_andel,2003,16.72,RAMS,andel på arbetsställen med 200+
+KUNS,eftergymn_3ar_andel,2003,28.19,RAMS,eftergymnasial 3 år+
+KUNS,forgymn_andel,2003,10.57,RAMS,
+OFF,arbstalle_1_9_andel,2003,2.79,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+OFF,arbstalle_200p_andel,2003,41.61,RAMS,andel på arbetsställen med 200+
+OFF,eftergymn_3ar_andel,2003,33.82,RAMS,eftergymnasial 3 år+
+OFF,forgymn_andel,2003,7.94,RAMS,
+JORD,arbstalle_1_9_andel,2003,81.36,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+JORD,arbstalle_200p_andel,2003,0.29,RAMS,andel på arbetsställen med 200+
+JORD,eftergymn_3ar_andel,2003,4.55,RAMS,eftergymnasial 3 år+
+JORD,forgymn_andel,2003,30.74,RAMS,
+ALLA,arbstalle_1_9_andel,2003,21.41,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+ALLA,arbstalle_200p_andel,2003,22.96,RAMS,andel på arbetsställen med 200+
+ALLA,eftergymn_3ar_andel,2003,19.18,RAMS,eftergymnasial 3 år+
+ALLA,forgymn_andel,2003,15.7,RAMS,
+IND,arbstalle_1_9_andel,2008,10.52,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+IND,arbstalle_200p_andel,2008,42.7,RAMS,andel på arbetsställen med 200+
+IND,eftergymn_3ar_andel,2008,13.57,RAMS,eftergymnasial 3 år+
+IND,forgymn_andel,2008,18.35,RAMS,
+BYGG,arbstalle_1_9_andel,2008,39.15,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+BYGG,arbstalle_200p_andel,2008,3.58,RAMS,andel på arbetsställen med 200+
+BYGG,eftergymn_3ar_andel,2008,4.45,RAMS,eftergymnasial 3 år+
+BYGG,forgymn_andel,2008,19.62,RAMS,
+VALF,arbstalle_1_9_andel,2008,8.7,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+VALF,arbstalle_200p_andel,2008,25.16,RAMS,andel på arbetsställen med 200+
+VALF,eftergymn_3ar_andel,2008,38.06,RAMS,eftergymnasial 3 år+
+VALF,forgymn_andel,2008,5.7,RAMS,
+SERV,arbstalle_1_9_andel,2008,32.99,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+SERV,arbstalle_200p_andel,2008,10.63,RAMS,andel på arbetsställen med 200+
+SERV,eftergymn_3ar_andel,2008,11.03,RAMS,eftergymnasial 3 år+
+SERV,forgymn_andel,2008,18.3,RAMS,
+KUNS,arbstalle_1_9_andel,2008,31.53,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+KUNS,arbstalle_200p_andel,2008,18.24,RAMS,andel på arbetsställen med 200+
+KUNS,eftergymn_3ar_andel,2008,36.72,RAMS,eftergymnasial 3 år+
+KUNS,forgymn_andel,2008,6.26,RAMS,
+OFF,arbstalle_1_9_andel,2008,2.34,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+OFF,arbstalle_200p_andel,2008,44.27,RAMS,andel på arbetsställen med 200+
+OFF,eftergymn_3ar_andel,2008,39.91,RAMS,eftergymnasial 3 år+
+OFF,forgymn_andel,2008,5.47,RAMS,
+JORD,arbstalle_1_9_andel,2008,84.95,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+JORD,arbstalle_200p_andel,2008,0.0,RAMS,andel på arbetsställen med 200+
+JORD,eftergymn_3ar_andel,2008,6.51,RAMS,eftergymnasial 3 år+
+JORD,forgymn_andel,2008,28.12,RAMS,
+ALLA,arbstalle_1_9_andel,2008,22.39,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+ALLA,arbstalle_200p_andel,2008,22.04,RAMS,andel på arbetsställen med 200+
+ALLA,eftergymn_3ar_andel,2008,22.98,RAMS,eftergymnasial 3 år+
+ALLA,forgymn_andel,2008,12.99,RAMS,
+IND,arbstalle_1_9_andel,2018,11.02,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+IND,arbstalle_200p_andel,2018,41.33,RAMS,andel på arbetsställen med 200+
+IND,eftergymn_3ar_andel,2018,17.2,RAMS,eftergymnasial 3 år+
+IND,forgymn_andel,2018,12.56,RAMS,
+BYGG,arbstalle_1_9_andel,2018,39.8,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+BYGG,arbstalle_200p_andel,2018,3.02,RAMS,andel på arbetsställen med 200+
+BYGG,eftergymn_3ar_andel,2018,6.29,RAMS,eftergymnasial 3 år+
+BYGG,forgymn_andel,2018,13.97,RAMS,
+VALF,arbstalle_1_9_andel,2018,8.18,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+VALF,arbstalle_200p_andel,2018,24.75,RAMS,andel på arbetsställen med 200+
+VALF,eftergymn_3ar_andel,2018,43.89,RAMS,eftergymnasial 3 år+
+VALF,forgymn_andel,2018,4.7,RAMS,
+SERV,arbstalle_1_9_andel,2018,30.76,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+SERV,arbstalle_200p_andel,2018,13.29,RAMS,andel på arbetsställen med 200+
+SERV,eftergymn_3ar_andel,2018,14.41,RAMS,eftergymnasial 3 år+
+SERV,forgymn_andel,2018,14.94,RAMS,
+KUNS,arbstalle_1_9_andel,2018,31.09,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+KUNS,arbstalle_200p_andel,2018,20.83,RAMS,andel på arbetsställen med 200+
+KUNS,eftergymn_3ar_andel,2018,44.88,RAMS,eftergymnasial 3 år+
+KUNS,forgymn_andel,2018,3.9,RAMS,
+OFF,arbstalle_1_9_andel,2018,1.38,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+OFF,arbstalle_200p_andel,2018,52.03,RAMS,andel på arbetsställen med 200+
+OFF,eftergymn_3ar_andel,2018,48.87,RAMS,eftergymnasial 3 år+
+OFF,forgymn_andel,2018,2.75,RAMS,
+JORD,arbstalle_1_9_andel,2018,86.4,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+JORD,arbstalle_200p_andel,2018,0.0,RAMS,andel på arbetsställen med 200+
+JORD,eftergymn_3ar_andel,2018,10.26,RAMS,eftergymnasial 3 år+
+JORD,forgymn_andel,2018,22.97,RAMS,
+ALLA,arbstalle_1_9_andel,2018,22.22,RAMS,andel förvärvsarbetande på arbetsställen med 1–9
+ALLA,arbstalle_200p_andel,2018,22.51,RAMS,andel på arbetsställen med 200+
+ALLA,eftergymn_3ar_andel,2018,28.62,RAMS,eftergymnasial 3 år+
+ALLA,forgymn_andel,2018,9.61,RAMS,
+IND,anst_arbstalle_1_9_andel,2024,7.23,BAS,"anställda, arbetsställen 1–9"
+IND,anst_arbstalle_100p_andel,2024,66.39,BAS,"anställda, arbetsställen 100+"
+IND,arbetaryrke_andel,2024,58.8,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+BYGG,anst_arbstalle_1_9_andel,2024,31.55,BAS,"anställda, arbetsställen 1–9"
+BYGG,anst_arbstalle_100p_andel,2024,25.85,BAS,"anställda, arbetsställen 100+"
+BYGG,arbetaryrke_andel,2024,75.41,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+VALF,anst_arbstalle_1_9_andel,2024,2.66,BAS,"anställda, arbetsställen 1–9"
+VALF,anst_arbstalle_100p_andel,2024,89.73,BAS,"anställda, arbetsställen 100+"
+VALF,arbetaryrke_andel,2024,50.17,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+SERV,anst_arbstalle_1_9_andel,2024,20.11,BAS,"anställda, arbetsställen 1–9"
+SERV,anst_arbstalle_100p_andel,2024,47.14,BAS,"anställda, arbetsställen 100+"
+SERV,arbetaryrke_andel,2024,70.58,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+KUNS,anst_arbstalle_1_9_andel,2024,19.69,BAS,"anställda, arbetsställen 1–9"
+KUNS,anst_arbstalle_100p_andel,2024,53.68,BAS,"anställda, arbetsställen 100+"
+KUNS,arbetaryrke_andel,2024,33.14,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+OFF,anst_arbstalle_1_9_andel,2024,0.07,BAS,"anställda, arbetsställen 1–9"
+OFF,anst_arbstalle_100p_andel,2024,98.48,BAS,"anställda, arbetsställen 100+"
+OFF,arbetaryrke_andel,2024,19.47,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+JORD,anst_arbstalle_1_9_andel,2024,56.19,BAS,"anställda, arbetsställen 1–9"
+JORD,anst_arbstalle_100p_andel,2024,13.5,BAS,"anställda, arbetsställen 100+"
+JORD,arbetaryrke_andel,2024,81.1,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+ALLA,anst_arbstalle_1_9_andel,2024,13.27,BAS,"anställda, arbetsställen 1–9"
+ALLA,anst_arbstalle_100p_andel,2024,64.57,BAS,"anställda, arbetsställen 100+"
+ALLA,arbetaryrke_andel,2024,52.32,BAS,"SSYK 4–9 (adm., service, bygg, maskin, kortare utb.)"
+IND,tidsbegransat_andel,2005,7.4,AKU,andel av anställda
+IND,foretagare_andel,2005,5.67,AKU,andel av sysselsatta
+IND,tidsbegransat_andel,2010,8.49,AKU,andel av anställda
+IND,foretagare_andel,2010,6.3,AKU,andel av sysselsatta
+IND,tidsbegransat_andel,2015,7.78,AKU,andel av anställda
+IND,foretagare_andel,2015,5.3,AKU,andel av sysselsatta
+IND,tidsbegransat_andel,2020,6.47,AKU,andel av anställda
+IND,foretagare_andel,2020,5.15,AKU,andel av sysselsatta
+IND,tidsbegransat_andel,2025,5.92,AKU,andel av anställda
+IND,foretagare_andel,2025,4.85,AKU,andel av sysselsatta
+BYGG,tidsbegransat_andel,2005,12.95,AKU,andel av anställda
+BYGG,foretagare_andel,2005,21.76,AKU,andel av sysselsatta
+BYGG,tidsbegransat_andel,2010,10.69,AKU,andel av anställda
+BYGG,foretagare_andel,2010,22.22,AKU,andel av sysselsatta
+BYGG,tidsbegransat_andel,2015,9.54,AKU,andel av anställda
+BYGG,foretagare_andel,2015,20.6,AKU,andel av sysselsatta
+BYGG,tidsbegransat_andel,2020,6.67,AKU,andel av anställda
+BYGG,foretagare_andel,2020,22.31,AKU,andel av sysselsatta
+BYGG,tidsbegransat_andel,2025,6.55,AKU,andel av anställda
+BYGG,foretagare_andel,2025,20.87,AKU,andel av sysselsatta
+VALF,tidsbegransat_andel,2005,18.17,AKU,andel av anställda
+VALF,foretagare_andel,2005,1.9,AKU,andel av sysselsatta
+VALF,tidsbegransat_andel,2010,17.56,AKU,andel av anställda
+VALF,foretagare_andel,2010,2.34,AKU,andel av sysselsatta
+VALF,tidsbegransat_andel,2015,19.64,AKU,andel av anställda
+VALF,foretagare_andel,2015,2.18,AKU,andel av sysselsatta
+VALF,tidsbegransat_andel,2020,19.02,AKU,andel av anställda
+VALF,foretagare_andel,2020,1.75,AKU,andel av sysselsatta
+VALF,tidsbegransat_andel,2025,16.32,AKU,andel av anställda
+VALF,foretagare_andel,2025,1.9,AKU,andel av sysselsatta
+SERV,tidsbegransat_andel,2005,18.38,AKU,andel av anställda
+SERV,foretagare_andel,2005,14.63,AKU,andel av sysselsatta
+SERV,tidsbegransat_andel,2010,20.13,AKU,andel av anställda
+SERV,foretagare_andel,2010,13.61,AKU,andel av sysselsatta
+SERV,tidsbegransat_andel,2015,20.37,AKU,andel av anställda
+SERV,foretagare_andel,2015,11.39,AKU,andel av sysselsatta
+SERV,tidsbegransat_andel,2020,18.67,AKU,andel av anställda
+SERV,foretagare_andel,2020,11.27,AKU,andel av sysselsatta
+SERV,tidsbegransat_andel,2025,18.18,AKU,andel av anställda
+SERV,foretagare_andel,2025,9.87,AKU,andel av sysselsatta
+KUNS,tidsbegransat_andel,2005,14.64,AKU,andel av anställda
+KUNS,foretagare_andel,2005,15.5,AKU,andel av sysselsatta
+KUNS,tidsbegransat_andel,2010,14.1,AKU,andel av anställda
+KUNS,foretagare_andel,2010,15.23,AKU,andel av sysselsatta
+KUNS,tidsbegransat_andel,2015,14.8,AKU,andel av anställda
+KUNS,foretagare_andel,2015,15.39,AKU,andel av sysselsatta
+KUNS,tidsbegransat_andel,2020,12.37,AKU,andel av anställda
+KUNS,foretagare_andel,2020,14.34,AKU,andel av sysselsatta
+KUNS,tidsbegransat_andel,2025,10.56,AKU,andel av anställda
+KUNS,foretagare_andel,2025,14.45,AKU,andel av sysselsatta
+OFF,tidsbegransat_andel,2005,12.76,AKU,andel av anställda
+OFF,foretagare_andel,2005,0.04,AKU,andel av sysselsatta
+OFF,tidsbegransat_andel,2010,12.52,AKU,andel av anställda
+OFF,foretagare_andel,2010,0.18,AKU,andel av sysselsatta
+OFF,tidsbegransat_andel,2015,11.04,AKU,andel av anställda
+OFF,foretagare_andel,2015,0.0,AKU,andel av sysselsatta
+OFF,tidsbegransat_andel,2020,10.54,AKU,andel av anställda
+OFF,foretagare_andel,2020,0.13,AKU,andel av sysselsatta
+OFF,tidsbegransat_andel,2025,7.55,AKU,andel av anställda
+OFF,foretagare_andel,2025,0.0,AKU,andel av sysselsatta
+JORD,tidsbegransat_andel,2005,21.47,AKU,andel av anställda
+JORD,foretagare_andel,2005,60.34,AKU,andel av sysselsatta
+JORD,tidsbegransat_andel,2010,23.3,AKU,andel av anställda
+JORD,foretagare_andel,2010,63.03,AKU,andel av sysselsatta
+JORD,tidsbegransat_andel,2015,24.72,AKU,andel av anställda
+JORD,foretagare_andel,2015,62.53,AKU,andel av sysselsatta
+JORD,tidsbegransat_andel,2020,22.4,AKU,andel av anställda
+JORD,foretagare_andel,2020,62.75,AKU,andel av sysselsatta
+JORD,tidsbegransat_andel,2025,19.58,AKU,andel av anställda
+JORD,foretagare_andel,2025,58.4,AKU,andel av sysselsatta
+ALLA,tidsbegransat_andel,2005,15.68,AKU,andel av anställda
+ALLA,foretagare_andel,2005,10.76,AKU,andel av sysselsatta
+ALLA,tidsbegransat_andel,2010,15.96,AKU,andel av anställda
+ALLA,foretagare_andel,2010,11.15,AKU,andel av sysselsatta
+ALLA,tidsbegransat_andel,2015,16.67,AKU,andel av anställda
+ALLA,foretagare_andel,2015,10.38,AKU,andel av sysselsatta
+ALLA,tidsbegransat_andel,2020,15.0,AKU,andel av anställda
+ALLA,foretagare_andel,2020,10.06,AKU,andel av sysselsatta
+ALLA,tidsbegransat_andel,2025,13.26,AKU,andel av anställda
+ALLA,foretagare_andel,2025,9.54,AKU,andel av sysselsatta
+IND,facklig_arb,2006,84.0,Kjellberg 2025 tab. 20,
+IND,facklig_arb,2008,81.0,Kjellberg 2025 tab. 20,
+IND,facklig_arb,2015,76.0,Kjellberg 2025 tab. 20,
+IND,facklig_arb,2024,72.0,Kjellberg 2025 tab. 20,
+IND,facklig_tjm,2006,80.0,Kjellberg 2025 tab. 20,
+IND,facklig_tjm,2008,76.0,Kjellberg 2025 tab. 20,
+IND,facklig_tjm,2015,80.0,Kjellberg 2025 tab. 20,
+IND,facklig_tjm,2024,79.0,Kjellberg 2025 tab. 20,
+BYGG,facklig_arb,2006,81.0,Kjellberg 2025 tab. 20,
+BYGG,facklig_arb,2008,73.0,Kjellberg 2025 tab. 20,
+BYGG,facklig_arb,2015,65.0,Kjellberg 2025 tab. 20,
+BYGG,facklig_arb,2024,56.0,Kjellberg 2025 tab. 20,
+SERV,facklig_arb,2006,64.5,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_arb,2008,54.5,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_arb,2015,48.5,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_arb,2024,45.5,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_tjm,2006,62.0,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_tjm,2008,60.0,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_tjm,2015,66.5,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+SERV,facklig_tjm,2024,68.5,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+KUNS,facklig_tjm,2008,61.33,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+KUNS,facklig_tjm,2015,66.33,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+KUNS,facklig_tjm,2024,67.0,Kjellberg 2025 tab. 20,oviktat medel av delbranscher
+VALF,facklig_arb,2006,86.0,Kjellberg 2025 tab. 20,
+VALF,facklig_arb,2008,83.0,Kjellberg 2025 tab. 20,
+VALF,facklig_arb,2015,76.0,Kjellberg 2025 tab. 20,
+VALF,facklig_arb,2024,67.0,Kjellberg 2025 tab. 20,
+VALF,facklig_tjm,2006,90.0,Kjellberg 2025 tab. 20,
+VALF,facklig_tjm,2008,86.0,Kjellberg 2025 tab. 20,
+VALF,facklig_tjm,2015,84.0,Kjellberg 2025 tab. 20,
+VALF,facklig_tjm,2024,84.0,Kjellberg 2025 tab. 20,
+OFF,facklig_tjm,2006,88.0,Kjellberg 2025 tab. 20,
+OFF,facklig_tjm,2008,83.0,Kjellberg 2025 tab. 20,
+OFF,facklig_tjm,2015,81.0,Kjellberg 2025 tab. 20,
+OFF,facklig_tjm,2024,80.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_arb,2006,77.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_arb,2008,71.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_arb,2015,63.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_arb,2024,58.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_tjm,2006,77.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_tjm,2008,72.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_tjm,2015,74.0,Kjellberg 2025 tab. 20,
+ALLA,facklig_tjm,2024,74.0,Kjellberg 2025 tab. 20,
+SERV_hotell,facklig_arb,2006,52.0,Kjellberg 2025 tab. 20,
+SERV_hotell,facklig_arb,2015,28.0,Kjellberg 2025 tab. 20,
+SERV_hotell,facklig_arb,2024,26.0,Kjellberg 2025 tab. 20,
+SERV_handel,facklig_arb,2006,64.0,Kjellberg 2025 tab. 20,
+SERV_handel,facklig_arb,2015,52.0,Kjellberg 2025 tab. 20,
+SERV_handel,facklig_arb,2024,53.0,Kjellberg 2025 tab. 20,
+SERV_transport,facklig_arb,2006,71.0,Kjellberg 2025 tab. 20,
+SERV_transport,facklig_arb,2015,60.0,Kjellberg 2025 tab. 20,
+SERV_transport,facklig_arb,2024,55.0,Kjellberg 2025 tab. 20,
+IND,bor_storstadsregion_andel,1993,24.02,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+BYGG,bor_storstadsregion_andel,1993,29.25,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+VALF,bor_storstadsregion_andel,1993,29.89,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+SERV,bor_storstadsregion_andel,1993,39.81,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+KUNS,bor_storstadsregion_andel,1993,48.57,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+OFF,bor_storstadsregion_andel,1993,33.71,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+JORD,bor_storstadsregion_andel,1993,7.52,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+ALLA,bor_storstadsregion_andel,1993,32.96,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+IND,bor_storstadsregion_andel,2000,23.67,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+BYGG,bor_storstadsregion_andel,2000,30.05,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+VALF,bor_storstadsregion_andel,2000,30.6,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+SERV,bor_storstadsregion_andel,2000,41.37,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+KUNS,bor_storstadsregion_andel,2000,52.76,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+OFF,bor_storstadsregion_andel,2000,36.18,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+JORD,bor_storstadsregion_andel,2000,9.11,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+ALLA,bor_storstadsregion_andel,2000,35.17,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+IND,bor_storstadsregion_andel,2010,23.53,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+BYGG,bor_storstadsregion_andel,2010,31.65,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+VALF,bor_storstadsregion_andel,2010,32.84,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+SERV,bor_storstadsregion_andel,2010,40.99,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+KUNS,bor_storstadsregion_andel,2010,51.88,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+OFF,bor_storstadsregion_andel,2010,37.63,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+JORD,bor_storstadsregion_andel,2010,7.68,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+ALLA,bor_storstadsregion_andel,2010,36.69,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+IND,bor_storstadsregion_andel,2024,24.1,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+BYGG,bor_storstadsregion_andel,2024,33.83,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+VALF,bor_storstadsregion_andel,2024,34.09,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+SERV,bor_storstadsregion_andel,2024,42.75,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+KUNS,bor_storstadsregion_andel,2024,54.32,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+OFF,bor_storstadsregion_andel,2024,38.23,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+JORD,bor_storstadsregion_andel,2024,8.57,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+ALLA,bor_storstadsregion_andel,2024,39.21,RAMS/BAS,storstäder + pendlingskommuner nära storstad (SKR 2023)
+IND,bor_storstadsregion_andel,1970,27.88,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+BYGG,bor_storstadsregion_andel,1970,30.68,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+JORD,bor_storstadsregion_andel,1970,8.83,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+KUNS,bor_storstadsregion_andel,1970,56.72,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+ALLA,bor_storstadsregion_andel,1970,33.49,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+IND,bor_storstadsregion_andel,1980,25.67,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+BYGG,bor_storstadsregion_andel,1980,30.09,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+JORD,bor_storstadsregion_andel,1980,8.43,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+KUNS,bor_storstadsregion_andel,1980,50.55,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)
+ALLA,bor_storstadsregion_andel,1980,33.65,FoB 1980 del 2:1,andel av kommunenheter med data (ca 90 %)

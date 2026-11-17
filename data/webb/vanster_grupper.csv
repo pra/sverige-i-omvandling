@@ -1,0 +1,529 @@
+dimension,grupp,kon,block,andel
+Sektor,offentliganställda,kvinnor,S+V+MP,62.8
+Sektor,offentliganställda,män,S+V+MP,50.1
+Sektor,offentliganställda,alla,S+V+MP,58.5
+Sektor,privatanställda,kvinnor,S+V+MP,53.4
+Sektor,privatanställda,män,S+V+MP,36.0
+Sektor,privatanställda,alla,S+V+MP,42.9
+Sektor,totalt,kvinnor,S+V+MP,57.2
+Sektor,totalt,män,S+V+MP,36.6
+Sektor,totalt,alla,S+V+MP,46.5
+Sektor,övriga sysselsatta,kvinnor,S+V+MP,49.3
+Sektor,övriga sysselsatta,män,S+V+MP,27.3
+Sektor,övriga sysselsatta,alla,S+V+MP,35.5
+Fack,LO,kvinnor,S+V+MP,60.2
+Fack,LO,män,S+V+MP,47.2
+Fack,LO,alla,S+V+MP,52.7
+Fack,SACO,kvinnor,S+V+MP,65.3
+Fack,SACO,alla,S+V+MP,59.4
+Fack,TCO,kvinnor,S+V+MP,60.0
+Fack,TCO,män,S+V+MP,40.4
+Fack,TCO,alla,S+V+MP,50.0
+Fack,ej fackanslutna,kvinnor,S+V+MP,51.0
+Fack,ej fackanslutna,män,S+V+MP,30.2
+Fack,ej fackanslutna,alla,S+V+MP,39.8
+Fack,"totalt, anställda",kvinnor,S+V+MP,58.2
+Fack,"totalt, anställda",män,S+V+MP,38.9
+Fack,"totalt, anställda",alla,S+V+MP,48.5
+Utbildning,eftergymnasial utbildning 3 år eller mer,kvinnor,S+V+MP,61.9
+Utbildning,eftergymnasial utbildning 3 år eller mer,män,S+V+MP,42.5
+Utbildning,eftergymnasial utbildning 3 år eller mer,alla,S+V+MP,54.6
+Utbildning,eftergymnasial utbildning mindre än 3 år,kvinnor,S+V+MP,53.4
+Utbildning,eftergymnasial utbildning mindre än 3 år,män,S+V+MP,43.3
+Utbildning,eftergymnasial utbildning mindre än 3 år,alla,S+V+MP,48.3
+Utbildning,förgymnasial utbildning,kvinnor,S+V+MP,57.4
+Utbildning,förgymnasial utbildning,män,S+V+MP,45.5
+Utbildning,förgymnasial utbildning,alla,S+V+MP,50.5
+Utbildning,gymnasial utbildning,kvinnor,S+V+MP,54.5
+Utbildning,gymnasial utbildning,män,S+V+MP,37.3
+Utbildning,gymnasial utbildning,alla,S+V+MP,44.8
+Utbildning,totalt,kvinnor,S+V+MP,57.2
+Utbildning,totalt,män,S+V+MP,40.5
+Utbildning,totalt,alla,S+V+MP,48.8
+Boende,"totalt, bostadstyp",kvinnor,S+V+MP,57.2
+Boende,"totalt, bostadstyp",män,S+V+MP,40.5
+Boende,"totalt, bostadstyp",alla,S+V+MP,48.8
+Boende,eget hem (villa etc.),kvinnor,S+V+MP,53.1
+Boende,eget hem (villa etc.),män,S+V+MP,34.2
+Boende,eget hem (villa etc.),alla,S+V+MP,43.3
+Boende,"lägenhet, bostadsrätt",kvinnor,S+V+MP,58.4
+Boende,"lägenhet, bostadsrätt",män,S+V+MP,45.6
+Boende,"lägenhet, bostadsrätt",alla,S+V+MP,52.2
+Boende,"lägenhet, hyresrätt",kvinnor,S+V+MP,64.1
+Boende,"lägenhet, hyresrätt",män,S+V+MP,51.2
+Boende,"lägenhet, hyresrätt",alla,S+V+MP,57.9
+Inkomst (percentil),0–20 %,kvinnor,S+V+MP,59.6
+Inkomst (percentil),0–20 %,män,S+V+MP,42.9
+Inkomst (percentil),0–20 %,alla,S+V+MP,52.7
+Inkomst (percentil),21–40 %,kvinnor,S+V+MP,57.7
+Inkomst (percentil),21–40 %,män,S+V+MP,54.1
+Inkomst (percentil),21–40 %,alla,S+V+MP,56.2
+Inkomst (percentil),41–60 %,kvinnor,S+V+MP,55.2
+Inkomst (percentil),41–60 %,män,S+V+MP,43.1
+Inkomst (percentil),41–60 %,alla,S+V+MP,49.7
+Inkomst (percentil),61–80 %,kvinnor,S+V+MP,57.7
+Inkomst (percentil),61–80 %,män,S+V+MP,38.4
+Inkomst (percentil),61–80 %,alla,S+V+MP,47.0
+Inkomst (percentil),81–100 %,kvinnor,S+V+MP,53.3
+Inkomst (percentil),81–100 %,män,S+V+MP,30.7
+Inkomst (percentil),81–100 %,alla,S+V+MP,39.2
+Inkomst (percentil),totalt,kvinnor,S+V+MP,57.2
+Inkomst (percentil),totalt,män,S+V+MP,40.5
+Inkomst (percentil),totalt,alla,S+V+MP,48.8
+Ålder,18–24 år,alla,S+V+MP,51.7
+Ålder,25–34 år,kvinnor,S+V+MP,66.6
+Ålder,25–34 år,män,S+V+MP,38.2
+Ålder,25–34 år,alla,S+V+MP,50.8
+Ålder,35–44 år,kvinnor,S+V+MP,62.4
+Ålder,35–44 år,män,S+V+MP,40.6
+Ålder,35–44 år,alla,S+V+MP,51.6
+Ålder,45–54 år,kvinnor,S+V+MP,54.7
+Ålder,45–54 år,män,S+V+MP,35.2
+Ålder,45–54 år,alla,S+V+MP,44.9
+Ålder,55–64 år,kvinnor,S+V+MP,50.9
+Ålder,55–64 år,män,S+V+MP,37.0
+Ålder,55–64 år,alla,S+V+MP,43.8
+Ålder,65–74 år,kvinnor,S+V+MP,55.7
+Ålder,65–74 år,män,S+V+MP,45.2
+Ålder,65–74 år,alla,S+V+MP,50.6
+Ålder,75+ år,kvinnor,S+V+MP,50.8
+Ålder,75+ år,män,S+V+MP,49.6
+Ålder,75+ år,alla,S+V+MP,50.2
+Ålder,totalt 18+ år,kvinnor,S+V+MP,57.2
+Ålder,totalt 18+ år,män,S+V+MP,40.5
+Ålder,totalt 18+ år,alla,S+V+MP,48.8
+Födelseland,inrikes födda,kvinnor,S+V+MP,55.6
+Födelseland,inrikes födda,män,S+V+MP,36.4
+Födelseland,inrikes födda,alla,S+V+MP,45.9
+Födelseland,"totalt, utrikes och inrikes födda",kvinnor,S+V+MP,57.2
+Födelseland,"totalt, utrikes och inrikes födda",män,S+V+MP,40.5
+Födelseland,"totalt, utrikes och inrikes födda",alla,S+V+MP,48.8
+Födelseland,utrikes födda,kvinnor,S+V+MP,66.0
+Födelseland,utrikes födda,män,S+V+MP,63.9
+Födelseland,utrikes födda,alla,S+V+MP,64.9
+Region,Göteborg,alla,S+V+MP,58.4
+Region,Mellersta och Övre Norrland (län 22-25),alla,S+V+MP,54.2
+Region,Norra Mellansverige,alla,S+V+MP,52.6
+Region,Småland med öarna,alla,S+V+MP,43.1
+Region,Stockholm,alla,S+V+MP,56.4
+Region,Stockholms län exkl Stockholm,alla,S+V+MP,42.0
+Region,Stor-Malmö,alla,S+V+MP,52.0
+Region,"Sverige, totalt",alla,S+V+MP,48.8
+Region,Sydsverige exkl Stor-Malmö (län 10+12),alla,S+V+MP,47.0
+Region,Västsverige exkl Göteborg (län 13+14),alla,S+V+MP,43.9
+Region,Östra Mellansverige,alla,S+V+MP,48.7
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",kvinnor,S+V+MP,55.6
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",män,S+V+MP,49.8
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",alla,S+V+MP,54.1
+Yrkesområde,Chefsyrken (Yrkesområde 1),män,S+V+MP,22.6
+Yrkesområde,Chefsyrken (Yrkesområde 1),alla,S+V+MP,33.8
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),kvinnor,S+V+MP,61.8
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),män,S+V+MP,43.8
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),alla,S+V+MP,55.1
+Yrkesområde,Hela väljarkåren,kvinnor,S+V+MP,57.2
+Yrkesområde,Hela väljarkåren,män,S+V+MP,40.5
+Yrkesområde,Hela väljarkåren,alla,S+V+MP,48.8
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),kvinnor,S+V+MP,49.3
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),män,S+V+MP,40.0
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),alla,S+V+MP,43.9
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",män,S+V+MP,39.5
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",alla,S+V+MP,41.0
+Yrkesområde,Uppgift saknas,kvinnor,S+V+MP,61.0
+Yrkesområde,Uppgift saknas,män,S+V+MP,39.9
+Yrkesområde,Uppgift saknas,alla,S+V+MP,49.9
+Sektor,offentliganställda,kvinnor,C+L+KD,12.7
+Sektor,offentliganställda,män,C+L+KD,10.8
+Sektor,offentliganställda,alla,C+L+KD,12.1
+Sektor,privatanställda,kvinnor,C+L+KD,15.6
+Sektor,privatanställda,män,C+L+KD,11.3
+Sektor,privatanställda,alla,C+L+KD,13.0
+Sektor,totalt,kvinnor,C+L+KD,13.5
+Sektor,totalt,män,C+L+KD,12.1
+Sektor,totalt,alla,C+L+KD,12.8
+Sektor,övriga sysselsatta,kvinnor,C+L+KD,12.6
+Sektor,övriga sysselsatta,män,C+L+KD,13.0
+Sektor,övriga sysselsatta,alla,C+L+KD,12.6
+Fack,LO,kvinnor,C+L+KD,4.6
+Fack,LO,män,C+L+KD,2.4
+Fack,LO,alla,C+L+KD,5.3
+Fack,SACO,kvinnor,C+L+KD,17.0
+Fack,SACO,alla,C+L+KD,17.5
+Fack,TCO,kvinnor,C+L+KD,13.6
+Fack,TCO,män,C+L+KD,11.6
+Fack,TCO,alla,C+L+KD,13.1
+Fack,ej fackanslutna,kvinnor,C+L+KD,14.9
+Fack,ej fackanslutna,män,C+L+KD,11.5
+Fack,ej fackanslutna,alla,C+L+KD,13.0
+Fack,"totalt, anställda",kvinnor,C+L+KD,13.8
+Fack,"totalt, anställda",män,C+L+KD,11.1
+Fack,"totalt, anställda",alla,C+L+KD,12.4
+Utbildning,eftergymnasial utbildning 3 år eller mer,kvinnor,C+L+KD,18.3
+Utbildning,eftergymnasial utbildning 3 år eller mer,män,C+L+KD,18.3
+Utbildning,eftergymnasial utbildning 3 år eller mer,alla,C+L+KD,18.3
+Utbildning,eftergymnasial utbildning mindre än 3 år,kvinnor,C+L+KD,14.1
+Utbildning,eftergymnasial utbildning mindre än 3 år,män,C+L+KD,12.0
+Utbildning,eftergymnasial utbildning mindre än 3 år,alla,C+L+KD,13.1
+Utbildning,förgymnasial utbildning,kvinnor,C+L+KD,4.2
+Utbildning,förgymnasial utbildning,män,C+L+KD,7.2
+Utbildning,förgymnasial utbildning,alla,C+L+KD,7.7
+Utbildning,gymnasial utbildning,kvinnor,C+L+KD,9.3
+Utbildning,gymnasial utbildning,män,C+L+KD,8.9
+Utbildning,gymnasial utbildning,alla,C+L+KD,9.0
+Utbildning,totalt,kvinnor,C+L+KD,13.0
+Utbildning,totalt,män,C+L+KD,11.2
+Utbildning,totalt,alla,C+L+KD,12.1
+Boende,"totalt, bostadstyp",kvinnor,C+L+KD,13.0
+Boende,"totalt, bostadstyp",män,C+L+KD,11.2
+Boende,"totalt, bostadstyp",alla,C+L+KD,12.1
+Boende,eget hem (villa etc.),kvinnor,C+L+KD,14.6
+Boende,eget hem (villa etc.),män,C+L+KD,13.0
+Boende,eget hem (villa etc.),alla,C+L+KD,13.8
+Boende,"lägenhet, bostadsrätt",kvinnor,C+L+KD,14.5
+Boende,"lägenhet, bostadsrätt",män,C+L+KD,11.4
+Boende,"lägenhet, bostadsrätt",alla,C+L+KD,13.0
+Boende,"lägenhet, hyresrätt",kvinnor,C+L+KD,8.5
+Boende,"lägenhet, hyresrätt",män,C+L+KD,7.1
+Boende,"lägenhet, hyresrätt",alla,C+L+KD,7.9
+Inkomst (percentil),0–20 %,kvinnor,C+L+KD,10.7
+Inkomst (percentil),0–20 %,män,C+L+KD,9.4
+Inkomst (percentil),0–20 %,alla,C+L+KD,10.2
+Inkomst (percentil),21–40 %,kvinnor,C+L+KD,12.5
+Inkomst (percentil),21–40 %,män,C+L+KD,10.4
+Inkomst (percentil),21–40 %,alla,C+L+KD,11.6
+Inkomst (percentil),41–60 %,kvinnor,C+L+KD,12.3
+Inkomst (percentil),41–60 %,män,C+L+KD,8.4
+Inkomst (percentil),41–60 %,alla,C+L+KD,10.5
+Inkomst (percentil),61–80 %,kvinnor,C+L+KD,14.5
+Inkomst (percentil),61–80 %,män,C+L+KD,10.0
+Inkomst (percentil),61–80 %,alla,C+L+KD,12.0
+Inkomst (percentil),81–100 %,kvinnor,C+L+KD,17.1
+Inkomst (percentil),81–100 %,män,C+L+KD,15.7
+Inkomst (percentil),81–100 %,alla,C+L+KD,16.2
+Inkomst (percentil),totalt,kvinnor,C+L+KD,13.0
+Inkomst (percentil),totalt,män,C+L+KD,11.2
+Inkomst (percentil),totalt,alla,C+L+KD,12.1
+Ålder,18–24 år,alla,C+L+KD,7.8
+Ålder,25–34 år,kvinnor,C+L+KD,11.1
+Ålder,25–34 år,män,C+L+KD,9.6
+Ålder,25–34 år,alla,C+L+KD,10.5
+Ålder,35–44 år,kvinnor,C+L+KD,12.6
+Ålder,35–44 år,män,C+L+KD,11.3
+Ålder,35–44 år,alla,C+L+KD,11.9
+Ålder,45–54 år,kvinnor,C+L+KD,15.4
+Ålder,45–54 år,män,C+L+KD,11.5
+Ålder,45–54 år,alla,C+L+KD,13.4
+Ålder,55–64 år,kvinnor,C+L+KD,13.9
+Ålder,55–64 år,män,C+L+KD,13.9
+Ålder,55–64 år,alla,C+L+KD,13.9
+Ålder,65–74 år,kvinnor,C+L+KD,12.0
+Ålder,65–74 år,män,C+L+KD,9.0
+Ålder,65–74 år,alla,C+L+KD,10.5
+Ålder,75+ år,kvinnor,C+L+KD,14.9
+Ålder,75+ år,män,C+L+KD,13.5
+Ålder,75+ år,alla,C+L+KD,14.2
+Ålder,totalt 18+ år,kvinnor,C+L+KD,13.0
+Ålder,totalt 18+ år,män,C+L+KD,11.2
+Ålder,totalt 18+ år,alla,C+L+KD,12.1
+Födelseland,inrikes födda,kvinnor,C+L+KD,13.8
+Födelseland,inrikes födda,män,C+L+KD,11.8
+Födelseland,inrikes födda,alla,C+L+KD,12.8
+Födelseland,"totalt, utrikes och inrikes födda",kvinnor,C+L+KD,13.0
+Födelseland,"totalt, utrikes och inrikes födda",män,C+L+KD,11.2
+Födelseland,"totalt, utrikes och inrikes födda",alla,C+L+KD,12.1
+Födelseland,utrikes födda,kvinnor,C+L+KD,8.5
+Födelseland,utrikes födda,män,C+L+KD,6.3
+Födelseland,utrikes födda,alla,C+L+KD,8.3
+Region,Göteborg,alla,C+L+KD,7.0
+Region,Mellersta och Övre Norrland (län 22-25),alla,C+L+KD,11.8
+Region,Norra Mellansverige,alla,C+L+KD,12.5
+Region,Småland med öarna,alla,C+L+KD,15.4
+Region,Stockholm,alla,C+L+KD,12.9
+Region,Stockholms län exkl Stockholm,alla,C+L+KD,12.7
+Region,Stor-Malmö,alla,C+L+KD,12.2
+Region,"Sverige, totalt",alla,C+L+KD,12.1
+Region,Sydsverige exkl Stor-Malmö (län 10+12),alla,C+L+KD,10.1
+Region,Västsverige exkl Göteborg (län 13+14),alla,C+L+KD,12.4
+Region,Östra Mellansverige,alla,C+L+KD,11.1
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",kvinnor,C+L+KD,10.1
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",män,C+L+KD,8.1
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",alla,C+L+KD,9.6
+Yrkesområde,Chefsyrken (Yrkesområde 1),män,C+L+KD,17.7
+Yrkesområde,Chefsyrken (Yrkesområde 1),alla,C+L+KD,17.5
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),kvinnor,C+L+KD,16.5
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),män,C+L+KD,17.4
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),alla,C+L+KD,16.9
+Yrkesområde,Hela väljarkåren,kvinnor,C+L+KD,13.0
+Yrkesområde,Hela väljarkåren,män,C+L+KD,11.2
+Yrkesområde,Hela väljarkåren,alla,C+L+KD,12.1
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),kvinnor,C+L+KD,14.5
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),män,C+L+KD,10.6
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),alla,C+L+KD,12.2
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",män,C+L+KD,6.5
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",alla,C+L+KD,6.8
+Yrkesområde,Uppgift saknas,kvinnor,C+L+KD,10.0
+Yrkesområde,Uppgift saknas,män,C+L+KD,11.0
+Yrkesområde,Uppgift saknas,alla,C+L+KD,11.2
+Sektor,offentliganställda,kvinnor,M,13.2
+Sektor,offentliganställda,män,M,15.5
+Sektor,offentliganställda,alla,M,14.0
+Sektor,privatanställda,kvinnor,M,20.4
+Sektor,privatanställda,män,M,23.6
+Sektor,privatanställda,alla,M,22.4
+Sektor,totalt,kvinnor,M,17.8
+Sektor,totalt,män,M,22.2
+Sektor,totalt,alla,M,20.1
+Sektor,övriga sysselsatta,kvinnor,M,24.0
+Sektor,övriga sysselsatta,män,M,26.3
+Sektor,övriga sysselsatta,alla,M,26.1
+Fack,LO,kvinnor,M,12.5
+Fack,LO,män,M,9.9
+Fack,LO,alla,M,11.1
+Fack,SACO,kvinnor,M,15.6
+Fack,SACO,alla,M,17.9
+Fack,TCO,kvinnor,M,15.5
+Fack,TCO,män,M,25.7
+Fack,TCO,alla,M,20.6
+Fack,ej fackanslutna,kvinnor,M,21.4
+Fack,ej fackanslutna,män,M,24.6
+Fack,ej fackanslutna,alla,M,23.1
+Fack,"totalt, anställda",kvinnor,M,17.0
+Fack,"totalt, anställda",män,M,21.2
+Fack,"totalt, anställda",alla,M,19.1
+Utbildning,eftergymnasial utbildning 3 år eller mer,kvinnor,M,14.9
+Utbildning,eftergymnasial utbildning 3 år eller mer,män,M,24.4
+Utbildning,eftergymnasial utbildning 3 år eller mer,alla,M,18.4
+Utbildning,eftergymnasial utbildning mindre än 3 år,kvinnor,M,19.0
+Utbildning,eftergymnasial utbildning mindre än 3 år,män,M,20.7
+Utbildning,eftergymnasial utbildning mindre än 3 år,alla,M,19.9
+Utbildning,förgymnasial utbildning,kvinnor,M,17.6
+Utbildning,förgymnasial utbildning,män,M,17.1
+Utbildning,förgymnasial utbildning,alla,M,17.3
+Utbildning,gymnasial utbildning,kvinnor,M,18.1
+Utbildning,gymnasial utbildning,män,M,20.1
+Utbildning,gymnasial utbildning,alla,M,19.2
+Utbildning,totalt,kvinnor,M,17.0
+Utbildning,totalt,män,M,20.6
+Utbildning,totalt,alla,M,18.8
+Boende,"totalt, bostadstyp",kvinnor,M,17.0
+Boende,"totalt, bostadstyp",män,M,20.6
+Boende,"totalt, bostadstyp",alla,M,18.8
+Boende,eget hem (villa etc.),kvinnor,M,19.2
+Boende,eget hem (villa etc.),män,M,23.1
+Boende,eget hem (villa etc.),alla,M,21.3
+Boende,"lägenhet, bostadsrätt",kvinnor,M,18.5
+Boende,"lägenhet, bostadsrätt",män,M,21.7
+Boende,"lägenhet, bostadsrätt",alla,M,20.1
+Boende,"lägenhet, hyresrätt",kvinnor,M,11.8
+Boende,"lägenhet, hyresrätt",män,M,13.8
+Boende,"lägenhet, hyresrätt",alla,M,12.7
+Inkomst (percentil),0–20 %,kvinnor,M,14.5
+Inkomst (percentil),0–20 %,män,M,19.1
+Inkomst (percentil),0–20 %,alla,M,16.4
+Inkomst (percentil),21–40 %,kvinnor,M,14.4
+Inkomst (percentil),21–40 %,män,M,11.7
+Inkomst (percentil),21–40 %,alla,M,13.4
+Inkomst (percentil),41–60 %,kvinnor,M,16.3
+Inkomst (percentil),41–60 %,män,M,15.7
+Inkomst (percentil),41–60 %,alla,M,16.0
+Inkomst (percentil),61–80 %,kvinnor,M,18.2
+Inkomst (percentil),61–80 %,män,M,18.9
+Inkomst (percentil),61–80 %,alla,M,18.6
+Inkomst (percentil),81–100 %,kvinnor,M,24.0
+Inkomst (percentil),81–100 %,män,M,31.4
+Inkomst (percentil),81–100 %,alla,M,28.7
+Inkomst (percentil),totalt,kvinnor,M,17.0
+Inkomst (percentil),totalt,män,M,20.6
+Inkomst (percentil),totalt,alla,M,18.8
+Ålder,18–24 år,alla,M,21.4
+Ålder,25–34 år,kvinnor,M,13.5
+Ålder,25–34 år,män,M,23.3
+Ålder,25–34 år,alla,M,18.9
+Ålder,35–44 år,kvinnor,M,14.0
+Ålder,35–44 år,män,M,20.9
+Ålder,35–44 år,alla,M,17.4
+Ålder,45–54 år,kvinnor,M,19.5
+Ålder,45–54 år,män,M,22.1
+Ålder,45–54 år,alla,M,20.8
+Ålder,55–64 år,kvinnor,M,18.8
+Ålder,55–64 år,män,M,19.1
+Ålder,55–64 år,alla,M,19.0
+Ålder,65–74 år,kvinnor,M,15.9
+Ålder,65–74 år,män,M,16.4
+Ålder,65–74 år,alla,M,16.1
+Ålder,75+ år,kvinnor,M,19.6
+Ålder,75+ år,män,M,18.4
+Ålder,75+ år,alla,M,19.0
+Ålder,totalt 18+ år,kvinnor,M,17.0
+Ålder,totalt 18+ år,män,M,20.6
+Ålder,totalt 18+ år,alla,M,18.8
+Födelseland,inrikes födda,kvinnor,M,17.6
+Födelseland,inrikes födda,män,M,22.1
+Födelseland,inrikes födda,alla,M,19.9
+Födelseland,"totalt, utrikes och inrikes födda",kvinnor,M,17.0
+Födelseland,"totalt, utrikes och inrikes födda",män,M,20.6
+Födelseland,"totalt, utrikes och inrikes födda",alla,M,18.8
+Födelseland,utrikes födda,kvinnor,M,13.8
+Födelseland,utrikes födda,män,M,12.3
+Födelseland,utrikes födda,alla,M,13.1
+Region,Göteborg,alla,M,20.3
+Region,Mellersta och Övre Norrland (län 22-25),alla,M,15.3
+Region,Norra Mellansverige,alla,M,16.7
+Region,Småland med öarna,alla,M,18.8
+Region,Stockholm,alla,M,20.7
+Region,Stockholms län exkl Stockholm,alla,M,23.1
+Region,Stor-Malmö,alla,M,19.7
+Region,"Sverige, totalt",alla,M,18.8
+Region,Sydsverige exkl Stor-Malmö (län 10+12),alla,M,17.0
+Region,Västsverige exkl Göteborg (län 13+14),alla,M,20.1
+Region,Östra Mellansverige,alla,M,16.5
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",kvinnor,M,15.4
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",män,M,17.6
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",alla,M,16.1
+Yrkesområde,Chefsyrken (Yrkesområde 1),män,M,36.4
+Yrkesområde,Chefsyrken (Yrkesområde 1),alla,M,31.9
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),kvinnor,M,16.0
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),män,M,22.4
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),alla,M,18.4
+Yrkesområde,Hela väljarkåren,kvinnor,M,17.0
+Yrkesområde,Hela väljarkåren,män,M,20.6
+Yrkesområde,Hela väljarkåren,alla,M,18.8
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),kvinnor,M,24.2
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),män,M,23.8
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),alla,M,23.9
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",män,M,14.4
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",alla,M,14.3
+Yrkesområde,Uppgift saknas,kvinnor,M,15.2
+Yrkesområde,Uppgift saknas,män,M,21.0
+Yrkesområde,Uppgift saknas,alla,M,18.2
+Sektor,offentliganställda,kvinnor,SD,10.7
+Sektor,offentliganställda,män,SD,20.0
+Sektor,offentliganställda,alla,SD,13.9
+Sektor,privatanställda,kvinnor,SD,10.2
+Sektor,privatanställda,män,SD,25.7
+Sektor,privatanställda,alla,SD,19.6
+Sektor,totalt,kvinnor,SD,10.9
+Sektor,totalt,män,SD,25.5
+Sektor,totalt,alla,SD,18.5
+Sektor,övriga sysselsatta,kvinnor,SD,13.7
+Sektor,övriga sysselsatta,män,SD,29.4
+Sektor,övriga sysselsatta,alla,SD,23.2
+Fack,LO,kvinnor,SD,17.4
+Fack,LO,män,SD,33.5
+Fack,LO,alla,SD,28.1
+Fack,SACO,kvinnor,SD,1.7
+Fack,SACO,alla,SD,4.0
+Fack,TCO,kvinnor,SD,10.4
+Fack,TCO,män,SD,17.7
+Fack,TCO,alla,SD,14.2
+Fack,ej fackanslutna,kvinnor,SD,12.1
+Fack,ej fackanslutna,män,SD,29.3
+Fack,ej fackanslutna,alla,SD,21.5
+Fack,"totalt, anställda",kvinnor,SD,10.5
+Fack,"totalt, anställda",män,SD,25.1
+Fack,"totalt, anställda",alla,SD,17.8
+Utbildning,eftergymnasial utbildning 3 år eller mer,kvinnor,SD,4.2
+Utbildning,eftergymnasial utbildning 3 år eller mer,män,SD,11.4
+Utbildning,eftergymnasial utbildning 3 år eller mer,alla,SD,7.0
+Utbildning,eftergymnasial utbildning mindre än 3 år,kvinnor,SD,13.1
+Utbildning,eftergymnasial utbildning mindre än 3 år,män,SD,19.1
+Utbildning,eftergymnasial utbildning mindre än 3 år,alla,SD,16.1
+Utbildning,förgymnasial utbildning,kvinnor,SD,17.9
+Utbildning,förgymnasial utbildning,män,SD,26.2
+Utbildning,förgymnasial utbildning,alla,SD,22.9
+Utbildning,gymnasial utbildning,kvinnor,SD,16.9
+Utbildning,gymnasial utbildning,män,SD,30.7
+Utbildning,gymnasial utbildning,alla,SD,24.7
+Utbildning,totalt,kvinnor,SD,12.0
+Utbildning,totalt,män,SD,24.3
+Utbildning,totalt,alla,SD,18.1
+Boende,"totalt, bostadstyp",kvinnor,SD,12.0
+Boende,"totalt, bostadstyp",män,SD,24.3
+Boende,"totalt, bostadstyp",alla,SD,18.1
+Boende,eget hem (villa etc.),kvinnor,SD,12.5
+Boende,eget hem (villa etc.),män,SD,27.2
+Boende,eget hem (villa etc.),alla,SD,20.2
+Boende,"lägenhet, bostadsrätt",kvinnor,SD,7.7
+Boende,"lägenhet, bostadsrätt",män,SD,18.3
+Boende,"lägenhet, bostadsrätt",alla,SD,12.8
+Boende,"lägenhet, hyresrätt",kvinnor,SD,14.8
+Boende,"lägenhet, hyresrätt",män,SD,22.2
+Boende,"lägenhet, hyresrätt",alla,SD,18.3
+Inkomst (percentil),0–20 %,kvinnor,SD,14.0
+Inkomst (percentil),0–20 %,män,SD,23.5
+Inkomst (percentil),0–20 %,alla,SD,17.9
+Inkomst (percentil),21–40 %,kvinnor,SD,14.9
+Inkomst (percentil),21–40 %,män,SD,21.2
+Inkomst (percentil),21–40 %,alla,SD,17.5
+Inkomst (percentil),41–60 %,kvinnor,SD,15.1
+Inkomst (percentil),41–60 %,män,SD,29.2
+Inkomst (percentil),41–60 %,alla,SD,21.5
+Inkomst (percentil),61–80 %,kvinnor,SD,9.4
+Inkomst (percentil),61–80 %,män,SD,28.8
+Inkomst (percentil),61–80 %,alla,SD,20.1
+Inkomst (percentil),81–100 %,kvinnor,SD,5.4
+Inkomst (percentil),81–100 %,män,SD,19.9
+Inkomst (percentil),81–100 %,alla,SD,14.6
+Inkomst (percentil),totalt,kvinnor,SD,12.0
+Inkomst (percentil),totalt,män,SD,24.3
+Inkomst (percentil),totalt,alla,SD,18.1
+Ålder,18–24 år,alla,SD,17.3
+Ålder,25–34 år,kvinnor,SD,7.8
+Ålder,25–34 år,män,SD,22.9
+Ålder,25–34 år,alla,SD,16.2
+Ålder,35–44 år,kvinnor,SD,10.1
+Ålder,35–44 år,män,SD,21.8
+Ålder,35–44 år,alla,SD,15.9
+Ålder,45–54 år,kvinnor,SD,9.5
+Ålder,45–54 år,män,SD,27.2
+Ålder,45–54 år,alla,SD,18.4
+Ålder,55–64 år,kvinnor,SD,15.6
+Ålder,55–64 år,män,SD,28.0
+Ålder,55–64 år,alla,SD,22.0
+Ålder,65–74 år,kvinnor,SD,14.8
+Ålder,65–74 år,män,SD,27.0
+Ålder,65–74 år,alla,SD,20.8
+Ålder,75+ år,kvinnor,SD,14.6
+Ålder,75+ år,män,SD,17.6
+Ålder,75+ år,alla,SD,16.0
+Ålder,totalt 18+ år,kvinnor,SD,12.0
+Ålder,totalt 18+ år,män,SD,24.3
+Ålder,totalt 18+ år,alla,SD,18.1
+Födelseland,inrikes födda,kvinnor,SD,12.3
+Födelseland,inrikes födda,män,SD,26.1
+Födelseland,inrikes födda,alla,SD,19.2
+Födelseland,"totalt, utrikes och inrikes födda",kvinnor,SD,12.0
+Födelseland,"totalt, utrikes och inrikes födda",män,SD,24.3
+Födelseland,"totalt, utrikes och inrikes födda",alla,SD,18.1
+Födelseland,utrikes födda,kvinnor,SD,10.3
+Födelseland,utrikes födda,män,SD,13.7
+Födelseland,utrikes födda,alla,SD,12.0
+Region,Göteborg,alla,SD,9.9
+Region,Mellersta och Övre Norrland (län 22-25),alla,SD,17.5
+Region,Norra Mellansverige,alla,SD,16.1
+Region,Småland med öarna,alla,SD,20.9
+Region,Stockholm,alla,SD,7.9
+Region,Stockholms län exkl Stockholm,alla,SD,18.9
+Region,Stor-Malmö,alla,SD,14.2
+Region,"Sverige, totalt",alla,SD,18.1
+Region,Sydsverige exkl Stor-Malmö (län 10+12),alla,SD,24.1
+Region,Västsverige exkl Göteborg (län 13+14),alla,SD,21.7
+Region,Östra Mellansverige,alla,SD,21.6
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",kvinnor,SD,18.3
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",män,SD,20.5
+Yrkesområde,"Administration, omsorg och försäljning (Yrkesområde 4 och 5)",alla,SD,18.9
+Yrkesområde,Chefsyrken (Yrkesområde 1),män,SD,21.1
+Yrkesområde,Chefsyrken (Yrkesområde 1),alla,SD,15.5
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),kvinnor,SD,5.0
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),män,SD,11.4
+Yrkesområde,Fördjupad högskolekompetens (Yrkesområde 2),alla,SD,7.4
+Yrkesområde,Hela väljarkåren,kvinnor,SD,12.0
+Yrkesområde,Hela väljarkåren,män,SD,24.3
+Yrkesområde,Hela väljarkåren,alla,SD,18.1
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),kvinnor,SD,11.3
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),män,SD,22.6
+Yrkesområde,Högskolekompetens eller motsvarande (Yrkesområde 3),alla,SD,17.9
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",män,SD,36.8
+Yrkesområde,"Lantbruk, byggverksamhet och tillverkning (Yrkesområde 6, 7 och 8)",alla,SD,35.1
+Yrkesområde,Uppgift saknas,kvinnor,SD,11.1
+Yrkesområde,Uppgift saknas,män,SD,23.7
+Yrkesområde,Uppgift saknas,alla,SD,17.9

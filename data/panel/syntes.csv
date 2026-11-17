@@ -1,0 +1,56 @@
+id,matt,grupp,varde,kalla
+off_kv,S+V+MP,Offentligt anställda kvinnor,62.8,SCB PSU maj 2024–2026 (medel)
+priv_man,S+V+MP,Privatanställda män,36.0,SCB PSU maj 2024–2026 (medel)
+priv_man_sd,SD,Privatanställda män,25.7,SCB PSU maj 2024–2026 (medel)
+utr,S+V+MP,Utrikes födda,64.9,SCB PSU maj 2024–2026 (medel)
+inr_man,S+V+MP,Inrikes födda män,36.4,SCB PSU maj 2024–2026 (medel)
+inr_man_sd,SD,Inrikes födda män,26.1,SCB PSU maj 2024–2026 (medel)
+kv,S+V+MP,Kvinnor,57.2,SCB PSU maj 2024–2026 (medel)
+man,S+V+MP,Män,36.6,SCB PSU maj 2024–2026 (medel)
+ej_fack_sd,SD,Ej fackanslutna män,29.3,SCB PSU maj 2024–2026 (medel)
+ej_fack_m,M,Ej fackanslutna män,24.6,SCB PSU maj 2024–2026 (medel)
+ej_fack_v,S+V+MP,Ej fackanslutna män,30.2,SCB PSU maj 2024–2026 (medel)
+arb,S+V+MP,Arbetare (Valu),46.0,SVT/Valu 2026
+tjm,S+V+MP,Tjänstemän (Valu),42.0,SVT/Valu 2026
+mk_andel,Andel av S+V+MP:s sympatisörer bland anställda,Medelklass,49.9,BAS 2024 x PSU
+kv_andel,Andel av S+V+MP:s sympatisörer bland anställda,Kvinnor,56.6,BAS 2024 x PSU
+nb_sd_m,"Näst bästa parti, andel",SD → M,44.0,SCB PSU maj 2026
+nb_sd_s,"Näst bästa parti, andel",SD → S,6.0,SCB PSU maj 2026
+nb_m_sd,"Näst bästa parti, andel",M → SD,26.1,SCB PSU maj 2026
+nb_c_s,"Näst bästa parti, andel",C → S,38.3,SCB PSU maj 2026
+nb_c_m,"Näst bästa parti, andel",C → M,18.3,SCB PSU maj 2026
+nb_s_v,"Näst bästa parti, andel",S → V,22.9,SCB PSU maj 2026
+nb_s_c,"Näst bästa parti, andel",S → C,16.4,SCB PSU maj 2026
+nb_s_sd,"Näst bästa parti, andel",S → SD,3.6,SCB PSU maj 2026
+nb_v_sd,"Näst bästa parti, andel",V → SD,4.4,SCB PSU maj 2026
+fl_c_s,Sympati maj 2026 bland väljare i valet 2022,C 2022 → S,19.3,SCB PSU maj 2026
+fl_m_s,Sympati maj 2026 bland väljare i valet 2022,M 2022 → S,8.3,SCB PSU maj 2026
+fl_sd_s,Sympati maj 2026 bland väljare i valet 2022,SD 2022 → S,2.7,SCB PSU maj 2026
+fl_sd_m,Sympati maj 2026 bland väljare i valet 2022,SD 2022 → M,7.3,SCB PSU maj 2026
+lo_sd,SD,LO-medlemmar (Valu),24.0,SVT/Valu 2026
+komm,S+V+MP,Kommunalt anställda (Valu),53.0,SVT/Valu 2026
+priv,S+V+MP,Privatanställda (Valu),34.0,SVT/Valu 2026
+fly_alla,Färre flyktingar bra förslag,Samtliga,53.0,SVT/Valu 2026
+fly_sd,Färre flyktingar bra förslag,SD,93.0,SVT/Valu 2026
+fly_s,Färre flyktingar bra förslag,S,30.0,SVT/Valu 2026
+fly_c,Färre flyktingar bra förslag,C,23.0,SVT/Valu 2026
+fly_m,Färre flyktingar bra förslag,M,80.0,SVT/Valu 2026
+iff_ekv,Välfärdschauvinism 2018,SD-väljare,16.0,Jylhä m.fl. 2018
+iff_xen,Hög grad av xenofobi 2018,SD-väljare,43.0,Jylhä m.fl. 2018
+iff_sd_s_pos,Positiv till Sverige om SD styrde 2018,S-väljare,6.0,Jylhä m.fl. 2018
+iff_riksdag,Förtroende för riksdagen 2018,SD-väljare,6.0,Jylhä m.fl. 2018
+bil,S+V+MP 2026 per standardavvikelse bilar/1000,Kommuner,-7.0,Kommunregression
+vd_utr,Valdeltagande 2022,Utrikes födda,67.0,SCB valdeltagandeundersökningen 2022
+vd_q1,Valdeltagande 2022,Lägsta inkomstfemtedelen,76.0,SCB valdeltagandeundersökningen 2022
+vd_q5,Valdeltagande 2022,Högsta inkomstfemtedelen,95.0,SCB valdeltagandeundersökningen 2022
+vinst_sd,"Förbjud vinstutdelning i välfärden, bra förslag",SD-väljare,50.0,SVT/Valu 2026 s. 45
+vinst_m,"Förbjud vinstutdelning i välfärden, bra förslag",M-väljare,41.0,SVT/Valu 2026 s. 45
+vinst_c,"Förbjud vinstutdelning i välfärden, bra förslag",C-väljare,58.0,SVT/Valu 2026 s. 45
+kar_sd,"Avskaffa karensdagen, bra förslag",SD-väljare,33.0,SVT/Valu 2026 s. 45
+kar_s,"Avskaffa karensdagen, bra förslag",S-väljare,66.0,SVT/Valu 2026 s. 45
+kar_c,"Avskaffa karensdagen, bra förslag",C-väljare,28.0,SVT/Valu 2026 s. 45
+kar_m,"Avskaffa karensdagen, bra förslag",M-väljare,22.0,SVT/Valu 2026 s. 45
+eko_sd,Egen ekonomi mycket stor betydelse för partival,SD-väljare,61.0,SVT/Valu 2026 s. 14
+eko_s,Egen ekonomi mycket stor betydelse för partival,S-väljare,28.0,SVT/Valu 2026 s. 14
+best_m,Bäst politik för egen ekonomi,M,34.0,SVT/Valu 2026 s. 31
+best_s,Bäst politik för egen ekonomi,S,22.0,SVT/Valu 2026 s. 31

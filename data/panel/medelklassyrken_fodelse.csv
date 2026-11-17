@@ -1,0 +1,163 @@
+ssyk2,fodelseregion,anstallda,andel,yrkesgrupp
+11,Afrika,121,0.5,Politiker och verkställande direktörer
+11,Asien,881,3.4,Politiker och verkställande direktörer
+11,Europa exkl. Norden,1331,5.2,Politiker och verkställande direktörer
+11,Nord- och Mellanamerika,136,0.5,Politiker och verkställande direktörer
+11,Norden exkl. Sverige,542,2.1,Politiker och verkställande direktörer
+11,Oceanien,47,0.2,Politiker och verkställande direktörer
+11,Sverige,22678,87.8,Politiker och verkställande direktörer
+11,Sydamerika,105,0.4,Politiker och verkställande direktörer
+11,okänt födelseland,1,0.0,Politiker och verkställande direktörer
+12,Afrika,511,0.4,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Asien,4179,3.5,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Europa exkl. Norden,6563,5.5,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Nord- och Mellanamerika,647,0.5,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Norden exkl. Sverige,2223,1.9,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Oceanien,151,0.1,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Sverige,104713,87.4,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Sydamerika,776,0.6,"Chefer inom administration, ekonomi, HR och försäljning"
+12,okänt födelseland,6,0.0,"Chefer inom administration, ekonomi, HR och försäljning"
+13,Afrika,428,0.4,"Chefer inom IT, logistik, bygg och produktion"
+13,Asien,3534,3.6,"Chefer inom IT, logistik, bygg och produktion"
+13,Europa exkl. Norden,6092,6.1,"Chefer inom IT, logistik, bygg och produktion"
+13,Nord- och Mellanamerika,504,0.5,"Chefer inom IT, logistik, bygg och produktion"
+13,Norden exkl. Sverige,1750,1.8,"Chefer inom IT, logistik, bygg och produktion"
+13,Oceanien,120,0.1,"Chefer inom IT, logistik, bygg och produktion"
+13,Sverige,86539,87.0,"Chefer inom IT, logistik, bygg och produktion"
+13,Sydamerika,534,0.5,"Chefer inom IT, logistik, bygg och produktion"
+13,okänt födelseland,6,0.0,"Chefer inom IT, logistik, bygg och produktion"
+14,Afrika,81,0.4,Chefer inom utbildning
+14,Asien,470,2.5,Chefer inom utbildning
+14,Europa exkl. Norden,719,3.8,Chefer inom utbildning
+14,Nord- och Mellanamerika,91,0.5,Chefer inom utbildning
+14,Norden exkl. Sverige,318,1.7,Chefer inom utbildning
+14,Oceanien,23,0.1,Chefer inom utbildning
+14,Sverige,16984,90.5,Chefer inom utbildning
+14,Sydamerika,90,0.5,Chefer inom utbildning
+14,okänt födelseland,0,0.0,Chefer inom utbildning
+15,Afrika,372,0.7,"Chefer inom vård, omsorg och socialt arbete"
+15,Asien,1895,3.5,"Chefer inom vård, omsorg och socialt arbete"
+15,Europa exkl. Norden,2638,4.9,"Chefer inom vård, omsorg och socialt arbete"
+15,Nord- och Mellanamerika,174,0.3,"Chefer inom vård, omsorg och socialt arbete"
+15,Norden exkl. Sverige,984,1.8,"Chefer inom vård, omsorg och socialt arbete"
+15,Oceanien,35,0.1,"Chefer inom vård, omsorg och socialt arbete"
+15,Sverige,47169,88.0,"Chefer inom vård, omsorg och socialt arbete"
+15,Sydamerika,363,0.7,"Chefer inom vård, omsorg och socialt arbete"
+15,okänt födelseland,1,0.0,"Chefer inom vård, omsorg och socialt arbete"
+16,Afrika,14,0.2,Chefer inom bank och finans
+16,Asien,196,3.3,Chefer inom bank och finans
+16,Europa exkl. Norden,285,4.8,Chefer inom bank och finans
+16,Nord- och Mellanamerika,27,0.5,Chefer inom bank och finans
+16,Norden exkl. Sverige,123,2.1,Chefer inom bank och finans
+16,Oceanien,5,0.1,Chefer inom bank och finans
+16,Sverige,5281,88.8,Chefer inom bank och finans
+16,Sydamerika,15,0.3,Chefer inom bank och finans
+16,okänt födelseland,0,0.0,Chefer inom bank och finans
+17,Afrika,309,0.9,"Chefer inom hotell, restaurang och handel"
+17,Asien,3441,10.5,"Chefer inom hotell, restaurang och handel"
+17,Europa exkl. Norden,2598,7.9,"Chefer inom hotell, restaurang och handel"
+17,Nord- och Mellanamerika,146,0.4,"Chefer inom hotell, restaurang och handel"
+17,Norden exkl. Sverige,795,2.4,"Chefer inom hotell, restaurang och handel"
+17,Oceanien,43,0.1,"Chefer inom hotell, restaurang och handel"
+17,Sverige,25184,76.8,"Chefer inom hotell, restaurang och handel"
+17,Sydamerika,250,0.8,"Chefer inom hotell, restaurang och handel"
+17,okänt födelseland,8,0.0,"Chefer inom hotell, restaurang och handel"
+21,Afrika,1770,0.9,"Civilingenjörer, naturvetare, arkitekter"
+21,Asien,16868,8.7,"Civilingenjörer, naturvetare, arkitekter"
+21,Europa exkl. Norden,16711,8.6,"Civilingenjörer, naturvetare, arkitekter"
+21,Nord- och Mellanamerika,1765,0.9,"Civilingenjörer, naturvetare, arkitekter"
+21,Norden exkl. Sverige,2827,1.5,"Civilingenjörer, naturvetare, arkitekter"
+21,Oceanien,334,0.2,"Civilingenjörer, naturvetare, arkitekter"
+21,Sverige,150895,78.0,"Civilingenjörer, naturvetare, arkitekter"
+21,Sydamerika,2312,1.2,"Civilingenjörer, naturvetare, arkitekter"
+21,okänt födelseland,12,0.0,"Civilingenjörer, naturvetare, arkitekter"
+22,Afrika,3042,1.3,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Asien,16537,7.3,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Europa exkl. Norden,17748,7.8,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Nord- och Mellanamerika,928,0.4,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Norden exkl. Sverige,5648,2.5,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Oceanien,96,0.0,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Sverige,180486,79.7,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Sydamerika,1882,0.8,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,okänt födelseland,19,0.0,"Läkare, sjuksköterskor och andra vårdspecialister"
+23,Afrika,4072,1.3,Lärare och pedagoger (förskola till högskola)
+23,Asien,22498,7.0,Lärare och pedagoger (förskola till högskola)
+23,Europa exkl. Norden,24132,7.5,Lärare och pedagoger (förskola till högskola)
+23,Nord- och Mellanamerika,2874,0.9,Lärare och pedagoger (förskola till högskola)
+23,Norden exkl. Sverige,5010,1.5,Lärare och pedagoger (förskola till högskola)
+23,Oceanien,354,0.1,Lärare och pedagoger (förskola till högskola)
+23,Sverige,260915,80.7,Lärare och pedagoger (förskola till högskola)
+23,Sydamerika,3614,1.1,Lärare och pedagoger (förskola till högskola)
+23,okänt födelseland,25,0.0,Lärare och pedagoger (förskola till högskola)
+24,Afrika,1787,0.7,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Asien,11305,4.2,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Europa exkl. Norden,15048,5.6,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Nord- och Mellanamerika,1664,0.6,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Norden exkl. Sverige,4567,1.7,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Oceanien,280,0.1,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Sverige,230566,86.2,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Sydamerika,2098,0.8,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,okänt födelseland,19,0.0,"Ekonomer, HR-specialister, utredare, marknadsförare"
+25,Afrika,1853,1.0,IT-specialister (systemutvecklare m.fl.)
+25,Asien,21061,11.5,IT-specialister (systemutvecklare m.fl.)
+25,Europa exkl. Norden,14359,7.9,IT-specialister (systemutvecklare m.fl.)
+25,Nord- och Mellanamerika,1689,0.9,IT-specialister (systemutvecklare m.fl.)
+25,Norden exkl. Sverige,2402,1.3,IT-specialister (systemutvecklare m.fl.)
+25,Oceanien,289,0.2,IT-specialister (systemutvecklare m.fl.)
+25,Sverige,138866,76.0,IT-specialister (systemutvecklare m.fl.)
+25,Sydamerika,2198,1.2,IT-specialister (systemutvecklare m.fl.)
+25,okänt födelseland,15,0.0,IT-specialister (systemutvecklare m.fl.)
+26,Afrika,1495,1.2,"Jurister, socialsekreterare, kultur och media"
+26,Asien,5872,4.6,"Jurister, socialsekreterare, kultur och media"
+26,Europa exkl. Norden,6272,4.9,"Jurister, socialsekreterare, kultur och media"
+26,Nord- och Mellanamerika,699,0.5,"Jurister, socialsekreterare, kultur och media"
+26,Norden exkl. Sverige,2165,1.7,"Jurister, socialsekreterare, kultur och media"
+26,Oceanien,89,0.1,"Jurister, socialsekreterare, kultur och media"
+26,Sverige,109857,86.2,"Jurister, socialsekreterare, kultur och media"
+26,Sydamerika,919,0.7,"Jurister, socialsekreterare, kultur och media"
+26,okänt födelseland,6,0.0,"Jurister, socialsekreterare, kultur och media"
+31,Afrika,1189,0.8,"Ingenjörer, tekniker och arbetsledare"
+31,Asien,8565,5.4,"Ingenjörer, tekniker och arbetsledare"
+31,Europa exkl. Norden,9445,6.0,"Ingenjörer, tekniker och arbetsledare"
+31,Nord- och Mellanamerika,558,0.4,"Ingenjörer, tekniker och arbetsledare"
+31,Norden exkl. Sverige,2745,1.7,"Ingenjörer, tekniker och arbetsledare"
+31,Oceanien,139,0.1,"Ingenjörer, tekniker och arbetsledare"
+31,Sverige,133968,85.0,"Ingenjörer, tekniker och arbetsledare"
+31,Sydamerika,997,0.6,"Ingenjörer, tekniker och arbetsledare"
+31,okänt födelseland,14,0.0,"Ingenjörer, tekniker och arbetsledare"
+32,Afrika,736,1.9,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Asien,5483,14.0,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Europa exkl. Norden,3693,9.4,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Nord- och Mellanamerika,260,0.7,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Norden exkl. Sverige,617,1.6,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Oceanien,33,0.1,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Sverige,27889,71.3,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Sydamerika,400,1.0,"Biomedicinska analytiker, tandhygienister m.fl."
+32,okänt födelseland,4,0.0,"Biomedicinska analytiker, tandhygienister m.fl."
+33,Afrika,2208,0.7,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Asien,13734,4.1,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Europa exkl. Norden,16818,5.0,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Nord- och Mellanamerika,1245,0.4,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Norden exkl. Sverige,5087,1.5,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Oceanien,205,0.1,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Sverige,297359,87.8,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Sydamerika,2183,0.6,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,okänt födelseland,14,0.0,"Säljare, redovisningsekonomer, handläggare, poliser"
+34,Afrika,1785,2.2,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Asien,5714,7.2,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Europa exkl. Norden,4786,6.0,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Nord- och Mellanamerika,512,0.6,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Norden exkl. Sverige,1372,1.7,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Oceanien,97,0.1,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Sverige,64308,80.9,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Sydamerika,890,1.1,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,okänt födelseland,3,0.0,"Behandlingsassistenter, fritidsledare, kreatörer"
+35,Afrika,514,0.9,IT-tekniker (drift och support)
+35,Asien,3459,6.3,IT-tekniker (drift och support)
+35,Europa exkl. Norden,3034,5.5,IT-tekniker (drift och support)
+35,Nord- och Mellanamerika,319,0.6,IT-tekniker (drift och support)
+35,Norden exkl. Sverige,948,1.7,IT-tekniker (drift och support)
+35,Oceanien,54,0.1,IT-tekniker (drift och support)
+35,Sverige,46331,83.9,IT-tekniker (drift och support)
+35,Sydamerika,530,1.0,IT-tekniker (drift och support)
+35,okänt födelseland,7,0.0,IT-tekniker (drift och support)

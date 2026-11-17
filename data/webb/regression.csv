@@ -1,0 +1,107 @@
+analys,modell,faktor,koef,t,signifikant,r2
+val,SD 2026,Eftergymn. 3 år+,-2.48,-4.28,ja,0.85
+val,SD 2026,Män i bygg,0.98,2.71,ja,0.85
+val,SD 2026,Män i industri,0.01,0.02,nej,0.85
+val,SD 2026,Kvinnor i välfärd,0.15,0.32,nej,0.85
+val,SD 2026,Utrikes födda,0.67,1.47,nej,0.85
+val,SD 2026,65+,-0.66,-1.3,nej,0.85
+val,SD 2026,Egenföretagare,-0.18,-0.38,nej,0.85
+val,SD 2026,Äganderätt (villor),1.6,2.68,ja,0.85
+val,SD 2026,Bilar/1000,2.77,3.25,ja,0.85
+val,SD 2026,Låg ek. standard 20–64,1.81,4.34,ja,0.85
+val,SD 2026,Medianink. (ek. std),1.23,2.29,ja,0.85
+val,SD 2026,Offentligt anställda,-0.78,-2.77,ja,0.85
+val,M 2026,Eftergymn. 3 år+,-0.07,-0.16,nej,0.7
+val,M 2026,Män i bygg,-0.92,-2.69,ja,0.7
+val,M 2026,Män i industri,-1.09,-2.87,ja,0.7
+val,M 2026,Kvinnor i välfärd,0.19,0.45,nej,0.7
+val,M 2026,Utrikes födda,0.7,1.77,nej,0.7
+val,M 2026,65+,-1.57,-3.81,ja,0.7
+val,M 2026,Egenföretagare,0.61,1.53,nej,0.7
+val,M 2026,Äganderätt (villor),0.11,0.18,nej,0.7
+val,M 2026,Bilar/1000,4.1,5.38,ja,0.7
+val,M 2026,Låg ek. standard 20–64,0.35,1.03,nej,0.7
+val,M 2026,Medianink. (ek. std),3.0,7.29,ja,0.7
+val,M 2026,Offentligt anställda,-0.37,-1.42,nej,0.7
+val,S+V+MP 2026,Eftergymn. 3 år+,1.57,1.63,nej,0.77
+val,S+V+MP 2026,Män i bygg,1.53,2.21,ja,0.77
+val,S+V+MP 2026,Män i industri,0.71,1.0,nej,0.77
+val,S+V+MP 2026,Kvinnor i välfärd,-1.06,-1.27,nej,0.77
+val,S+V+MP 2026,Utrikes födda,-0.89,-1.16,nej,0.77
+val,S+V+MP 2026,65+,3.11,3.73,ja,0.77
+val,S+V+MP 2026,Egenföretagare,-2.59,-3.01,ja,0.77
+val,S+V+MP 2026,Äganderätt (villor),-2.34,-2.04,ja,0.77
+val,S+V+MP 2026,Bilar/1000,-7.01,-4.72,ja,0.77
+val,S+V+MP 2026,Låg ek. standard 20–64,-1.22,-1.6,nej,0.77
+val,S+V+MP 2026,Medianink. (ek. std),-4.55,-5.27,ja,0.77
+val,S+V+MP 2026,Offentligt anställda,0.86,1.84,nej,0.77
+val,ΔSD 2010–26,Eftergymn. 3 år+,-1.97,-4.46,ja,0.9
+val,ΔSD 2010–26,Män i bygg,0.97,4.06,ja,0.9
+val,ΔSD 2010–26,Män i industri,0.48,2.05,ja,0.9
+val,ΔSD 2010–26,Kvinnor i välfärd,-0.32,-1.07,nej,0.9
+val,ΔSD 2010–26,Utrikes födda,0.31,1.03,nej,0.9
+val,ΔSD 2010–26,65+,0.51,1.51,nej,0.9
+val,ΔSD 2010–26,Egenföretagare,-0.24,-0.8,nej,0.9
+val,ΔSD 2010–26,Äganderätt (villor),1.02,2.78,ja,0.9
+val,ΔSD 2010–26,Bilar/1000,0.95,1.83,nej,0.9
+val,ΔSD 2010–26,Låg ek. standard 20–64,0.52,1.82,nej,0.9
+val,ΔSD 2010–26,Medianink. (ek. std),0.75,2.2,ja,0.9
+val,ΔSD 2010–26,Offentligt anställda,-0.12,-0.66,nej,0.9
+val,ΔS+V+MP 1988–2026,Eftergymn. 3 år+,5.49,3.63,ja,0.62
+val,ΔS+V+MP 1988–2026,Män i bygg,-1.43,-1.64,nej,0.62
+val,ΔS+V+MP 1988–2026,Män i industri,1.02,1.21,nej,0.62
+val,ΔS+V+MP 1988–2026,Kvinnor i välfärd,-0.34,-0.37,nej,0.62
+val,ΔS+V+MP 1988–2026,Utrikes födda,0.64,0.78,nej,0.62
+val,ΔS+V+MP 1988–2026,65+,-3.02,-2.51,ja,0.62
+val,ΔS+V+MP 1988–2026,Egenföretagare,4.53,4.77,ja,0.62
+val,ΔS+V+MP 1988–2026,Äganderätt (villor),0.52,0.48,nej,0.62
+val,ΔS+V+MP 1988–2026,Bilar/1000,-3.21,-2.27,ja,0.62
+val,ΔS+V+MP 1988–2026,Låg ek. standard 20–64,-4.35,-5.29,ja,0.62
+val,ΔS+V+MP 1988–2026,Medianink. (ek. std),-7.42,-6.63,ja,0.62
+val,ΔS+V+MP 1988–2026,Offentligt anställda,0.9,1.65,nej,0.62
+bil,Privatbilar/1000 2024,Utanför tätort (%),-10.69,-2.31,ja,0.92
+bil,Privatbilar/1000 2024,Dagligvaror inom 2 km (%),-29.37,-4.42,ja,0.92
+bil,Privatbilar/1000 2024,Kollektivtrafiknära (%),-5.89,-1.96,nej,0.92
+bil,Privatbilar/1000 2024,Utpendlare (%),16.46,3.45,ja,0.92
+bil,Privatbilar/1000 2024,Män i bygg (%),-7.6,-2.46,ja,0.92
+bil,Privatbilar/1000 2024,Egenföretagare (%),-26.67,-4.71,ja,0.92
+bil,Privatbilar/1000 2024,Medianink. ek. std (tkr),1.32,0.2,nej,0.92
+bil,Privatbilar/1000 2024,65+ (%),31.19,5.49,ja,0.92
+bil,Privatbilar/1000 2024,Eftergymn. 3 år+ (%),-35.4,-6.02,ja,0.92
+bil,Privatbilar/1000 2024,Utrikes födda (%),-30.17,-6.34,ja,0.92
+bil,Lätta lastbilar/1000 2024,Utanför tätort (%),13.37,2.9,ja,0.51
+bil,Lätta lastbilar/1000 2024,Dagligvaror inom 2 km (%),4.91,1.75,nej,0.51
+bil,Lätta lastbilar/1000 2024,Kollektivtrafiknära (%),-3.13,-1.85,nej,0.51
+bil,Lätta lastbilar/1000 2024,Utpendlare (%),-5.96,-2.38,ja,0.51
+bil,Lätta lastbilar/1000 2024,Män i bygg (%),4.22,1.67,nej,0.51
+bil,Lätta lastbilar/1000 2024,Egenföretagare (%),1.36,0.29,nej,0.51
+bil,Lätta lastbilar/1000 2024,Medianink. ek. std (tkr),11.92,2.93,ja,0.51
+bil,Lätta lastbilar/1000 2024,65+ (%),7.43,1.5,nej,0.51
+bil,Lätta lastbilar/1000 2024,Eftergymn. 3 år+ (%),-2.46,-0.57,nej,0.51
+bil,Lätta lastbilar/1000 2024,Utrikes födda (%),8.56,1.54,nej,0.51
+bil,Företagsägda pb/1000 2024,Utanför tätort (%),31.78,3.87,ja,0.47
+bil,Företagsägda pb/1000 2024,Dagligvaror inom 2 km (%),14.04,2.05,ja,0.47
+bil,Företagsägda pb/1000 2024,Kollektivtrafiknära (%),-5.08,-1.54,nej,0.47
+bil,Företagsägda pb/1000 2024,Utpendlare (%),-14.21,-2.81,ja,0.47
+bil,Företagsägda pb/1000 2024,Män i bygg (%),-1.32,-0.25,nej,0.47
+bil,Företagsägda pb/1000 2024,Egenföretagare (%),6.24,0.79,nej,0.47
+bil,Företagsägda pb/1000 2024,Medianink. ek. std (tkr),32.04,4.16,ja,0.47
+bil,Företagsägda pb/1000 2024,65+ (%),7.0,0.85,nej,0.47
+bil,Företagsägda pb/1000 2024,Eftergymn. 3 år+ (%),3.35,0.44,nej,0.47
+bil,Företagsägda pb/1000 2024,Utrikes födda (%),21.18,1.95,nej,0.47
+bil,Δ privatbilar/1000,Δ utpendlare 2004–21,5.9,4.85,ja,0.78
+bil,Δ privatbilar/1000,Δ utanför tätort 2005–23,-5.99,-3.71,ja,0.78
+bil,Δ privatbilar/1000,Δ män i bygg 2002–24,-1.13,-0.66,nej,0.78
+bil,Δ privatbilar/1000,Δ medelink. 2002–24 (%),-2.16,-1.13,nej,0.78
+bil,Δ privatbilar/1000,Δ 65+ 2000–24,4.58,1.92,nej,0.78
+bil,Δ privatbilar/1000,Befolkningsförändring 2000–24 (%),-18.62,-9.16,ja,0.78
+bil,Δ privatbilar/1000,Δ utrikes födda 2002–24,-2.94,-1.41,nej,0.78
+bil,Δ privatbilar/1000,Utanför tätort 2005 (nivå),2.21,1.05,nej,0.78
+bil,Δ lätta lastbilar/1000,Δ utpendlare 2004–21,0.49,0.35,nej,0.37
+bil,Δ lätta lastbilar/1000,Δ utanför tätort 2005–23,3.01,1.69,nej,0.37
+bil,Δ lätta lastbilar/1000,Δ män i bygg 2002–24,2.44,1.92,nej,0.37
+bil,Δ lätta lastbilar/1000,Δ medelink. 2002–24 (%),6.27,3.32,ja,0.37
+bil,Δ lätta lastbilar/1000,Δ 65+ 2000–24,1.73,0.68,nej,0.37
+bil,Δ lätta lastbilar/1000,Befolkningsförändring 2000–24 (%),-6.67,-3.04,ja,0.37
+bil,Δ lätta lastbilar/1000,Δ utrikes födda 2002–24,5.24,1.52,nej,0.37
+bil,Δ lätta lastbilar/1000,Utanför tätort 2005 (nivå),4.05,2.21,ja,0.37

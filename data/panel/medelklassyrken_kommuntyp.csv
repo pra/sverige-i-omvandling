@@ -1,0 +1,163 @@
+ssyk2,kommungrupp,anstallda,andel,index,yrkesgrupp
+11,Landsbygdskommun,718,2.79,0.79,Politiker och verkställande direktörer
+11,Landsbygdskommun med besöksnäring,430,1.67,0.9,Politiker och verkställande direktörer
+11,Lågpendlingskommun nära större stad,743,2.89,0.72,Politiker och verkställande direktörer
+11,Mindre stad/tätort,1914,7.44,0.72,Politiker och verkställande direktörer
+11,Pendlingskommun nära mindre tätort,893,3.47,0.84,Politiker och verkställande direktörer
+11,Pendlingskommun nära storstad,4406,17.13,1.13,Politiker och verkställande direktörer
+11,Pendlingskommun nära större stad,1429,5.56,0.82,Politiker och verkställande direktörer
+11,Storstäder,10011,38.92,1.5,Politiker och verkställande direktörer
+11,Större stad,5177,20.13,0.73,Politiker och verkställande direktörer
+12,Landsbygdskommun,2297,1.93,0.55,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Landsbygdskommun med besöksnäring,1429,1.2,0.64,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Lågpendlingskommun nära större stad,3118,2.62,0.65,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Mindre stad/tätort,8192,6.88,0.66,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Pendlingskommun nära mindre tätort,3314,2.78,0.67,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Pendlingskommun nära storstad,21693,18.21,1.21,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Pendlingskommun nära större stad,5226,4.39,0.65,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Storstäder,45342,38.06,1.47,"Chefer inom administration, ekonomi, HR och försäljning"
+12,Större stad,28514,23.94,0.87,"Chefer inom administration, ekonomi, HR och försäljning"
+13,Landsbygdskommun,2932,2.98,0.84,"Chefer inom IT, logistik, bygg och produktion"
+13,Landsbygdskommun med besöksnäring,1452,1.48,0.79,"Chefer inom IT, logistik, bygg och produktion"
+13,Lågpendlingskommun nära större stad,3904,3.97,0.98,"Chefer inom IT, logistik, bygg och produktion"
+13,Mindre stad/tätort,8778,8.93,0.86,"Chefer inom IT, logistik, bygg och produktion"
+13,Pendlingskommun nära mindre tätort,4065,4.13,0.99,"Chefer inom IT, logistik, bygg och produktion"
+13,Pendlingskommun nära storstad,16905,17.19,1.14,"Chefer inom IT, logistik, bygg och produktion"
+13,Pendlingskommun nära större stad,6138,6.24,0.92,"Chefer inom IT, logistik, bygg och produktion"
+13,Storstäder,28989,29.48,1.14,"Chefer inom IT, logistik, bygg och produktion"
+13,Större stad,25188,25.61,0.93,"Chefer inom IT, logistik, bygg och produktion"
+14,Landsbygdskommun,771,4.11,1.16,Chefer inom utbildning
+14,Landsbygdskommun med besöksnäring,366,1.95,1.05,Chefer inom utbildning
+14,Lågpendlingskommun nära större stad,846,4.51,1.12,Chefer inom utbildning
+14,Mindre stad/tätort,2023,10.78,1.04,Chefer inom utbildning
+14,Pendlingskommun nära mindre tätort,907,4.83,1.16,Chefer inom utbildning
+14,Pendlingskommun nära storstad,3304,17.6,1.16,Chefer inom utbildning
+14,Pendlingskommun nära större stad,1645,8.76,1.29,Chefer inom utbildning
+14,Storstäder,3963,21.11,0.81,Chefer inom utbildning
+14,Större stad,4944,26.34,0.96,Chefer inom utbildning
+15,Landsbygdskommun,1883,3.52,1.0,"Chefer inom vård, omsorg och socialt arbete"
+15,Landsbygdskommun med besöksnäring,913,1.7,0.92,"Chefer inom vård, omsorg och socialt arbete"
+15,Lågpendlingskommun nära större stad,1936,3.62,0.9,"Chefer inom vård, omsorg och socialt arbete"
+15,Mindre stad/tätort,5963,11.14,1.07,"Chefer inom vård, omsorg och socialt arbete"
+15,Pendlingskommun nära mindre tätort,1944,3.63,0.87,"Chefer inom vård, omsorg och socialt arbete"
+15,Pendlingskommun nära storstad,7971,14.88,0.99,"Chefer inom vård, omsorg och socialt arbete"
+15,Pendlingskommun nära större stad,3454,6.45,0.95,"Chefer inom vård, omsorg och socialt arbete"
+15,Storstäder,12905,24.1,0.93,"Chefer inom vård, omsorg och socialt arbete"
+15,Större stad,16582,30.96,1.13,"Chefer inom vård, omsorg och socialt arbete"
+16,Landsbygdskommun,66,1.11,0.32,Chefer inom bank och finans
+16,Landsbygdskommun med besöksnäring,54,0.91,0.49,Chefer inom bank och finans
+16,Lågpendlingskommun nära större stad,73,1.23,0.31,Chefer inom bank och finans
+16,Mindre stad/tätort,325,5.49,0.53,Chefer inom bank och finans
+16,Pendlingskommun nära mindre tätort,86,1.45,0.35,Chefer inom bank och finans
+16,Pendlingskommun nära storstad,962,16.24,1.07,Chefer inom bank och finans
+16,Pendlingskommun nära större stad,130,2.19,0.32,Chefer inom bank och finans
+16,Storstäder,3369,56.86,2.19,Chefer inom bank och finans
+16,Större stad,860,14.51,0.53,Chefer inom bank och finans
+17,Landsbygdskommun,1048,3.3,0.93,"Chefer inom hotell, restaurang och handel"
+17,Landsbygdskommun med besöksnäring,1098,3.46,1.86,"Chefer inom hotell, restaurang och handel"
+17,Lågpendlingskommun nära större stad,1031,3.25,0.8,"Chefer inom hotell, restaurang och handel"
+17,Mindre stad/tätort,3203,10.09,0.97,"Chefer inom hotell, restaurang och handel"
+17,Pendlingskommun nära mindre tätort,984,3.1,0.75,"Chefer inom hotell, restaurang och handel"
+17,Pendlingskommun nära storstad,5372,16.92,1.12,"Chefer inom hotell, restaurang och handel"
+17,Pendlingskommun nära större stad,1826,5.75,0.85,"Chefer inom hotell, restaurang och handel"
+17,Storstäder,8840,27.84,1.07,"Chefer inom hotell, restaurang och handel"
+17,Större stad,8348,26.29,0.96,"Chefer inom hotell, restaurang och handel"
+21,Landsbygdskommun,2571,1.34,0.38,"Civilingenjörer, naturvetare, arkitekter"
+21,Landsbygdskommun med besöksnäring,1576,0.82,0.44,"Civilingenjörer, naturvetare, arkitekter"
+21,Lågpendlingskommun nära större stad,5690,2.96,0.73,"Civilingenjörer, naturvetare, arkitekter"
+21,Mindre stad/tätort,15326,7.98,0.77,"Civilingenjörer, naturvetare, arkitekter"
+21,Pendlingskommun nära mindre tätort,4357,2.27,0.55,"Civilingenjörer, naturvetare, arkitekter"
+21,Pendlingskommun nära storstad,22703,11.81,0.78,"Civilingenjörer, naturvetare, arkitekter"
+21,Pendlingskommun nära större stad,6302,3.28,0.48,"Civilingenjörer, naturvetare, arkitekter"
+21,Storstäder,76058,39.58,1.53,"Civilingenjörer, naturvetare, arkitekter"
+21,Större stad,57580,29.96,1.09,"Civilingenjörer, naturvetare, arkitekter"
+22,Landsbygdskommun,5928,2.64,0.75,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Landsbygdskommun med besöksnäring,3503,1.56,0.84,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Lågpendlingskommun nära större stad,7394,3.29,0.81,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Mindre stad/tätort,27859,12.39,1.19,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Pendlingskommun nära mindre tätort,6078,2.7,0.65,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Pendlingskommun nära storstad,35360,15.73,1.04,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Pendlingskommun nära större stad,10642,4.73,0.7,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Storstäder,47993,21.35,0.82,"Läkare, sjuksköterskor och andra vårdspecialister"
+22,Större stad,80019,35.6,1.3,"Läkare, sjuksköterskor och andra vårdspecialister"
+23,Landsbygdskommun,13075,4.05,1.15,Lärare och pedagoger (förskola till högskola)
+23,Landsbygdskommun med besöksnäring,6166,1.91,1.03,Lärare och pedagoger (förskola till högskola)
+23,Lågpendlingskommun nära större stad,14843,4.6,1.14,Lärare och pedagoger (förskola till högskola)
+23,Mindre stad/tätort,34390,10.65,1.03,Lärare och pedagoger (förskola till högskola)
+23,Pendlingskommun nära mindre tätort,15967,4.94,1.19,Lärare och pedagoger (förskola till högskola)
+23,Pendlingskommun nära storstad,48860,15.13,1.0,Lärare och pedagoger (förskola till högskola)
+23,Pendlingskommun nära större stad,28256,8.75,1.29,Lärare och pedagoger (förskola till högskola)
+23,Storstäder,62673,19.4,0.75,Lärare och pedagoger (förskola till högskola)
+23,Större stad,98793,30.58,1.11,Lärare och pedagoger (förskola till högskola)
+24,Landsbygdskommun,3448,1.3,0.37,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Landsbygdskommun med besöksnäring,2208,0.83,0.45,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Lågpendlingskommun nära större stad,4956,1.86,0.46,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Mindre stad/tätort,15788,5.94,0.57,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Pendlingskommun nära mindre tätort,4875,1.83,0.44,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Pendlingskommun nära storstad,38905,14.63,0.97,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Pendlingskommun nära större stad,7695,2.89,0.43,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Storstäder,122755,46.16,1.78,"Ekonomer, HR-specialister, utredare, marknadsförare"
+24,Större stad,65283,24.55,0.89,"Ekonomer, HR-specialister, utredare, marknadsförare"
+25,Landsbygdskommun,1051,0.58,0.16,IT-specialister (systemutvecklare m.fl.)
+25,Landsbygdskommun med besöksnäring,531,0.29,0.16,IT-specialister (systemutvecklare m.fl.)
+25,Lågpendlingskommun nära större stad,1791,0.98,0.24,IT-specialister (systemutvecklare m.fl.)
+25,Mindre stad/tätort,7792,4.28,0.41,IT-specialister (systemutvecklare m.fl.)
+25,Pendlingskommun nära mindre tätort,1644,0.9,0.22,IT-specialister (systemutvecklare m.fl.)
+25,Pendlingskommun nära storstad,26181,14.37,0.95,IT-specialister (systemutvecklare m.fl.)
+25,Pendlingskommun nära större stad,3086,1.69,0.25,IT-specialister (systemutvecklare m.fl.)
+25,Storstäder,93155,51.14,1.97,IT-specialister (systemutvecklare m.fl.)
+25,Större stad,46924,25.76,0.94,IT-specialister (systemutvecklare m.fl.)
+26,Landsbygdskommun,3019,2.37,0.67,"Jurister, socialsekreterare, kultur och media"
+26,Landsbygdskommun med besöksnäring,1623,1.28,0.69,"Jurister, socialsekreterare, kultur och media"
+26,Lågpendlingskommun nära större stad,3728,2.93,0.73,"Jurister, socialsekreterare, kultur och media"
+26,Mindre stad/tätort,10142,7.97,0.77,"Jurister, socialsekreterare, kultur och media"
+26,Pendlingskommun nära mindre tätort,3802,2.99,0.72,"Jurister, socialsekreterare, kultur och media"
+26,Pendlingskommun nära storstad,15742,12.38,0.82,"Jurister, socialsekreterare, kultur och media"
+26,Pendlingskommun nära större stad,6877,5.41,0.8,"Jurister, socialsekreterare, kultur och media"
+26,Storstäder,49883,39.22,1.51,"Jurister, socialsekreterare, kultur och media"
+26,Större stad,32382,25.46,0.93,"Jurister, socialsekreterare, kultur och media"
+31,Landsbygdskommun,5613,3.64,1.03,"Ingenjörer, tekniker och arbetsledare"
+31,Landsbygdskommun med besöksnäring,2646,1.72,0.92,"Ingenjörer, tekniker och arbetsledare"
+31,Lågpendlingskommun nära större stad,7318,4.74,1.18,"Ingenjörer, tekniker och arbetsledare"
+31,Mindre stad/tätort,19786,12.83,1.24,"Ingenjörer, tekniker och arbetsledare"
+31,Pendlingskommun nära mindre tätort,7354,4.77,1.15,"Ingenjörer, tekniker och arbetsledare"
+31,Pendlingskommun nära storstad,22892,14.84,0.98,"Ingenjörer, tekniker och arbetsledare"
+31,Pendlingskommun nära större stad,10391,6.74,0.99,"Ingenjörer, tekniker och arbetsledare"
+31,Storstäder,34373,22.28,0.86,"Ingenjörer, tekniker och arbetsledare"
+31,Större stad,43884,28.45,1.04,"Ingenjörer, tekniker och arbetsledare"
+32,Landsbygdskommun,838,2.15,0.61,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Landsbygdskommun med besöksnäring,311,0.8,0.43,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Lågpendlingskommun nära större stad,1123,2.88,0.71,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Mindre stad/tätort,3613,9.27,0.89,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Pendlingskommun nära mindre tätort,942,2.42,0.58,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Pendlingskommun nära storstad,7899,20.26,1.34,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Pendlingskommun nära större stad,2052,5.26,0.77,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Storstäder,7042,18.06,0.7,"Biomedicinska analytiker, tandhygienister m.fl."
+32,Större stad,15167,38.9,1.42,"Biomedicinska analytiker, tandhygienister m.fl."
+33,Landsbygdskommun,8114,2.41,0.68,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Landsbygdskommun med besöksnäring,4138,1.23,0.66,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Lågpendlingskommun nära större stad,9051,2.68,0.66,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Mindre stad/tätort,28906,8.57,0.83,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Pendlingskommun nära mindre tätort,8468,2.51,0.6,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Pendlingskommun nära storstad,53506,15.86,1.05,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Pendlingskommun nära större stad,14880,4.41,0.65,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Storstäder,118846,35.23,1.36,"Säljare, redovisningsekonomer, handläggare, poliser"
+33,Större stad,91421,27.1,0.99,"Säljare, redovisningsekonomer, handläggare, poliser"
+34,Landsbygdskommun,2401,3.03,0.86,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Landsbygdskommun med besöksnäring,1301,1.64,0.88,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Lågpendlingskommun nära större stad,2915,3.68,0.91,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Mindre stad/tätort,7538,9.53,0.92,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Pendlingskommun nära mindre tätort,3348,4.23,1.02,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Pendlingskommun nära storstad,13112,16.57,1.1,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Pendlingskommun nära större stad,5692,7.19,1.06,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Storstäder,22030,27.85,1.07,"Behandlingsassistenter, fritidsledare, kreatörer"
+34,Större stad,20779,26.26,0.96,"Behandlingsassistenter, fritidsledare, kreatörer"
+35,Landsbygdskommun,995,1.82,0.52,IT-tekniker (drift och support)
+35,Landsbygdskommun med besöksnäring,534,0.98,0.52,IT-tekniker (drift och support)
+35,Lågpendlingskommun nära större stad,894,1.64,0.41,IT-tekniker (drift och support)
+35,Mindre stad/tätort,3866,7.07,0.68,IT-tekniker (drift och support)
+35,Pendlingskommun nära mindre tätort,984,1.8,0.43,IT-tekniker (drift och support)
+35,Pendlingskommun nära storstad,8596,15.73,1.04,IT-tekniker (drift och support)
+35,Pendlingskommun nära större stad,1978,3.62,0.53,IT-tekniker (drift och support)
+35,Storstäder,21801,39.89,1.54,IT-tekniker (drift och support)
+35,Större stad,15008,27.46,1.0,IT-tekniker (drift och support)
